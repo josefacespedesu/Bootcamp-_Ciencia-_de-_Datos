@@ -1,0 +1,14 @@
+﻿"Genero_persona (Masculino:0, Femenino:1)",Edad_persona,Ingreso_mensual,Region_residencia
+1,25.0,500000.0,Metropolitana
+0,40.0,800000.0,Valparaíso
+1,60.0,604285.7142857143,Metropolitana
+1,40.5,450000.0,Biobío
+0,35.0,600000.0,Coquimbo
+1,50.0,900000.0,Valparaíso
+0,45.0,750000.0,Metropolitana
+1,29.0,480000.0,Biobío
+1,70.0,300000.0,Coquimbo
+0,55.0,604285.7142857143,Metropolitana
+1,40.5,520000.0,Valparaíso
+1,33.0,610000.0,Biobío
+0,41.0,800000.0,Metropolitana
