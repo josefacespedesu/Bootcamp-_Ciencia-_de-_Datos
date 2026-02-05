@@ -1,0 +1,2266 @@
+﻿ID_Cliente,Fecha,Categoria,Monto,ID_Transaccion,Nombre,Edad,Ciudad,Cantidad_Compras,Monto_Total,Valor_Dolar
+394,2025-05-16,Electrónica,9693,1756,Vicente Flores,30.0,Santiago,2,12903,940.25
+287,2025-04-27,Belleza,10997,1282,Valentina González,39.0,Antofagasta,6,184961,
+76,2026-01-27,Alimentos,90194,351,Benjamín Pérez,43.0,Valparaíso,6,242674,
+92,2025-10-11,Electrónica,36177,421,Ignacio Torres,,Santiago,4,50116,
+13,2025-12-01,Juguetes,44409,57,Daniela Sepúlveda,40.0,Santiago,8,436526,928.16
+353,2025-10-27,Moda,37394,1557,Martina Flores,49.0,Antofagasta,4,96110,943.47
+190,2025-07-09,Deportes,11832,846,Mateo Martínez,35.0,Valparaíso,4,102301,945.39
+374,2026-01-05,Hogar,40083,1658,Josefa Céspedes,25.0,Santiago,5,293670,
+24,2025-09-02,Electrónica,6029,112,Antonia Sepúlveda,45.0,Concepción,4,73085,968.35
+467,2025-03-29,Electrónica,48655,2075,Valentina Silva,18.0,Rancagua,5,234537,
+436,2025-10-14,Juguetes,25822,1946,Camila Flores,33.0,Santiago,6,169964,957.66
+37,2025-10-19,Moda,10226,180,Gabriel Soto,43.0,Valparaíso,4,104219,
+120,2025-10-23,Moda,37937,533,Camila Céspedes,18.0,Santiago,2,40647,950.46
+172,2025-09-04,Hogar,8128,756,Sofía Silva,34.0,Concepción,9,167098,969.46
+351,2025-07-12,Moda,62654,1547,Tomás Flores,40.0,Santiago,8,244951,
+378,2025-12-18,Belleza,104625,1677,Daniela Martínez,23.0,Santiago,9,315431,917.45
+329,2025-04-09,Moda,23417,1456,Camila Torres,45.0,Temuco,8,243402,993.89
+415,2025-11-24,Alimentos,2629,1860,Ana Silva,18.0,Talca,5,32925,937.36
+77,2025-04-14,Electrónica,62982,355,Mateo Torres,36.0,Temuco,3,134992,978.09
+420,2025-07-24,Deportes,13300,1877,Tomás Silva,50.0,Valparaíso,2,35187,948.93
+365,2025-04-16,Moda,9529,1608,Camila Sepúlveda,22.0,Santiago,12,228862,967.15
+311,2025-07-26,Electrónica,12516,1387,Joaquín González,54.0,Santiago,7,170137,
+407,2025-10-26,Deportes,8966,1819,Pablo Pérez,18.0,Valparaíso,10,127768,
+333,2025-08-12,Alimentos,27279,1473,Mateo Soto,23.0,Santiago,6,254770,969.77
+229,2026-01-22,Hogar,33382,1042,Tomás Soto,59.0,Valparaíso,5,143760,
+390,2025-11-06,Juguetes,25818,1741,Valentina Rojas,30.0,Concepción,5,154388,945.6
+232,2025-03-25,Moda,8674,1058,Gabriel Pérez,53.0,Santiago,7,128605,926.41
+81,2025-05-03,Belleza,67288,369,Antonia Céspedes,42.0,Valparaíso,8,276772,
+263,2025-08-20,Deportes,27644,1180,Martina Flores,42.0,Santiago,6,74895,963.57
+275,2025-11-18,Alimentos,18510,1229,Pablo Sepúlveda,23.0,Santiago,5,97151,919.82
+22,2025-09-26,Hogar,11492,101,Josefa Muñoz,31.0,Santiago,3,45041,956.42
+439,2025-09-04,Alimentos,38532,1964,Sofía Soto,43.0,Temuco,9,210266,969.46
+359,2025-08-18,Hogar,143159,1581,Sofía Vergara,47.0,Santiago,7,452801,961.84
+54,2025-11-17,Alimentos,35914,252,Benjamín Díaz,39.0,Temuco,7,212648,932.63
+366,2025-09-11,Deportes,4494,1618,Tomás Vergara,46.0,TEMUCO,2,19209,962.73
+208,2025-05-12,Electrónica,44655,931,Catalina Silva,,La Serena,8,176337,933.26
+174,2025-12-21,Moda,46578,773,Daniela Céspedes,56.0,Concepción,9,218391,
+301,2026-01-19,Electrónica,4396,1350,Josefa González,43.0,La Serena,2,75536,
+123,2025-12-16,Moda,28603,545,Joaquín Muñoz,32.0,Talca,4,73665,912.03
+221,2025-08-08,Electrónica,9180,1006,Camila Céspedes,39.0,Valparaíso,4,115199,971.88
+483,2025-08-03,Moda,53077,2156,Martina Contreras,28.0,La Serena,3,63630,
+409,2025-10-01,Belleza,78189,1828,Antonia Pérez,120.0,Santiago,4,178955,962.39
+88,2025-12-18,Electrónica,8145,409,Mateo Céspedes,18.0,Santiago,5,101839,917.45
+172,2025-12-12,Belleza,1744,757,Sofía Silva,34.0,Concepción,9,167098,916.9
+365,2025-03-18,Moda,2354,1610,Camila Sepúlveda,22.0,Santiago,12,228862,923.32
+331,2025-07-24,Alimentos,26135,1467,Tomás Rojas,27.0,Concepción,3,137588,948.93
+392,2026-01-22,Belleza,1500,1749,Valentina Vergara,,Rancagua,5,125042,
+141,2025-03-21,Electrónica,14822,630,Catalina Vergara,25.0,La Serena,4,122536,926.15
+466,2025-05-18,Juguetes,60772,2072,Catalina Silva,,Valparaíso,6,191442,
+115,2025-04-24,Deportes,37890,508,Tomás Vergara,33.0,Santiago,2,60053,938.02
+21,2025-07-27,Belleza,29723,97,Tomás Pérez,39.0,Antofagasta,4,125113,
+389,2026-01-11,Alimentos,22950,1740,Gabriel González,41.0,Santiago,5,66038,
+372,2025-11-26,Electrónica,1500,1652,Joaquín Muñoz,68.0,Santiago,3,118400,937.15
+102,2025-03-08,Juguetes,40739,462,Valentina Martínez,52.0,La Serena,6,314147,
+396,2025-02-20,Belleza,15199,1764,Gabriel Silva,18.0,Temuco,6,165555,951.78
+339,2025-07-02,Belleza,25425,1495,Isidora González,18.0,Santiago,4,116915,926.62
+232,2025-08-19,Belleza,3403,1056,Gabriel Pérez,53.0,Santiago,7,128605,966.24
+133,2025-03-17,Belleza,24200,591,Sofía Soto,50.0,Santiago,2,40595,932.36
+306,2025-02-17,Deportes,127684,1369,Camila Martínez,31.0,Santiago,4,148466,939.54
+406,2025-04-03,Moda,35023,1799,Tomás Vergara,40.0,Concepción,13,379598,949.83
+245,2026-01-08,,16307,1114,Lucas Sepúlveda,29.0,VALPARAÍSO,2,26431,
+29,2025-03-31,Belleza,12583,135,Tomás Torres,39.0,La Serena,3,27943,946.1
+455,2025-04-04,Hogar,12204,2022,Vicente Martínez,32.0,Temuco,4,127201,946.59
+286,2025-07-26,,19512,1279,Antonia Silva,25.0,Santiago,3,88755,
+414,2025-08-31,Electrónica,6459,1850,Camila Flores,,Talca  ,10,259794,
+107,2025-10-16,Moda,12759,486,Fernanda Díaz,18.0,Antofagasta,3,75888,959.36
+439,2025-04-05,Electrónica,44911,1968,Sofía Soto,43.0,Temuco,9,210266,
+73,2025-03-04,Electrónica,44402,343,Benjamín Rojas,43.0,Valparaíso,7,379422,953.11
+245,2025-04-26,Juguetes,9129,1113,Lucas Sepúlveda,29.0,VALPARAÍSO,2,26431,
+486,2025-08-21,Alimentos,12100,2167,Isidora Vergara,34.0,Temuco,3,42207,965.06
+493,2025-09-14,Electrónica,77112,2197,Fernanda Muñoz,39.0,Antofagasta,3,203724,
+229,2025-05-22,Deportes,7174,1044,Tomás Soto,59.0,Valparaíso,5,143760,942.21
+487,2025-03-23,Electrónica,118278,2172,Mateo Silva,,Santiago  ,5,557911,
+169,2025-06-28,Moda,20811,742,Mateo Torres,50.0,Santiago,2,39306,
+81,2025-02-25,Moda,85605,368,Antonia Céspedes,42.0,Valparaíso,8,276772,946.96
+316,2025-04-18,Moda,21027,1403,Joaquín Sepúlveda,18.0,Temuco,4,102841,
+52,2025-11-18,Deportes,123404,248,Valentina Pérez,31.0,Santiago,4,362249,919.82
+143,2025-10-01,Hogar,12410,637,Martina Sepúlveda,45.0,Santiago,4,122993,962.39
+389,2025-02-09,Belleza,9917,1739,Gabriel González,41.0,Santiago,5,66038,
+101,2025-09-24,Deportes,32440,458,Ignacio Silva,40.0,Valparaíso  ,5,84892,952.87
+365,2025-05-10,Electrónica,28197,1611,Camila Sepúlveda,22.0,Santiago,12,228862,
+44,2025-06-14,Moda,6955,212,Josefa Muñoz,20.0,,2,44357,
+289,2025-04-10,Belleza,8813,1299,Tomás Contreras,27.0,Antofagasta,8,376090,1000.01
+281,2025-10-14,Hogar,24175,1252,Martina Torres,18.0,,6,227927,957.66
+67,2025-08-17,Hogar,15929,322,Antonia Rojas,41.0,La Serena,3,29806,
+275,2025-11-25,Alimentos,32572,1230,Pablo Sepúlveda,23.0,Santiago,5,97151,939.57
+208,2025-12-19,Electrónica,4278,927,Catalina Silva,,La Serena,8,176337,914.99
+64,2025-11-14,Moda,16062,308,Catalina Muñoz,49.0,Concepción,6,96146,925.63
+184,2025-11-20,Hogar,12066,820,Joaquín Flores,37.0,Valparaíso  ,6,133934,931.36
+418,2025-11-18,Deportes,22043,1873,Camila Martínez,18.0,Santiago,6,100695,919.82
+293,2025-10-28,Juguetes,7232,1318,Catalina Martínez,29.0,SANTIAGO,6,79282,938.19
+244,2025-09-23,Hogar,7045,1107,Lucas Rojas,46.0,Santiago,7,49886,954.72
+10,2025-03-02,Alimentos,171120,45,Sofía Rojas,48.0,Santiago,8,1333744,
+457,2025-04-13,Moda,3757,2031,Camila Pérez,52.0,La Serena,2,12377,
+51,2025-07-29,Deportes,6036,241,Fernanda Sepúlveda,32.0,Valparaíso,6,65689,969.75
+365,2025-07-11,Belleza,55350,1606,Camila Sepúlveda,22.0,Santiago,12,228862,950.43
+408,2025-12-05,Moda,51929,1825,Camila Muñoz,35.0,Santiago,6,213680,918.15
+318,2025-03-28,Juguetes,18826,1411,Daniela Céspedes,36.0,Valparaíso,3,79499,931.75
+267,2025-12-30,Moda,5898,1195,Pablo Silva,36.0,Santiago,4,58791,911.18
+414,2025-06-24,Juguetes,1500,1857,Camila Flores,,Talca  ,10,259794,950.16
+136,2025-03-24,Moda,17764,603,Mateo Vergara,42.0,Santiago,3,95853,932.14
+434,2025-12-13,Moda,13769,1938,Camila Vergara,49.0,La Serena,2,55146,
+500,2025-02-25,,1502,2219,Pablo Contreras,20.0,Santiago,4,42341,946.96
+448,2025-06-12,Electrónica,26742,2004,Catalina Céspedes,51.0,Antofagasta,5,186536,936.36
+400,2025-05-29,Deportes,61250,1781,Mateo Silva,21.0,Valparaíso,4,121404,940.21
+93,2025-03-01,Alimentos,3580,427,Ignacio Rojas,40.0,Santiago,5,86792,
+15,2025-05-10,Juguetes,22829,71,Daniela Flores,18.0,Santiago,2,52368,
+452,2026-01-16,Hogar,94916,2016,Antonia Díaz,47.0,Santiago,2,100437,
+209,2025-10-07,Hogar,5414,933,Martina Soto,18.0,Santiago  ,10,82407,963.09
+212,2025-07-03,Hogar,3725,953,Daniela Contreras,39.0,Concepción,6,109197,926.51
+81,2026-01-19,Electrónica,38499,367,Antonia Céspedes,42.0,Valparaíso,8,276772,
+490,2025-05-15,Electrónica,7523,2186,Lucas Sepúlveda,63.0,Antofagasta,7,163898,939.43
+116,2025-07-04,Belleza,54383,510,Vicente Silva,40.0,La Serena,7,224345,927.87
+94,2025-09-22,Alimentos,19118,431,Josefa Flores,33.0,Concepción,2,68599,951.03
+464,2025-05-04,Deportes,64291,2055,Pablo Rojas,32.0,SANTIAGO,10,401861,
+407,2025-05-29,Belleza,5626,1812,Pablo Pérez,18.0,Valparaíso,10,127768,940.21
+40,2025-05-02,Deportes,5116,189,Lucas González,43.0,Antofagasta,7,242135,955.67
+236,2025-04-11,Electrónica,32233,1072,Daniela Vergara,40.0,Concepción,3,66299,988.97
+369,2025-04-15,Belleza,9318,1640,Ana Soto,57.0,Santiago,12,131047,966.07
+218,2025-09-18,Juguetes,31718,994,Sofía Soto,35.0,Santiago,5,166427,
+135,2025-06-24,Belleza,20062,597,Fernanda Muñoz,42.0,Santiago,4,59481,950.16
+320,2025-05-27,Deportes,31043,1420,Fernanda Flores,19.0,Santiago  ,7,148631,938.28
+119,2025-06-18,Juguetes,8209,531,Isidora González,30.0,Santiago,5,112218,939.29
+7,2025-08-10,Juguetes,11261,30,Sofía Contreras,42.0,Santiago,6,83749,
+41,2025-06-21,Juguetes,25299,197,Valentina Vergara,31.0,Talca,4,106925,
+142,2025-04-14,Alimentos,99808,633,Isidora Torres,51.0,Antofagasta,5,347936,978.09
+177,2025-10-25,Juguetes,12877,789,Daniela Silva,28.0,Temuco,8,237786,
+226,2025-05-08,Electrónica,27295,1030,Mateo Céspedes,32.0,Santiago,8,160620,945.44
+184,2025-12-21,Alimentos,2616,817,Joaquín Flores,37.0,Valparaíso  ,6,133934,
+310,2026-01-22,Moda,1500,1380,Camila Flores,28.0,Talca  ,4,27904,
+12,2025-02-20,Hogar,7357,52,Catalina Martínez,18.0,Antofagasta,6,121573,951.78
+235,2025-02-05,Electrónica,49302,1069,Benjamín Muñoz,29.0,Santiago,3,91475,977.58
+252,2025-05-26,Belleza,4700,1132,Benjamín Muñoz,21.0,Santiago,3,49867,940.81
+468,2025-02-28,Belleza,37215,2085,Vicente Díaz,38.0,Santiago,9,631306,951.21
+54,2025-03-12,Juguetes,32067,255,Benjamín Díaz,39.0,Temuco,7,212648,937.45
+289,2025-07-22,Moda,77874,1293,Tomás Contreras,27.0,Antofagasta,8,376090,956.65
+428,2025-06-19,Electrónica,3167,1917,Ignacio Díaz,18.0,Antofagasta,4,50262,943.36
+410,2025-02-11,Alimentos,3591,1832,Ana Céspedes,42.0,Santiago,3,82997,960.81
+377,2025-06-25,Hogar,3812,1676,Daniela Contreras,29.0,Santiago,7,101601,937.89
+253,2025-05-17,Juguetes,78807,1136,Valentina Céspedes,51.0,Santiago,6,225366,
+429,2025-06-07,Hogar,29288,1923,Ana Pérez,57.0,Concepción,5,172902,
+350,2025-12-11,Belleza,9724,1544,Valentina Silva,33.0,Rancagua,3,74270,923.99
+416,2025-11-01,Alimentos,20727,1866,Joaquín Soto,31.0,Rancagua,6,291890,
+151,2025-06-26,Alimentos,12180,673,Gabriel Soto,31.0,Santiago,5,189609,936.29
+448,2025-03-06,Belleza,86658,2002,Catalina Céspedes,51.0,Antofagasta,5,186536,936.7
+116,2026-01-04,Electrónica,80492,515,Vicente Silva,40.0,La Serena,7,224345,
+460,2025-06-08,Alimentos,80722,2043,Camila Pérez,45.0,Valparaíso,3,177915,
+62,2025-12-22,Moda,1500,299,Daniela González,35.0,Santiago,8,111464,909.9
+244,2025-08-01,Belleza,5734,1112,Lucas Rojas,46.0,Santiago,7,49886,976.8
+209,2025-03-17,Electrónica,3382,938,Martina Soto,18.0,Santiago  ,10,82407,932.36
+61,2025-07-31,Alimentos,30109,291,Antonia Contreras,35.0,Santiago,5,172945,978.07
+346,2025-12-09,Juguetes,4742,1524,Martina González,27.0,Temuco,2,40441,920.02
+15,2025-06-27,Belleza,26491,70,Daniela Flores,18.0,Santiago,2,52368,930.67
+406,2025-12-31,Belleza,5308,1802,Tomás Vergara,40.0,Concepción,13,379598,
+479,2025-12-26,Electrónica,78222,2138,Joaquín Díaz,38.0,Valparaíso,7,183710,905.04
+357,2025-05-06,Deportes,11506,1575,Valentina Rojas,18.0,La Serena,2,60785,940.18
+472,2025-12-07,Belleza,1500,2098,Ignacio Pérez,20.0,Santiago,4,135198,
+87,2025-12-02,Hogar,111616,403,Sofía Vergara,,Santiago,7,451909,927.95
+102,2025-04-11,Belleza,18305,465,Valentina Martínez,52.0,La Serena,6,314147,988.97
+388,2025-08-19,Electrónica,7548,1729,Ignacio Muñoz,58.0,Santiago,7,71668,966.24
+282,2026-01-20,Belleza,29853,1262,Benjamín Silva,33.0,Temuco,6,93747,
+119,2025-12-13,Alimentos,31539,528,Isidora González,30.0,Santiago,5,112218,
+237,2025-12-18,Alimentos,28284,1076,Joaquín Martínez,34.0,Santiago,5,126680,917.45
+464,2025-11-25,Deportes,30432,2061,Pablo Rojas,32.0,SANTIAGO,10,401861,939.57
+146,2025-03-31,Deportes,45181,648,Gabriel Díaz,21.0,Antofagasta,7,146872,946.1
+329,2025-06-26,Moda,1500,1457,Camila Torres,45.0,Temuco,8,243402,936.29
+119,2025-07-11,Juguetes,25442,530,Isidora González,30.0,Santiago,5,112218,950.43
+410,2025-09-13,Electrónica,62142,1833,Ana Céspedes,42.0,Santiago,3,82997,
+18,2025-06-14,Moda,17148,85,Camila González,39.0,LA SERENA,5,47001,
+489,2025-03-21,Belleza,3858,2181,Fernanda Rojas,34.0,Santiago,10,136926,926.15
+373,2025-12-03,Alimentos,569160,1653,Pablo Céspedes,32.0,,1,18175,925.37
+16,2025-08-25,Deportes,7002,74,Fernanda Céspedes,38.0,Santiago,4,295672,964.15
+24,2025-10-25,Belleza,13056,110,Antonia Sepúlveda,45.0,Concepción,4,73085,
+435,2025-12-25,Moda,2734,1942,Pablo Soto,31.0,La Serena,5,12466,
+280,2025-02-11,Hogar,19802,1249,Sofía Sepúlveda,30.0,,3,72129,960.81
+377,2025-05-14,Juguetes,27414,1670,Daniela Contreras,29.0,Santiago,7,101601,940.18
+487,2025-12-11,Hogar,193015,2168,Mateo Silva,,Santiago  ,5,557911,923.99
+60,2025-10-15,Juguetes,43567,283,Joaquín Sepúlveda,18.0,Valparaíso,6,237199,963.69
+11,2025-07-13,Hogar,55221,49,Tomás Flores,,Santiago,5,150627,
+239,2025-06-28,Belleza,15997,1085,Mateo Martínez,27.0,Santiago,7,68480,
+330,2026-01-20,Belleza,10080,1464,Vicente González,18.0,Santiago,2,51686,
+272,2025-05-27,Moda,187170,1217,Ana Flores,42.0,Valparaíso,8,469265,938.28
+470,2025-04-02,Alimentos,12652,2095,Antonia González,30.0,Santiago,5,136103,946.28
+207,2025-09-04,Electrónica,23269,924,Fernanda González,23.0,Antofagasta,6,158417,969.46
+209,2025-03-17,Electrónica,3382,938,Martina Soto,18.0,Santiago  ,10,82407,932.36
+430,2025-10-01,Deportes,9711,1925,Daniela Silva,42.0,La Serena,2,37400,962.39
+492,2025-05-02,Belleza,101532,2196,Gabriel Contreras,56.0,LA SERENA,5,198661,955.67
+231,2025-09-18,Electrónica,20138,1051,Benjamín Martínez,24.0,Santiago,6,125732,
+302,2025-02-07,Belleza,53550,1352,Ignacio Díaz,43.0,Santiago,8,248894,967.59
+219,2025-05-06,Moda,77033,998,Pablo Rojas,18.0,Concepción,5,110395,940.18
+376,2026-01-23,Juguetes,20701,1669,Sofía Contreras,40.0,Temuco,6,88284,
+55,2025-11-10,Alimentos,20732,260,Benjamín Flores,,Santiago,6,180447,946.24
+239,2025-09-06,Alimentos,13727,1088,Mateo Martínez,27.0,Santiago,7,68480,
+216,2025-10-15,Moda,12989,977,Martina Sepúlveda,25.0,Santiago,9,68242,963.69
+364,2025-06-09,Deportes,8367,1605,Gabriel Martínez,18.0,Valparaíso,6,75876,933.91
+258,2025-07-19,Deportes,101856,1160,Camila Pérez,24.0,TEMUCO,2,126245,
+277,2025-12-10,Deportes,18240,1238,Benjamín Pérez,,Concepción,5,118679,926.89
+336,2025-07-08,Belleza,2891,1484,Ignacio Martínez,42.0,Valparaíso  ,8,162645,940.28
+173,2025-12-27,Alimentos,26422,765,Fernanda Silva,35.0,Talca,4,98255,
+5,2025-04-06,Deportes,50170,19,Pablo Rojas,34.0,Valparaíso,3,144745,
+439,2025-06-05,Hogar,4284,1966,Sofía Soto,43.0,Temuco,9,210266,936.89
+401,2025-04-28,Deportes,26709,1784,Catalina González,51.0,Valparaíso,2,140396,936.74
+468,2025-05-02,Hogar,90989,2087,Vicente Díaz,38.0,Santiago,9,631306,955.67
+289,2025-08-19,Hogar,30966,1300,Tomás Contreras,27.0,Antofagasta,8,376090,966.24
+403,2025-05-13,Belleza,27940,1790,Mateo Rojas,150.0,Santiago,1,29963,941.2
+14,2025-10-15,Juguetes,1893,68,Fernanda Sepúlveda,41.0,Santiago,5,41234,963.69
+489,2025-03-11,,1500,2174,Fernanda Rojas,34.0,Santiago,10,136926,931.13
+204,2026-01-03,Deportes,7426,901,Joaquín Muñoz,21.0,Temuco,6,90057,
+226,2025-09-27,Moda,3504,1024,Mateo Céspedes,32.0,Santiago,8,160620,
+139,2025-12-03,Deportes,8704,618,Mateo Sepúlveda,43.0,La Serena,5,63124,925.37
+278,2025-07-20,Alimentos,1500,1243,Fernanda Céspedes,48.0,Santiago,4,38836,
+151,2025-02-26,Alimentos,34718,669,Gabriel Soto,31.0,Santiago,5,189609,940.99
+287,2025-04-04,Electrónica,16110,1286,Valentina González,39.0,Antofagasta,6,184961,946.59
+35,2025-11-10,,2931,169,Gabriel Silva,26.0,Santiago,7,100129,946.24
+382,2025-02-12,Belleza,16649,1704,Antonia Sepúlveda,46.0,CONCEPCIÓN,4,74619,961.89
+138,2025-11-02,Belleza,65278,611,Ana Díaz,22.0,LA SERENA,6,143559,
+243,2025-04-10,Juguetes,24597,1101,Sofía Silva,39.0,ANTOFAGASTA,6,237596,1000.01
+168,2025-12-07,Moda,27002,737,Valentina Torres,33.0,Talca,7,155662,
+404,2025-05-01,Electrónica,19606,1791,Catalina Torres,18.0,Valparaíso,4,114966,
+189,2025-06-22,Moda,43539,841,Isidora Soto,36.0,La Serena,4,65099,
+183,2025-07-28,Electrónica,15600,813,Benjamín Flores,47.0,Santiago,4,99309,957.82
+361,2025-05-19,Belleza,11866,1591,Ignacio Flores,18.0,La Serena,5,80603,944.46
+139,2025-03-04,Hogar,17641,619,Mateo Sepúlveda,43.0,La Serena,5,63124,953.11
+159,2025-09-01,Belleza,1500,701,Tomás Céspedes,32.0,Concepción,6,109010,965.28
+210,2025-04-29,Moda,2746,943,Fernanda Soto,26.0,VALPARAÍSO,3,133985,937.54
+303,2025-10-30,Juguetes,84694,1360,Ana Contreras,42.0,Temuco,2,140864,940.57
+413,2025-02-15,Electrónica,38509,1847,Martina Pérez,53.0,Temuco,3,91682,
+345,2026-01-14,Electrónica,4276,1522,Antonia González,45.0,Santiago,3,87161,
+171,2025-05-16,Deportes,10892,753,Camila Flores,35.0,Santiago,7,117552,940.25
+220,2025-06-27,Juguetes,33253,1002,Antonia Silva,31.0,Rancagua,5,65478,930.67
+431,2025-07-22,Juguetes,22112,1929,Sofía Contreras,33.0,Santiago  ,5,144048,956.65
+421,2025-04-23,Hogar,11399,1884,Antonia Torres,22.0,Santiago,6,108194,950.04
+375,2025-02-26,Deportes,15081,1659,Gabriel Vergara,40.0,La Serena,5,180519,940.99
+381,2025-06-04,Deportes,102744,1698,Ana Céspedes,26.0,Santiago,9,445915,941.53
+209,2025-03-20,Alimentos,1500,942,Martina Soto,18.0,Santiago  ,10,82407,917.76
+157,2026-01-11,Belleza,35672,694,Camila Martínez,32.0,Antofagasta,6,149525,
+351,2025-12-24,Electrónica,10569,1546,Tomás Flores,40.0,Santiago,8,244951,906.44
+47,2025-08-13,Belleza,1500,219,Pablo Soto,18.0,SANTIAGO,9,66194,962.28
+216,2026-01-11,Electrónica,2657,982,Martina Sepúlveda,25.0,Santiago,9,68242,
+200,2025-05-07,Deportes,7565,880,Catalina Céspedes,64.0,Santiago,4,42180,939.67
+49,2025-12-13,Moda,11113,232,Joaquín Contreras,23.0,La Serena,5,250520,
+226,2025-09-29,Moda,11348,1028,Mateo Céspedes,32.0,Santiago,8,160620,958.9
+29,2025-03-26,Moda,5572,136,Tomás Torres,39.0,La Serena,3,27943,919.92
+7,2025-03-24,Electrónica,1500,26,Sofía Contreras,42.0,Santiago,6,83749,932.14
+320,2025-12-16,,6662,1425,Fernanda Flores,19.0,Santiago  ,7,148631,912.03
+169,2025-10-03,Deportes,21866,743,Mateo Torres,50.0,Santiago,2,39306,961.54
+383,2025-02-28,Alimentos,1500,1709,Antonia Soto,34.0,Temuco,7,185769,951.21
+427,2026-01-24,Electrónica,32671,1908,Gabriel Contreras,41.0,Santiago,8,309457,
+142,2026-01-13,Belleza,52471,631,Isidora Torres,51.0,Antofagasta,5,347936,
+63,2025-09-28,Alimentos,14929,304,Josefa Soto,48.0,,8,403211,
+305,2025-06-17,Belleza,19059,1367,Tomás Martínez,52.0,Santiago,1,21096,935.21
+71,2025-02-05,Belleza,34226,333,Fernanda Flores,28.0,Santiago,2,58250,977.58
+87,2025-08-30,Moda,118719,407,Sofía Vergara,,Santiago,7,451909,
+40,2025-09-06,Moda,29558,193,Lucas González,43.0,Antofagasta,7,242135,
+214,2025-06-26,Deportes,37021,964,Pablo Martínez,19.0,Temuco,5,156582,936.29
+205,2026-01-14,Belleza,54561,908,Benjamín Céspedes,18.0,Santiago,10,261664,
+107,2025-11-13,Hogar,18814,487,Fernanda Díaz,18.0,Antofagasta,3,75888,932.37
+273,2025-10-06,Belleza,18368,1222,Valentina González,54.0,Concepción,5,129998,963.17
+126,2025-05-06,Deportes,53411,562,Vicente Rojas,45.0,Santiago,5,235402,940.18
+28,2025-05-02,Belleza,18956,129,Ignacio Muñoz,34.0,Talca,7,220161,955.67
+210,2025-02-06,Electrónica,120235,945,Fernanda Soto,26.0,VALPARAÍSO,3,133985,969.47
+49,2025-02-06,Belleza,164368,234,Joaquín Contreras,23.0,La Serena,5,250520,969.47
+386,2026-01-09,Hogar,7181,1721,Camila Martínez,19.0,Santiago,7,157740,
+228,2025-04-03,Deportes,25916,1035,Vicente Céspedes,58.0,Santiago,6,438418,949.83
+97,2025-03-08,Moda,24886,439,Isidora Silva,49.0,Concepción,5,88173,
+435,2025-08-11,Hogar,1614,1944,Pablo Soto,31.0,La Serena,5,12466,965.64
+98,2025-08-24,Juguetes,61706,446,Joaquín Martínez,27.0,Concepción,5,203985,
+300,2025-03-21,Moda,10667,1348,Ana Soto,25.0,Concepción,3,25619,926.15
+39,2025-05-06,Hogar,37720,185,Martina Contreras,39.0,SANTIAGO,4,166486,940.18
+475,2025-10-09,Hogar,3182,2113,Lucas Muñoz,39.0,Santiago,4,60337,951.45
+293,2025-06-21,Juguetes,10317,1319,Catalina Martínez,29.0,SANTIAGO,6,79282,
+61,2026-01-21,Electrónica,7801,290,Antonia Contreras,35.0,Santiago,5,172945,
+146,2025-05-06,Deportes,19890,650,Gabriel Díaz,21.0,Antofagasta,7,146872,940.18
+106,2025-03-27,Moda,51722,480,Fernanda Contreras,32.0,La Serena,6,174363,920.98
+441,2025-09-02,Juguetes,100088,1975,Catalina Vergara,43.0,Santiago,5,157918,968.35
+104,2025-03-07,Hogar,1500,473,Ana Céspedes,33.0,La Serena,3,104280,926.52
+119,2025-06-24,Electrónica,18860,529,Isidora González,30.0,Santiago,5,112218,950.16
+184,2025-12-19,Moda,6323,818,Joaquín Flores,37.0,Valparaíso  ,6,133934,914.99
+291,2025-07-16,Belleza,8981,1303,Ignacio Céspedes,35.0,Santiago,6,69563,
+409,2026-02-01,Hogar,23601,1829,Antonia Pérez,120.0,Santiago,4,178955,
+174,2026-01-18,Electrónica,22922,768,Daniela Céspedes,56.0,Concepción,9,218391,
+342,2026-01-01,Belleza,44748,1509,Martina Vergara,,Antofagasta,5,189888,
+83,2025-04-09,Hogar,7752,384,Valentina Céspedes,40.0,Santiago,8,184300,993.89
+337,2025-03-27,Hogar,163932,1488,Catalina Sepúlveda,44.0,La Serena,2,188274,920.98
+411,2025-09-14,Alimentos,13813,1836,Valentina Martínez,37.0,La Serena,5,46998,
+321,2025-09-30,Moda,1500,1427,Mateo González,35.0,Santiago,3,35420,961.24
+244,2025-04-13,Moda,8371,1111,Lucas Rojas,46.0,Santiago,7,49886,
+182,2025-05-10,Alimentos,44551,811,Valentina Céspedes,47.0,Santiago,7,200149,
+340,2025-06-24,Electrónica,6413,1503,Catalina Torres,23.0,Valparaíso,6,92219,950.16
+95,2025-06-14,Deportes,22005,433,Gabriel Díaz,52.0,Santiago,4,122811,
+177,2026-01-06,Juguetes,12440,786,Daniela Silva,28.0,Temuco,8,237786,
+125,2025-04-13,Belleza,7095,555,Gabriel Silva,35.0,Talca  ,5,48915,
+306,2025-11-13,Moda,2111,1371,Camila Martínez,31.0,Santiago,4,148466,932.37
+195,2025-05-04,Deportes,2157,863,Catalina Céspedes,31.0,Temuco,5,219831,
+390,2025-10-11,Juguetes,10813,1742,Valentina Rojas,30.0,Concepción,5,154388,
+230,2025-06-06,Hogar,31828,1045,Valentina Vergara,20.0,Valparaíso,2,63224,930.79
+216,2025-09-25,Deportes,4552,979,Martina Sepúlveda,25.0,Santiago,9,68242,953.24
+35,2025-06-25,Electrónica,31479,175,Gabriel Silva,26.0,Santiago,7,100129,937.89
+163,2025-10-23,Moda,57612,716,Pablo González,18.0,Santiago,3,83855,950.46
+26,2025-12-18,Moda,8530,121,Lucas Díaz,57.0,Santiago,2,104732,917.45
+448,2025-04-09,Alimentos,32363,2005,Catalina Céspedes,51.0,Antofagasta,5,186536,993.89
+195,2026-01-30,Belleza,1748,862,Catalina Céspedes,31.0,Temuco,5,219831,
+281,2025-04-24,Alimentos,13125,1256,Martina Torres,18.0,,6,227927,938.02
+268,2025-09-02,Belleza,24507,1199,Mateo Soto,39.0,Santiago,6,72511,968.35
+97,2026-01-15,Juguetes,13586,441,Isidora Silva,49.0,Concepción,5,88173,
+58,2025-02-12,Alimentos,1625,276,Valentina Torres,18.0,VALPARAÍSO,3,237942,961.89
+412,2025-09-02,Deportes,3642,1840,Isidora Muñoz,38.0,Temuco,5,64407,968.35
+446,2025-08-19,Hogar,9837,1995,Joaquín Céspedes,18.0,Santiago,4,26506,966.24
+172,2025-12-25,Belleza,4878,760,Sofía Silva,34.0,Concepción,9,167098,
+92,2025-12-14,Electrónica,1500,423,Ignacio Torres,,Santiago,4,50116,
+127,2025-11-17,Belleza,19363,565,Sofía Díaz,37.0,Antofagasta,3,167258,932.63
+131,2026-01-16,Electrónica,25174,583,Vicente Martínez,41.0,Temuco,6,117542,
+342,2026-01-01,Belleza,44748,1509,Martina Vergara,,Antofagasta,5,189888,
+489,2025-08-24,Moda,5959,2178,Fernanda Rojas,34.0,Santiago,10,136926,
+302,2025-10-15,Deportes,3860,1356,Ignacio Díaz,43.0,Santiago,8,248894,963.69
+24,2025-09-02,Electrónica,6029,112,Antonia Sepúlveda,45.0,Concepción,4,73085,968.35
+218,2025-11-12,Belleza,25287,991,Sofía Soto,35.0,Santiago,5,166427,936.89
+88,2025-06-16,Electrónica,41596,411,Mateo Céspedes,18.0,Santiago,5,101839,937.78
+34,2025-05-27,Hogar,19845,164,Vicente Rojas,34.0,Concepción,5,152189,938.28
+297,2026-02-01,Electrónica,36910,1334,Ignacio Flores,30.0,Santiago,4,97618,
+274,2025-12-21,Deportes,73011,1227,Catalina Martínez,50.0,Antofagasta,3,157012,
+123,2025-10-16,Juguetes,23461,544,Joaquín Muñoz,32.0,Talca,4,73665,959.36
+205,2025-02-11,Hogar,2115,916,Benjamín Céspedes,18.0,Santiago,10,261664,960.81
+366,2025-04-08,Belleza,12656,1619,Tomás Vergara,46.0,TEMUCO,2,19209,990.68
+298,2025-10-14,Deportes,9812,1339,Pablo Soto,34.0,Santiago,5,60240,957.66
+388,2025-08-06,Moda,1500,1733,Ignacio Muñoz,58.0,Santiago,7,71668,966.02
+411,2025-04-24,Moda,1500,1837,Valentina Martínez,37.0,La Serena,5,46998,938.02
+239,2025-03-10,Alimentos,10633,1086,Mateo Martínez,27.0,Santiago,7,68480,928.25
+49,2025-07-02,Juguetes,39756,231,Joaquín Contreras,23.0,La Serena,5,250520,926.62
+273,2025-07-08,Moda,25229,1221,Valentina González,54.0,Concepción,5,129998,940.28
+95,2026-01-13,Electrónica,1653,434,Gabriel Díaz,52.0,Santiago,4,122811,
+298,2025-12-16,Moda,6051,1335,Pablo Soto,34.0,Santiago,5,60240,912.03
+197,2025-03-16,Moda,8493,870,Mateo Martínez,18.0,La Serena,7,245646,
+423,2025-08-21,Juguetes,20439,1888,Fernanda Soto,24.0,Concepción,7,466236,965.06
+68,2025-12-20,Electrónica,31758,325,Josefa Rojas,29.0,Santiago,1,29823,
+355,2025-11-16,Electrónica,9549,1568,Catalina Díaz,28.0,Santiago,6,382724,
+378,2025-05-16,Electrónica,2895,1681,Daniela Martínez,23.0,Santiago,9,315431,940.25
+276,2025-07-16,Deportes,3783,1233,Benjamín Flores,55.0,Antofagasta,4,109601,
+104,2025-10-13,,54416,472,Ana Céspedes,33.0,La Serena,3,104280,954.37
+62,2025-12-13,Hogar,1704,298,Daniela González,35.0,Santiago,8,111464,
+89,2026-01-20,Electrónica,81715,415,Fernanda Sepúlveda,53.0,Santiago,2,108350,
+51,2025-06-12,,13029,240,Fernanda Sepúlveda,32.0,Valparaíso,6,65689,936.36
+22,2026-01-31,Moda,14256,100,Josefa Muñoz,31.0,Santiago,3,45041,
+480,2025-04-02,Moda,68941,2144,Camila Contreras,63.0,Santiago,8,596687,946.28
+60,2025-09-07,Moda,70808,282,Joaquín Sepúlveda,18.0,Valparaíso,6,237199,
+217,2025-09-08,Deportes,43353,987,Sofía Contreras,43.0,VALPARAÍSO,4,121409,964.58
+124,2025-08-15,Juguetes,26670,553,Benjamín Pérez,28.0,Valparaíso,7,297134,
+364,2025-02-28,Belleza,23603,1603,Gabriel Martínez,18.0,Valparaíso,6,75876,951.21
+311,2026-01-15,Moda,65719,1384,Joaquín González,54.0,Santiago,7,170137,
+217,2026-01-17,Alimentos,45855,989,Sofía Contreras,43.0,VALPARAÍSO,4,121409,
+374,2026-01-23,Electrónica,88628,1654,Josefa Céspedes,25.0,Santiago,5,293670,
+188,2025-11-13,Moda,137795,839,Josefa Silva,43.0,Rancagua,3,388775,932.37
+27,2026-01-07,Electrónica,74473,125,Pablo Torres,51.0,Rancagua,5,219889,
+434,2025-07-13,Hogar,37648,1939,Camila Vergara,49.0,La Serena,2,55146,
+39,2025-05-07,Juguetes,10743,186,Martina Contreras,39.0,SANTIAGO,4,166486,939.67
+336,2026-01-12,Hogar,3478,1487,Ignacio Martínez,42.0,Valparaíso  ,8,162645,
+302,2025-07-01,Hogar,16742,1357,Ignacio Díaz,43.0,Santiago,8,248894,933.42
+331,2025-09-20,Moda,87720,1466,Tomás Rojas,27.0,Concepción,3,137588,
+135,2025-06-08,Hogar,3443,600,Fernanda Muñoz,42.0,Santiago,4,59481,
+14,2025-07-17,,14736,66,Fernanda Sepúlveda,41.0,Santiago,5,41234,965.65
+262,2025-10-29,Hogar,20765,1176,Valentina Contreras,42.0,Santiago,4,56017,941.63
+77,2025-08-27,Hogar,15263,354,Mateo Torres,36.0,Temuco,3,134992,965.01
+117,2025-06-23,Deportes,7722,523,Ana Rojas,36.0,La Serena,8,136387,947.03
+473,2025-08-25,Hogar,13725,2105,Pablo Soto,48.0,Santiago,6,140937,964.15
+338,2025-04-12,Juguetes,1500,1490,Mateo Muñoz,32.0,Talca,5,81453,
+377,2026-01-11,Hogar,13815,1672,Daniela Contreras,29.0,Santiago,7,101601,
+243,2025-03-21,Electrónica,21209,1103,Sofía Silva,39.0,ANTOFAGASTA,6,237596,926.15
+11,2025-05-14,Moda,42451,50,Tomás Flores,,Santiago,5,150627,940.18
+215,2025-06-16,Alimentos,13755,974,Daniela Torres,45.0,La Serena,8,126845,937.78
+371,2025-03-17,Moda,4927,1647,Mateo Soto,43.0,La Serena,3,33052,932.36
+347,2025-04-10,Electrónica,38567,1526,Catalina Muñoz,40.0,Santiago,7,271177,1000.01
+47,2025-03-19,Hogar,18984,220,Pablo Soto,18.0,SANTIAGO,9,66194,917.97
+439,2026-01-04,Deportes,37183,1967,Sofía Soto,43.0,Temuco,9,210266,
+170,2026-01-06,Juguetes,59103,747,Ana Céspedes,36.0,SANTIAGO,4,185450,
+6,2025-10-08,Hogar,8099,24,Gabriel Soto,38.0,Antofagasta,4,106510,961.61
+263,2025-07-12,Moda,27518,1178,Martina Flores,42.0,Santiago,6,74895,
+44,2026-01-24,Deportes,37245,213,Josefa Muñoz,20.0,,2,44357,
+396,2025-04-05,Electrónica,30414,1761,Gabriel Silva,18.0,Temuco,6,165555,
+482,2025-11-05,Juguetes,7276,2150,Ignacio Vergara,31.0,Antofagasta,5,90638,945.13
+310,2025-08-16,Belleza,12777,1381,Camila Flores,28.0,Talca  ,4,27904,
+106,2025-08-20,Moda,94411,479,Fernanda Contreras,32.0,La Serena,6,174363,963.57
+486,2025-10-05,Moda,29920,2166,Isidora Vergara,34.0,Temuco,3,42207,
+311,2025-09-23,Hogar,11656,1388,Joaquín González,54.0,Santiago,7,170137,954.72
+391,2025-02-23,Juguetes,12977,1747,Daniela Céspedes,29.0,Santiago,2,44345,
+144,2025-12-27,Juguetes,2261,643,Pablo Soto,53.0,Santiago,6,124824,
+106,2025-03-07,Deportes,6612,483,Fernanda Contreras,32.0,La Serena,6,174363,926.52
+480,2025-09-21,Deportes,15769,2141,Camila Contreras,63.0,Santiago,8,596687,
+220,2025-10-09,Juguetes,18981,1001,Antonia Silva,31.0,Rancagua,5,65478,951.45
+79,2025-10-30,Moda,57052,361,Vicente Torres,25.0,Antofagasta,4,104030,940.57
+223,2025-10-02,,21613,1015,Daniela Sepúlveda,33.0,Santiago,5,69873,959.19
+76,2025-09-27,Electrónica,22252,352,Benjamín Pérez,43.0,Valparaíso,6,242674,
+263,2025-03-17,Hogar,1500,1182,Martina Flores,42.0,Santiago,6,74895,932.36
+424,2025-10-22,Moda,60375,1899,Vicente Muñoz,27.0,Valparaíso,6,366268,951.78
+43,2025-09-06,Belleza,1500,211,Daniela Muñoz,40.0,Antofagasta,6,84610,
+479,2025-06-27,Juguetes,1500,2139,Joaquín Díaz,38.0,Valparaíso,7,183710,930.67
+63,2025-07-18,Hogar,13974,300,Josefa Soto,48.0,,8,403211,966.78
+63,2025-05-05,Deportes,61772,307,Josefa Soto,48.0,,8,403211,940.95
+456,2025-08-17,Deportes,25108,2027,Vicente Silva,40.0,Temuco,6,338914,
+180,2025-09-23,Moda,13103,799,Tomás Flores,41.0,Santiago,4,100172,954.72
+121,2025-09-01,Belleza,11813,536,Pablo Soto,18.0,La Serena,4,132910,965.28
+226,2025-06-25,Alimentos,36458,1026,Mateo Céspedes,32.0,Santiago,8,160620,937.89
+47,2025-09-02,Deportes,6459,221,Pablo Soto,18.0,SANTIAGO,9,66194,968.35
+404,2025-10-22,Deportes,19813,1793,Catalina Torres,18.0,Valparaíso,4,114966,951.78
+342,2025-03-29,Belleza,69983,1510,Martina Vergara,,Antofagasta,5,189888,
+234,2025-02-15,Electrónica,23574,1065,Fernanda Martínez,19.0,Santiago,2,85618,
+50,2025-07-01,Deportes,10207,238,Fernanda Vergara,36.0,Santiago,5,131071,933.42
+384,2025-09-18,Belleza,39542,1714,Isidora Muñoz,32.0,Valparaíso,2,82431,
+478,2025-03-20,Moda,32503,2127,Ana Silva,33.0,Santiago,7,141026,917.76
+464,2025-04-04,Alimentos,48434,2060,Pablo Rojas,32.0,SANTIAGO,10,401861,946.59
+164,2025-06-21,Juguetes,49995,720,Pablo Muñoz,,Santiago,4,123755,
+356,2025-04-19,Belleza,6063,1573,Catalina Sepúlveda,35.0,Valparaíso,3,43466,
+466,2025-03-16,Deportes,5405,2070,Catalina Silva,,Valparaíso,6,191442,
+438,2025-11-14,Hogar,44799,1958,Antonia Muñoz,28.0,Santiago,4,133895,925.63
+365,2025-09-10,Belleza,28429,1614,Camila Sepúlveda,22.0,Santiago,12,228862,966.35
+482,2025-02-20,Moda,24925,2154,Ignacio Vergara,31.0,Antofagasta,5,90638,951.78
+475,2025-12-09,Deportes,28595,2112,Lucas Muñoz,39.0,Santiago,4,60337,920.02
+4,2025-07-06,Hogar,7020,14,Pablo Torres,32.0,Valparaíso,6,101303,
+79,2026-01-02,Electrónica,18192,362,Vicente Torres,25.0,Antofagasta,4,104030,
+244,2026-01-13,,13170,1108,Lucas Rojas,46.0,Santiago,7,49886,
+62,2025-05-12,Belleza,10670,297,Daniela González,35.0,Santiago,8,111464,933.26
+359,2025-09-16,Electrónica,71625,1582,Sofía Vergara,47.0,Santiago,7,452801,951.14
+173,2025-05-21,Alimentos,8313,766,Fernanda Silva,35.0,Talca,4,98255,
+170,2025-06-24,Moda,44169,745,Ana Céspedes,36.0,SANTIAGO,4,185450,950.16
+88,2026-01-12,Juguetes,24407,410,Mateo Céspedes,18.0,Santiago,5,101839,
+250,2025-11-23,Deportes,46246,1126,Ana Muñoz,18.0,Antofagasta,2,60738,
+424,2025-11-29,Hogar,22058,1898,Vicente Muñoz,27.0,Valparaíso,6,366268,
+438,2025-08-28,Deportes,3234,1959,Antonia Muñoz,28.0,Santiago,4,133895,968.64
+84,2025-07-23,Juguetes,40380,388,Ignacio González,20.0,Santiago,6,328573,953.4
+348,2025-03-15,Moda,19097,1534,Antonia González,42.0,Concepción,5,151284,
+96,2025-02-25,Hogar,42692,436,Martina Sepúlveda,30.0,Santiago,2,140857,946.96
+325,2025-02-06,Hogar,25120,1438,Catalina Silva,30.0,Antofagasta,9,160227,969.47
+83,2025-11-08,Belleza,8117,383,Valentina Céspedes,40.0,Santiago,8,184300,
+297,2025-05-24,Belleza,33061,1333,Ignacio Flores,30.0,Santiago,4,97618,
+450,2026-01-01,Juguetes,29220,2011,Martina Rojas,62.0,Santiago,2,74493,
+354,2025-02-07,Moda,1500,1560,Pablo Rojas,26.0,Temuco,5,89958,967.59
+437,2025-03-10,Moda,62177,1952,Vicente Muñoz,29.0,Temuco,5,174564,928.25
+447,2025-10-13,Belleza,1500,1997,Mateo Flores,50.0,La Serena,6,119618,954.37
+362,2025-08-31,Deportes,2796,1592,Gabriel Torres,34.0,La Serena,3,40609,
+36,2025-07-07,Moda,8958,178,Sofía Muñoz,30.0,Santiago,3,46674,932.34
+151,2025-09-07,Alimentos,86437,671,Gabriel Soto,31.0,Santiago,5,189609,
+463,2025-04-30,Deportes,4589,2052,Daniela Sepúlveda,44.0,Santiago,3,116285,945.42
+42,2025-07-02,Belleza,17054,204,Fernanda González,44.0,Valparaíso,6,100265,926.62
+416,2025-12-19,Alimentos,75807,1865,Joaquín Soto,31.0,Rancagua,6,291890,914.99
+109,2025-12-25,Belleza,12761,496,Benjamín Flores,38.0,La Serena,3,74942,
+106,2025-09-28,,6332,481,Fernanda Contreras,32.0,La Serena,6,174363,
+138,2025-03-02,Moda,36058,612,Ana Díaz,22.0,LA SERENA,6,143559,
+102,2025-03-20,Belleza,42644,464,Valentina Martínez,52.0,La Serena,6,314147,917.76
+201,2025-06-06,Deportes,49274,887,Josefa Contreras,57.0,Santiago,6,342264,930.79
+146,2025-08-18,Deportes,17288,651,Gabriel Díaz,21.0,Antofagasta,7,146872,961.84
+3,2025-07-30,Belleza,4927,9,Joaquín Flores,35.0,Temuco,3,43599,970.09
+344,2025-06-21,Deportes,28331,1518,Tomás González,21.0,Santiago,4,129467,
+472,2025-04-03,Belleza,97400,2101,Ignacio Pérez,20.0,Santiago,4,135198,949.83
+99,2025-05-03,Moda,42147,451,Lucas Silva,34.0,Talca,6,283508,
+66,2025-07-03,Moda,11027,317,Mateo Rojas,29.0,Concepción,5,50267,926.51
+484,2025-09-19,Hogar,4968,2162,Fernanda Vergara,31.0,Valparaíso,5,314212,
+424,2025-10-14,Hogar,73443,1895,Vicente Muñoz,27.0,Valparaíso,6,366268,957.66
+93,2025-07-30,Electrónica,29523,428,Ignacio Rojas,40.0,Santiago,5,86792,970.09
+82,2025-12-08,Alimentos,31422,375,Pablo Sepúlveda,24.0,VALPARAÍSO,4,88528,
+23,2025-10-20,Belleza,22054,106,Valentina Muñoz,29.0,SANTIAGO,8,137927,960.34
+315,2026-01-19,Deportes,72141,1398,Isidora Martínez,18.0,Santiago,5,164776,
+27,2025-09-13,Juguetes,3693,122,Pablo Torres,51.0,Rancagua,5,219889,
+35,2026-01-20,Deportes,15106,174,Gabriel Silva,26.0,Santiago,7,100129,
+294,2025-07-16,Deportes,34017,1321,Mateo Sepúlveda,47.0,Santiago  ,3,117516,
+187,2025-06-25,Hogar,18595,832,Valentina Pérez,28.0,Santiago,8,121661,937.89
+116,2025-12-08,Moda,8318,509,Vicente Silva,40.0,La Serena,7,224345,
+407,2025-07-14,Alimentos,17184,1814,Pablo Pérez,18.0,Valparaíso,10,127768,955.73
+478,2025-02-10,Belleza,21574,2131,Ana Silva,33.0,Santiago,7,141026,960.6
+205,2025-04-27,Juguetes,3288,907,Benjamín Céspedes,18.0,Santiago,10,261664,
+202,2026-01-16,Hogar,22915,890,Antonia Silva,30.0,Santiago  ,7,302877,
+25,2025-10-01,Moda,31277,116,Fernanda Díaz,53.0,Santiago,6,178627,962.39
+17,2025-09-14,Moda,37173,77,Tomás Torres,44.0,Santiago,6,141564,
+90,2025-05-06,Hogar,42749,417,Ignacio Sepúlveda,37.0,Santiago,3,96544,940.18
+441,2025-12-02,Electrónica,9323,1974,Catalina Vergara,43.0,Santiago,5,157918,927.95
+346,2025-12-09,Juguetes,4742,1524,Martina González,27.0,Temuco,2,40441,920.02
+253,2025-12-03,Hogar,16400,1138,Valentina Céspedes,51.0,Santiago,6,225366,925.37
+284,2025-04-01,Deportes,2218,1273,Benjamín Céspedes,47.0,Concepción,5,78110,953.07
+410,2025-09-02,Moda,14632,1834,Ana Céspedes,42.0,Santiago,3,82997,968.35
+476,2026-01-20,Belleza,48734,2115,Fernanda Rojas,18.0,Concepción,7,355255,
+427,2025-04-02,Hogar,35489,1910,Gabriel Contreras,41.0,Santiago,8,309457,946.28
+192,2025-12-03,Alimentos,1791,856,Lucas Sepúlveda,18.0,Temuco,6,156994,925.37
+351,2025-09-23,Hogar,1500,1552,Tomás Flores,40.0,Santiago,8,244951,954.72
+92,2025-04-20,Belleza,1500,424,Ignacio Torres,,Santiago,4,50116,
+337,2025-09-27,Hogar,24809,1489,Catalina Sepúlveda,44.0,La Serena,2,188274,
+408,2025-02-16,Moda,20436,1827,Camila Muñoz,35.0,Santiago,6,213680,
+361,2025-10-12,Deportes,3873,1587,Ignacio Flores,18.0,La Serena,5,80603,
+439,2025-04-09,Belleza,6444,1965,Sofía Soto,43.0,Temuco,9,210266,993.89
+338,2025-12-23,Electrónica,18062,1494,Mateo Muñoz,32.0,Talca,5,81453,908.4
+264,2025-11-16,Hogar,41200,1186,Antonia Flores,,Santiago,4,114308,
+357,2026-02-02,Deportes,51364,1574,Valentina Rojas,18.0,La Serena,2,60785,
+153,2025-03-08,Alimentos,13951,679,Antonia Muñoz,23.0,Concepción,3,60187,
+158,2025-03-14,Alimentos,33598,696,Vicente Silva,33.0,Santiago,3,97067,940.2
+208,2025-12-30,Moda,20733,930,Catalina Silva,,La Serena,8,176337,911.18
+480,2025-09-10,Belleza,29352,2148,Camila Contreras,63.0,Santiago,8,596687,966.35
+436,2025-08-17,Deportes,49067,1949,Camila Flores,33.0,Santiago,6,169964,
+140,2025-11-06,Moda,6444,622,Pablo Flores,19.0,Antofagasta,7,83225,945.6
+214,2025-06-06,Moda,55863,966,Pablo Martínez,19.0,Temuco,5,156582,930.79
+19,2025-11-01,Deportes,23232,88,Ignacio Soto,43.0,Santiago,5,95817,
+37,2025-04-01,Electrónica,12151,179,Gabriel Soto,43.0,Valparaíso,4,104219,953.07
+367,2025-08-11,Deportes,90600,1624,Benjamín Sepúlveda,38.0,Antofagasta,7,199989,965.64
+161,2025-09-01,Hogar,28316,708,Catalina Muñoz,34.0,Santiago,4,65783,965.28
+490,2025-05-11,Hogar,55043,2189,Lucas Sepúlveda,63.0,Antofagasta,7,163898,
+290,2025-03-20,Deportes,16033,1302,Benjamín González,44.0,Concepción,2,80309,917.76
+196,2025-04-30,Belleza,4231,868,Sofía Rojas,32.0,Valparaíso,3,96004,945.42
+146,2025-05-26,Moda,30454,652,Gabriel Díaz,21.0,Antofagasta,7,146872,940.81
+496,2025-08-16,Electrónica,1500,2210,Pablo Silva,25.0,Santiago,4,161038,
+421,2025-08-16,Moda,10117,1883,Antonia Torres,22.0,Santiago,6,108194,
+211,2025-10-18,Hogar,22922,950,Martina Vergara,37.0,Talca,5,111866,
+238,2025-12-29,Alimentos,27494,1081,Pablo Díaz,27.0,Santiago,6,225347,904.54
+320,2025-11-09,Electrónica,18728,1422,Fernanda Flores,19.0,Santiago  ,7,148631,
+413,2025-09-26,Hogar,27504,1846,Martina Pérez,53.0,Temuco,3,91682,956.42
+109,2025-06-26,Moda,28406,495,Benjamín Flores,38.0,La Serena,3,74942,936.29
+378,2026-01-12,Juguetes,71903,1684,Daniela Martínez,23.0,Santiago,9,315431,
+462,2025-09-03,Belleza,1989,2049,Camila Pérez,43.0,SANTIAGO,4,85124,974.13
+473,2025-05-28,Deportes,34189,2104,Pablo Soto,48.0,Santiago,6,140937,937.93
+191,2025-09-22,Alimentos,16953,850,Joaquín Flores,53.0,Santiago,4,51277,951.03
+16,2025-10-06,Juguetes,66452,72,Fernanda Céspedes,38.0,Santiago,4,295672,963.17
+13,2025-04-24,Belleza,47070,64,Daniela Sepúlveda,40.0,Santiago,8,436526,938.02
+152,2025-10-27,Hogar,33035,675,Martina Vergara,39.0,Temuco,5,98425,943.47
+490,2025-05-29,Moda,10770,2190,Lucas Sepúlveda,63.0,Antofagasta,7,163898,940.21
+246,2025-06-14,Deportes,19697,1115,Sofía Pérez,33.0,Valparaíso,3,72627,
+266,2025-12-30,Alimentos,19083,1188,Vicente Martínez,21.0,Santiago,5,103099,911.18
+263,2025-12-12,Juguetes,2188,1179,Martina Flores,42.0,Santiago,6,74895,916.9
+153,2025-07-12,Hogar,12322,680,Antonia Muñoz,23.0,Concepción,3,60187,
+276,2025-10-22,Deportes,37186,1234,Benjamín Flores,55.0,Antofagasta,4,109601,951.78
+182,2025-12-18,Hogar,6375,808,Valentina Céspedes,47.0,Santiago,7,200149,917.45
+137,2025-10-06,Belleza,18842,606,Lucas Rojas,41.0,Concepción,5,228832,963.17
+43,2025-09-05,Electrónica,3136,206,Daniela Muñoz,40.0,Antofagasta,6,84610,971.22
+167,2025-06-28,Deportes,114144,728,Mateo Contreras,52.0,Antofagasta,8,500959,
+176,2025-04-11,Juguetes,2420,781,Benjamín Martínez,18.0,Santiago,3,233940,988.97
+448,2025-02-09,Hogar,28166,2003,Catalina Céspedes,51.0,Antofagasta,5,186536,
+388,2026-01-15,Belleza,11382,1732,Ignacio Muñoz,58.0,Santiago,7,71668,
+124,2025-03-19,Hogar,42379,549,Benjamín Pérez,28.0,Valparaíso,7,297134,917.97
+41,2025-04-26,Moda,43555,199,Valentina Vergara,31.0,Talca,4,106925,
+370,2025-06-11,,18380,1645,Fernanda González,41.0,Santiago,6,271025,938.88
+117,2025-12-26,Belleza,12216,520,Ana Rojas,36.0,La Serena,8,136387,905.04
+64,2025-08-05,Electrónica,28863,309,Catalina Muñoz,49.0,Concepción,6,96146,964.28
+409,2025-05-26,Moda,2637,1830,Antonia Pérez,120.0,Santiago,4,178955,940.81
+13,2025-11-24,Electrónica,233269,60,Daniela Sepúlveda,40.0,Santiago,8,436526,937.36
+125,2025-07-30,Moda,26426,556,Gabriel Silva,35.0,Talca  ,5,48915,970.09
+43,2025-09-25,Alimentos,16709,208,Daniela Muñoz,40.0,Antofagasta,6,84610,953.24
+421,2025-12-28,Juguetes,17988,1881,Antonia Torres,22.0,Santiago,6,108194,
+451,2025-12-16,Hogar,59458,2014,Catalina Céspedes,47.0,Valparaíso,3,81891,912.03
+329,2025-06-06,,40302,1460,Camila Torres,45.0,Temuco,8,243402,930.79
+33,2025-10-06,Moda,14186,163,Sofía Muñoz,45.0,Santiago,9,211352,963.17
+442,2025-12-06,Alimentos,66589,1980,Mateo Pérez,35.0,ANTOFAGASTA,6,189438,
+481,2026-01-11,Belleza,17139,2149,Martina Silva,53.0,Talca,1,19867,
+54,2025-02-22,Hogar,60075,257,Benjamín Díaz,39.0,Temuco,7,212648,
+202,2025-12-31,Moda,101070,894,Antonia Silva,30.0,Santiago  ,7,302877,
+362,2025-12-12,Moda,31551,1593,Gabriel Torres,34.0,La Serena,3,40609,916.9
+406,2026-02-03,Moda,9867,1808,Tomás Vergara,40.0,Concepción,13,379598,
+354,2025-08-20,Electrónica,34197,1563,Pablo Rojas,26.0,Temuco,5,89958,963.57
+367,2025-02-21,Electrónica,24315,1621,Benjamín Sepúlveda,38.0,Antofagasta,7,199989,944.65
+6,2025-11-03,Alimentos,24208,21,Gabriel Soto,38.0,Antofagasta,4,106510,943.69
+229,2025-09-24,Belleza,29388,1041,Tomás Soto,59.0,Valparaíso,5,143760,952.87
+83,2025-10-29,Moda,32036,382,Valentina Céspedes,40.0,Santiago,8,184300,941.63
+122,2026-01-16,Alimentos,1500,539,Joaquín Soto,43.0,Valparaíso,5,38376,
+312,2025-06-12,Hogar,10451,1390,Joaquín Torres,39.0,,1,10479,936.36
+458,2025-11-16,Deportes,1500,2034,Lucas Silva,37.0,Valparaíso,3,68438,
+18,2025-02-08,Hogar,12817,84,Camila González,39.0,LA SERENA,5,47001,
+214,2025-02-18,Deportes,10446,965,Pablo Martínez,19.0,Temuco,5,156582,947.13
+347,2025-08-19,,61784,1531,Catalina Muñoz,40.0,Santiago,7,271177,966.24
+266,2025-04-24,Electrónica,26699,1190,Vicente Martínez,21.0,Santiago,5,103099,938.02
+56,2025-11-19,Electrónica,24751,271,Ana Contreras,40.0,SANTIAGO,7,135464,929.26
+174,2025-09-15,Belleza,14429,772,Daniela Céspedes,56.0,Concepción,9,218391,954.58
+340,2026-01-13,Deportes,32704,1500,Catalina Torres,23.0,Valparaíso,6,92219,
+399,2025-06-16,Electrónica,94656,1778,Martina González,40.0,Santiago,4,170636,937.78
+160,2025-07-01,Alimentos,7017,706,Fernanda Díaz,56.0,Santiago,4,26527,933.42
+255,2025-10-02,Moda,11597,1147,Joaquín Contreras,50.0,Concepción,6,129485,959.19
+131,2025-10-22,Moda,26680,582,Vicente Martínez,41.0,Temuco,6,117542,951.78
+94,2025-12-31,Deportes,49423,430,Josefa Flores,33.0,Concepción,2,68599,
+202,2025-04-10,Deportes,7896,892,Antonia Silva,30.0,Santiago  ,7,302877,1000.01
+187,2025-05-31,Belleza,11910,835,Valentina Pérez,28.0,Santiago,8,121661,
+424,2025-08-09,Deportes,66884,1897,Vicente Muñoz,27.0,Valparaíso,6,366268,
+101,2026-01-24,Deportes,2889,459,Ignacio Silva,40.0,Valparaíso  ,5,84892,
+17,2025-02-26,Electrónica,16012,79,Tomás Torres,44.0,Santiago,6,141564,940.99
+8,2025-06-10,Electrónica,92258,33,Joaquín Rojas,23.0,Antofagasta,4,115258,937.09
+328,2025-07-23,Hogar,34374,1454,Ana Torres,38.0,Santiago,4,107854,953.4
+437,2025-08-10,Alimentos,53787,1954,Vicente Muñoz,29.0,Temuco,5,174564,
+456,2025-12-09,Moda,82442,2025,Vicente Silva,40.0,Temuco,6,338914,920.02
+83,2025-08-15,Alimentos,33967,381,Valentina Céspedes,40.0,Santiago,8,184300,
+205,2025-07-19,Belleza,25548,914,Benjamín Céspedes,18.0,Santiago,10,261664,
+238,2025-03-14,Electrónica,23730,1079,Pablo Díaz,27.0,Santiago,6,225347,940.2
+274,2025-05-19,Electrónica,71391,1226,Catalina Martínez,50.0,Antofagasta,3,157012,944.46
+63,2025-12-07,Belleza,57834,306,Josefa Soto,48.0,,8,403211,
+43,2025-04-12,Belleza,35773,210,Daniela Muñoz,40.0,Antofagasta,6,84610,
+158,2025-10-22,Hogar,52213,695,Vicente Silva,33.0,Santiago,3,97067,951.78
+300,2025-04-12,Deportes,1500,1346,Ana Soto,25.0,Concepción,3,25619,
+343,2025-02-15,Moda,17790,1513,Lucas Torres,31.0,Valparaíso,5,83843,
+363,2025-04-29,Electrónica,23359,1597,Isidora Céspedes,44.0,La Serena,5,151483,937.54
+140,2025-05-05,Deportes,1500,621,Pablo Flores,19.0,Antofagasta,7,83225,940.95
+138,2025-09-25,Juguetes,8677,614,Ana Díaz,22.0,LA SERENA,6,143559,953.24
+386,2025-02-22,Belleza,42966,1718,Camila Martínez,19.0,Santiago,7,157740,
+467,2025-03-10,Hogar,20132,2076,Valentina Silva,18.0,Rancagua,5,234537,928.25
+282,2026-01-20,Belleza,29853,1262,Benjamín Silva,33.0,Temuco,6,93747,
+106,2025-02-18,Deportes,7911,484,Fernanda Contreras,32.0,La Serena,6,174363,947.13
+264,2025-05-23,Belleza,11698,1183,Antonia Flores,,Santiago,4,114308,944.84
+317,2025-09-04,Belleza,28646,1407,Daniela González,45.0,Temuco,4,215894,969.46
+216,2025-06-01,Deportes,3686,980,Martina Sepúlveda,25.0,Santiago,9,68242,
+47,2025-02-22,Hogar,6722,222,Pablo Soto,18.0,SANTIAGO,9,66194,
+193,2025-07-06,Belleza,19781,858,Lucas Flores,18.0,Santiago,1,18754,
+128,2025-02-18,Moda,20094,572,Fernanda Pérez,27.0,Santiago  ,6,119686,947.13
+88,2025-05-30,Hogar,19250,412,Mateo Céspedes,18.0,Santiago,5,101839,937.37
+139,2025-03-04,Hogar,17641,619,Mateo Sepúlveda,43.0,La Serena,5,63124,953.11
+182,2025-04-25,Moda,64306,809,Valentina Céspedes,47.0,Santiago,7,200149,937.81
+131,2025-06-23,Belleza,32593,586,Vicente Martínez,41.0,Temuco,6,117542,947.03
+267,2025-03-26,Belleza,21686,1194,Pablo Silva,36.0,Santiago,4,58791,919.92
+489,2025-10-24,Deportes,7684,2180,Fernanda Rojas,34.0,Santiago,10,136926,945.34
+288,2025-07-26,Alimentos,46460,1288,Vicente Vergara,26.0,Santiago,5,268697,
+283,2025-08-14,Moda,6534,1265,Joaquín Céspedes,18.0,Valparaíso,6,142983,952.37
+202,2026-01-19,Hogar,26303,893,Antonia Silva,30.0,Santiago  ,7,302877,
+99,2025-07-10,Alimentos,17951,448,Lucas Silva,34.0,Talca,6,283508,948.33
+231,2025-05-16,Hogar,33908,1048,Benjamín Martínez,24.0,Santiago,6,125732,940.25
+313,2025-08-22,Electrónica,46201,1394,Camila Vergara,32.0,Talca,4,104924,968.63
+408,2025-08-21,Hogar,33446,1826,Camila Muñoz,35.0,Santiago,6,213680,965.06
+437,2025-08-20,Hogar,35816,1951,Vicente Muñoz,29.0,Temuco,5,174564,963.57
+432,2025-08-26,Juguetes,6792,1932,Daniela Vergara,42.0,Santiago,3,65089,962.51
+11,2025-05-18,Hogar,17317,46,Tomás Flores,,Santiago,5,150627,
+431,2025-11-25,Juguetes,20669,1928,Sofía Contreras,33.0,Santiago  ,5,144048,939.57
+364,2026-01-25,Belleza,5621,1600,Gabriel Martínez,18.0,Valparaíso,6,75876,
+62,2025-06-21,Moda,30135,295,Daniela González,35.0,Santiago,8,111464,
+222,2025-06-01,Deportes,1719,1011,Benjamín Flores,42.0,Santiago,4,35877,
+132,2025-12-17,Moda,27141,589,Vicente Díaz,47.0,Antofagasta,3,128908,913.74
+399,2026-01-01,,39389,1776,Martina González,40.0,Santiago,4,170636,
+143,2025-03-27,Alimentos,41200,638,Martina Sepúlveda,45.0,Santiago,4,122993,920.98
+298,2025-10-17,Electrónica,22036,1338,Pablo Soto,34.0,Santiago,5,60240,956.13
+406,2025-11-20,Hogar,93999,1801,Tomás Vergara,40.0,Concepción,13,379598,931.36
+96,2025-04-23,Deportes,98464,437,Martina Sepúlveda,30.0,Santiago,2,140857,950.04
+476,2025-04-02,Alimentos,15105,2114,Fernanda Rojas,18.0,Concepción,7,355255,946.28
+85,2025-07-10,Alimentos,120562,394,Lucas Pérez,33.0,Temuco,7,344709,948.33
+177,2025-02-08,Deportes,15979,787,Daniela Silva,28.0,Temuco,8,237786,
+121,2025-11-18,Moda,21594,535,Pablo Soto,18.0,La Serena,4,132910,919.82
+8,2025-08-16,Electrónica,5651,31,Joaquín Rojas,23.0,Antofagasta,4,115258,
+298,2025-04-10,Moda,15636,1337,Pablo Soto,34.0,Santiago,5,60240,1000.01
+319,2025-12-10,Juguetes,13412,1414,Antonia Vergara,38.0,Concepción,6,103936,926.89
+228,2025-07-27,Moda,123151,1038,Vicente Céspedes,58.0,Santiago,6,438418,
+375,2026-01-01,Alimentos,45484,1660,Gabriel Vergara,40.0,La Serena,5,180519,
+440,2025-08-07,Juguetes,101061,1969,Josefa Contreras,38.0,SANTIAGO,5,308188,976.42
+241,2025-05-30,Hogar,21716,1095,Camila Sepúlveda,24.0,Santiago,4,46769,937.37
+153,2025-11-08,Belleza,34784,681,Antonia Muñoz,23.0,Concepción,3,60187,
+74,2025-10-19,Juguetes,23673,345,Camila González,24.0,La Serena,1,24578,
+125,2025-04-05,Moda,2165,557,Gabriel Silva,35.0,Talca  ,5,48915,
+208,2025-05-02,Hogar,27856,932,Catalina Silva,,La Serena,8,176337,955.67
+144,2025-02-11,Moda,6945,644,Pablo Soto,53.0,Santiago,6,124824,960.81
+273,2025-04-09,,6203,1224,Valentina González,54.0,Concepción,5,129998,993.89
+76,2026-01-31,Juguetes,38025,353,Benjamín Pérez,43.0,Valparaíso,6,242674,
+20,2025-07-17,Juguetes,47275,92,Benjamín Silva,18.0,Antofagasta,3,171873,965.65
+211,2025-10-14,Alimentos,17827,949,Martina Vergara,37.0,Talca,5,111866,957.66
+399,2025-08-19,Belleza,3601,1777,Martina González,40.0,Santiago,4,170636,966.24
+228,2025-03-22,Electrónica,114692,1034,Vicente Céspedes,58.0,Santiago,6,438418,
+353,2026-01-28,Electrónica,37736,1558,Martina Flores,49.0,Antofagasta,4,96110,
+55,2025-04-26,Hogar,20866,262,Benjamín Flores,,Santiago,6,180447,
+204,2025-03-12,Electrónica,9000,904,Joaquín Muñoz,21.0,Temuco,6,90057,937.45
+370,2025-12-22,Moda,135491,1641,Fernanda González,41.0,Santiago,6,271025,909.9
+95,2026-01-13,Electrónica,1653,434,Gabriel Díaz,52.0,Santiago,4,122811,
+128,2025-09-23,Hogar,20406,568,Fernanda Pérez,27.0,Santiago  ,6,119686,954.72
+155,2025-12-01,Hogar,25033,687,Pablo Contreras,35.0,Antofagasta,3,44044,928.16
+219,2025-10-21,Juguetes,17894,995,Pablo Rojas,18.0,Concepción,5,110395,953.21
+179,2025-12-19,Moda,38114,793,Antonia Contreras,43.0,Santiago,4,119994,914.99
+237,2025-05-28,Belleza,7786,1074,Joaquín Martínez,34.0,Santiago,5,126680,937.93
+433,2025-07-13,Belleza,74020,1936,Ignacio Rojas,18.0,Santiago,3,97329,
+63,2025-09-14,Deportes,33430,301,Josefa Soto,48.0,,8,403211,
+152,2026-02-01,Electrónica,29501,678,Martina Vergara,39.0,Temuco,5,98425,
+235,2025-04-14,Belleza,14588,1068,Benjamín Muñoz,29.0,Santiago,3,91475,978.09
+221,2025-05-07,Deportes,78961,1005,Camila Céspedes,39.0,Valparaíso,4,115199,939.67
+65,2025-10-07,Belleza,62060,316,Pablo Torres,37.0,Concepción,3,91226,963.09
+383,2026-01-20,Moda,10452,1707,Antonia Soto,34.0,Temuco,7,185769,
+100,2026-02-04,Belleza,40585,454,Camila Silva,22.0,Concepción,3,109044,
+136,2025-03-21,,78505,602,Mateo Vergara,42.0,Santiago,3,95853,926.15
+36,2025-03-24,Belleza,16328,176,Sofía Muñoz,30.0,Santiago,3,46674,932.14
+278,2025-08-14,Belleza,14692,1242,Fernanda Céspedes,48.0,Santiago,4,38836,952.37
+253,2025-08-14,Belleza,72854,1135,Valentina Céspedes,51.0,Santiago,6,225366,952.37
+453,2025-08-24,Electrónica,22896,2017,Benjamín Silva,35.0,Santiago,1,24805,
+27,2026-01-21,,30455,124,Pablo Torres,51.0,Rancagua,5,219889,
+370,2025-07-28,Hogar,7210,1642,Fernanda González,41.0,Santiago,6,271025,957.82
+85,2025-08-01,Moda,31651,395,Lucas Pérez,33.0,Temuco,7,344709,976.8
+319,2025-02-16,Alimentos,35833,1419,Antonia Vergara,38.0,Concepción,6,103936,
+189,2025-03-12,Deportes,2418,842,Isidora Soto,36.0,La Serena,4,65099,937.45
+10,2025-09-18,Electrónica,103452,40,Sofía Rojas,48.0,Santiago,8,1333744,
+102,2025-04-28,Deportes,98513,463,Valentina Martínez,52.0,La Serena,6,314147,936.74
+251,2025-10-13,Moda,46537,1129,Valentina Flores,18.0,Santiago,3,94240,954.37
+343,2025-05-03,Belleza,30013,1512,Lucas Torres,31.0,Valparaíso,5,83843,
+71,2025-09-17,Juguetes,24894,332,Fernanda Flores,28.0,Santiago,2,58250,948.57
+40,2025-07-26,Moda,25144,195,Lucas González,43.0,Antofagasta,7,242135,
+478,2025-06-30,Juguetes,20509,2130,Ana Silva,33.0,Santiago,7,141026,935.74
+483,2025-10-30,Moda,12850,2155,Martina Contreras,28.0,La Serena,3,63630,940.57
+142,2025-05-30,Electrónica,69488,635,Isidora Torres,51.0,Antofagasta,5,347936,937.37
+67,2025-10-06,Hogar,5004,323,Antonia Rojas,41.0,La Serena,3,29806,963.17
+389,2025-05-30,Belleza,12000,1736,Gabriel González,41.0,Santiago,5,66038,937.37
+56,2025-09-10,Hogar,11623,267,Ana Contreras,40.0,SANTIAGO,7,135464,966.35
+262,2025-10-06,Hogar,1500,1174,Valentina Contreras,42.0,Santiago,4,56017,963.17
+405,2025-09-27,Juguetes,25960,1796,Benjamín Soto,45.0,Rancagua,4,64036,
+130,2025-07-19,Belleza,20925,580,Lucas Pérez,54.0,Antofagasta,4,199345,
+299,2025-08-06,Alimentos,4529,1343,Martina Díaz,34.0,La Serena,6,149096,966.02
+189,2025-07-31,Hogar,16751,840,Isidora Soto,36.0,La Serena,4,65099,978.07
+415,2025-05-30,Deportes,8679,1859,Ana Silva,18.0,Talca,5,32925,937.37
+398,2025-05-06,Belleza,149828,1773,Valentina González,30.0,Santiago,5,265254,940.18
+364,2026-01-22,Electrónica,11751,1602,Gabriel Martínez,18.0,Valparaíso,6,75876,
+398,2025-05-28,Moda,11848,1771,Valentina González,30.0,Santiago,5,265254,937.93
+402,2025-04-12,Electrónica,18829,1789,Fernanda González,50.0,Santiago,4,43587,
+167,2026-01-10,Moda,35930,730,Mateo Contreras,52.0,Antofagasta,8,500959,
+279,2025-05-20,Electrónica,13463,1248,Sofía Rojas,36.0,,3,160650,936.69
+490,2025-08-05,Electrónica,1500,2187,Lucas Sepúlveda,63.0,Antofagasta,7,163898,964.28
+182,2025-05-08,Deportes,23207,810,Valentina Céspedes,47.0,Santiago,7,200149,945.44
+128,2025-06-07,Hogar,13227,573,Fernanda Pérez,27.0,Santiago  ,6,119686,
+429,2025-10-27,Deportes,23299,1921,Ana Pérez,57.0,Concepción,5,172902,943.47
+442,2025-11-03,Electrónica,32413,1983,Mateo Pérez,35.0,ANTOFAGASTA,6,189438,943.69
+418,2025-03-21,Hogar,30203,1875,Camila Martínez,18.0,Santiago,6,100695,926.15
+259,2025-08-01,Juguetes,28242,1166,Valentina Céspedes,41.0,Santiago,6,168625,976.8
+427,2025-12-13,Electrónica,13471,1909,Gabriel Contreras,41.0,Santiago,8,309457,
+12,2025-10-17,Moda,1500,54,Catalina Martínez,18.0,Antofagasta,6,121573,956.13
+493,2025-08-30,Hogar,56329,2198,Fernanda Muñoz,39.0,Antofagasta,3,203724,
+280,2025-10-25,Electrónica,37341,1250,Sofía Sepúlveda,30.0,,3,72129,
+254,2025-08-23,Alimentos,29826,1139,Mateo Flores,34.0,Valparaíso,6,119936,
+256,2025-06-05,Belleza,1500,1152,Camila Soto,40.0,Santiago,4,147905,936.89
+61,2025-07-31,Alimentos,30109,291,Antonia Contreras,35.0,Santiago,5,172945,978.07
+304,2025-07-18,Juguetes,6222,1362,Gabriel Torres,53.0,,6,235779,966.78
+194,2025-09-04,Electrónica,23876,860,Josefa Flores,21.0,Santiago,2,35947,969.46
+81,2025-11-22,Belleza,8607,366,Antonia Céspedes,42.0,Valparaíso,8,276772,
+177,2025-08-30,Juguetes,107326,788,Daniela Silva,28.0,Temuco,8,237786,
+287,2025-08-25,Hogar,56504,1287,Valentina González,39.0,Antofagasta,6,184961,964.15
+370,2025-05-23,Electrónica,102445,1643,Fernanda González,41.0,Santiago,6,271025,944.84
+293,2025-07-18,Hogar,13620,1315,Catalina Martínez,29.0,SANTIAGO,6,79282,966.78
+470,2025-04-12,Alimentos,23253,2091,Antonia González,30.0,Santiago,5,136103,
+131,2025-02-15,Electrónica,13935,584,Vicente Martínez,41.0,Temuco,6,117542,
+188,2025-06-19,Juguetes,140295,837,Josefa Silva,43.0,Rancagua,3,388775,943.36
+476,2025-12-16,Hogar,16144,2119,Fernanda Rojas,18.0,Concepción,7,355255,912.03
+187,2025-04-07,Moda,25079,830,Valentina Pérez,28.0,Santiago,8,121661,975.82
+488,2025-02-06,Hogar,39047,2173,Tomás Díaz,53.0,Santiago,1,37870,969.47
+477,2025-08-04,Juguetes,11659,2122,Ignacio Céspedes,52.0,Valparaíso,6,78820,967.48
+397,2025-11-30,Alimentos,21048,1768,Ana Contreras,45.0,Santiago,5,88986,
+431,2025-08-29,Hogar,20692,1930,Sofía Contreras,33.0,Santiago  ,5,144048,967.48
+477,2025-09-30,Hogar,4805,2125,Ignacio Céspedes,52.0,Valparaíso,6,78820,961.24
+465,2025-08-04,Alimentos,11136,2064,Ana Flores,24.0,Rancagua,4,87431,967.48
+66,2025-05-25,Deportes,19171,319,Mateo Rojas,29.0,Concepción,5,50267,
+324,2026-01-18,Electrónica,96918,1434,Antonia Vergara,37.0,Concepción,3,301973,
+292,2025-12-18,Alimentos,1500,1310,Martina Soto,56.0,Santiago,5,78683,917.45
+397,2025-03-25,Deportes,15514,1767,Ana Contreras,45.0,Santiago,5,88986,926.41
+284,2025-07-05,Juguetes,23105,1274,Benjamín Céspedes,47.0,Concepción,5,78110,
+206,2025-02-18,Alimentos,30432,917,Martina Contreras,34.0,Valparaíso,2,33501,947.13
+478,2025-08-10,Electrónica,16192,2128,Ana Silva,33.0,Santiago,7,141026,
+73,2025-02-23,Deportes,26791,344,Benjamín Rojas,43.0,Valparaíso,7,379422,
+86,2025-02-20,Electrónica,16092,399,Daniela Torres,36.0,Concepción,3,95731,951.78
+131,2025-05-22,Deportes,11973,585,Vicente Martínez,41.0,Temuco,6,117542,942.21
+208,2025-05-12,Electrónica,44655,931,Catalina Silva,,La Serena,8,176337,933.26
+468,2025-06-15,Belleza,30571,2079,Vicente Díaz,38.0,Santiago,9,631306,
+269,2025-06-08,Electrónica,2091,1205,Lucas Céspedes,25.0,Santiago,5,111300,
+62,2025-11-02,Deportes,15199,293,Daniela González,35.0,Santiago,8,111464,
+352,2026-01-18,Belleza,51008,1553,Ana Sepúlveda,18.0,Santiago,3,94588,
+260,2025-10-28,Electrónica,84112,1171,Vicente Martínez,44.0,Valparaíso,5,245523,938.19
+480,2025-07-08,Juguetes,7968,2146,Camila Contreras,63.0,Santiago,8,596687,940.28
+275,2025-06-17,Deportes,27205,1232,Pablo Sepúlveda,23.0,Santiago,5,97151,935.21
+30,2025-12-13,Moda,5241,142,Pablo Torres,44.0,Santiago,7,82510,
+396,2025-10-28,Deportes,39032,1763,Gabriel Silva,18.0,Temuco,6,165555,938.19
+1,2025-02-06,Alimentos,43234,3,Sofía Céspedes,26.0,La Serena,3,86427,969.47
+377,2026-01-17,Electrónica,8479,1675,Daniela Contreras,29.0,Santiago,7,101601,
+130,2025-08-30,Moda,65649,577,Lucas Pérez,54.0,Antofagasta,4,199345,
+326,2026-01-31,Juguetes,3007,1449,Isidora Céspedes,30.0,Santiago,4,75680,
+73,2025-03-01,Deportes,36383,340,Benjamín Rojas,43.0,Valparaíso,7,379422,
+217,2025-09-08,Deportes,43353,987,Sofía Contreras,43.0,VALPARAÍSO,4,121409,964.58
+56,2025-11-27,Hogar,42977,266,Ana Contreras,40.0,SANTIAGO,7,135464,930.89
+82,2026-02-04,Deportes,19897,377,Pablo Sepúlveda,24.0,VALPARAÍSO,4,88528,
+304,2025-07-12,Hogar,19804,1365,Gabriel Torres,53.0,,6,235779,
+387,2025-07-25,Moda,27121,1727,Sofía González,39.0,Santiago,4,79355,951.27
+97,2025-05-31,Hogar,14159,440,Isidora Silva,49.0,Concepción,5,88173,
+57,2025-07-14,Alimentos,13626,272,Tomás Martínez,42.0,Santiago,2,32535,955.73
+407,2025-07-11,Hogar,2365,1818,Pablo Pérez,18.0,Valparaíso,10,127768,950.43
+291,2025-06-18,Hogar,4764,1304,Ignacio Céspedes,35.0,Santiago,6,69563,939.29
+51,2025-05-12,Juguetes,10675,245,Fernanda Sepúlveda,32.0,Valparaíso,6,65689,933.26
+342,2025-03-30,Belleza,31978,1506,Martina Vergara,,Antofagasta,5,189888,
+447,2025-09-27,Alimentos,58744,1998,Mateo Flores,50.0,La Serena,6,119618,
+234,2025-02-15,Electrónica,23574,1065,Fernanda Martínez,19.0,Santiago,2,85618,
+318,2026-01-06,Belleza,62853,1413,Daniela Céspedes,36.0,Valparaíso,3,79499,
+176,2025-04-30,Moda,158829,783,Benjamín Martínez,18.0,Santiago,3,233940,945.42
+137,2025-06-05,Electrónica,22825,608,Lucas Rojas,41.0,Concepción,5,228832,936.89
+90,2025-12-28,Moda,25276,416,Ignacio Sepúlveda,37.0,Santiago,3,96544,
+58,2025-09-16,Electrónica,109821,274,Valentina Torres,18.0,VALPARAÍSO,3,237942,951.14
+484,2025-08-17,Deportes,36306,2158,Fernanda Vergara,31.0,Valparaíso,5,314212,
+232,2025-11-30,Moda,1500,1055,Gabriel Pérez,53.0,Santiago,7,128605,
+53,2025-11-23,Hogar,9603,251,Josefa Sepúlveda,42.0,SANTIAGO,2,45965,
+89,2025-12-26,Hogar,23345,414,Fernanda Sepúlveda,53.0,Santiago,2,108350,905.04
+441,2025-04-22,Electrónica,24344,1978,Catalina Vergara,43.0,Santiago,5,157918,961.14
+396,2025-11-06,Moda,64985,1762,Gabriel Silva,18.0,Temuco,6,165555,945.6
+475,2025-03-28,Belleza,22156,2111,Lucas Muñoz,39.0,Santiago,4,60337,931.75
+64,2025-03-14,Deportes,1500,311,Catalina Muñoz,49.0,Concepción,6,96146,940.2
+201,2025-07-04,Belleza,14982,889,Josefa Contreras,57.0,Santiago,6,342264,927.87
+259,2025-12-31,Electrónica,41934,1162,Valentina Céspedes,41.0,Santiago,6,168625,
+93,2025-12-15,Moda,12151,426,Ignacio Rojas,40.0,Santiago,5,86792,912.66
+493,2025-04-25,Electrónica,68108,2199,Fernanda Muñoz,39.0,Antofagasta,3,203724,937.81
+325,2025-06-02,Electrónica,3114,1443,Catalina Silva,30.0,Antofagasta,9,160227,941.97
+460,2025-09-14,Hogar,26992,2041,Camila Pérez,45.0,Valparaíso,3,177915,
+164,2025-11-14,Hogar,24781,722,Pablo Muñoz,,Santiago,4,123755,925.63
+381,2025-07-20,Moda,18970,1695,Ana Céspedes,26.0,Santiago,9,445915,
+76,2025-12-13,Electrónica,16746,349,Benjamín Pérez,43.0,Valparaíso,6,242674,
+289,2026-01-26,Hogar,96412,1294,Tomás Contreras,27.0,Antofagasta,8,376090,
+192,2025-05-08,Hogar,2537,857,Lucas Sepúlveda,18.0,Temuco,6,156994,945.44
+118,2025-08-27,Deportes,18801,527,Camila Rojas,36.0,Santiago,4,215176,965.01
+297,2025-07-25,Moda,20203,1331,Ignacio Flores,30.0,Santiago,4,97618,951.27
+283,2025-05-10,Electrónica,30024,1267,Joaquín Céspedes,18.0,Valparaíso,6,142983,
+38,2025-05-26,Juguetes,32801,183,Ignacio Céspedes,35.0,Santiago,2,62024,940.81
+35,2025-03-22,Moda,17295,171,Gabriel Silva,26.0,Santiago,7,100129,
+197,2025-11-08,Juguetes,1500,875,Mateo Martínez,18.0,La Serena,7,245646,
+406,2026-01-20,Belleza,38487,1806,Tomás Vergara,40.0,Concepción,13,379598,
+39,2025-06-06,Hogar,101494,188,Martina Contreras,39.0,SANTIAGO,4,166486,930.79
+140,2025-03-01,Juguetes,26476,620,Pablo Flores,19.0,Antofagasta,7,83225,
+32,2025-05-01,Juguetes,220170,152,Isidora Muñoz,37.0,Concepción,6,68093,
+33,2025-09-10,Belleza,67523,159,Sofía Muñoz,45.0,Santiago,9,211352,966.35
+470,2025-08-06,Hogar,31447,2094,Antonia González,30.0,Santiago,5,136103,966.02
+57,2025-08-29,Alimentos,21183,273,Tomás Martínez,42.0,Santiago,2,32535,967.48
+139,2025-06-20,Moda,1892,615,Mateo Sepúlveda,43.0,La Serena,5,63124,
+436,2025-12-10,Hogar,32558,1945,Camila Flores,33.0,Santiago,6,169964,926.89
+232,2025-02-07,Electrónica,16640,1054,Gabriel Pérez,53.0,Santiago,7,128605,967.59
+473,2026-01-11,Deportes,29954,2107,Pablo Soto,48.0,Santiago,6,140937,
+81,2025-12-19,Moda,4789,372,Antonia Céspedes,42.0,Valparaíso,8,276772,914.99
+47,2025-11-10,Electrónica,8188,223,Pablo Soto,18.0,SANTIAGO,9,66194,946.24
+134,2026-01-12,,33076,594,Vicente Pérez,49.0,Santiago,5,97963,
+469,2025-10-26,Hogar,39931,2088,Valentina Torres,34.0,Valparaíso,3,108446,
+283,2025-02-19,Hogar,61669,1269,Joaquín Céspedes,18.0,Valparaíso,6,142983,950.43
+466,2025-03-16,Deportes,5405,2070,Catalina Silva,,Valparaíso,6,191442,
+456,2025-04-18,Belleza,72768,2026,Vicente Silva,40.0,Temuco,6,338914,
+30,2025-09-29,Hogar,29559,137,Pablo Torres,44.0,Santiago,7,82510,958.9
+117,2025-09-27,Hogar,11802,519,Ana Rojas,36.0,La Serena,8,136387,
+396,2025-06-11,Electrónica,9646,1765,Gabriel Silva,18.0,Temuco,6,165555,938.88
+72,2025-05-02,Electrónica,23490,335,Valentina Pérez,45.0,Antofagasta,4,322269,955.67
+176,2025-11-13,Moda,73273,782,Benjamín Martínez,18.0,Santiago,3,233940,932.37
+445,2025-09-19,Juguetes,9564,1990,Tomás Céspedes,62.0,Santiago,2,32589,
+329,2025-10-05,Belleza,13969,1458,Camila Torres,45.0,Temuco,8,243402,
+294,2025-10-31,Belleza,36021,1320,Mateo Sepúlveda,47.0,Santiago  ,3,117516,
+208,2025-02-06,Alimentos,2133,926,Catalina Silva,,La Serena,8,176337,969.47
+209,2025-04-28,Belleza,2762,941,Martina Soto,18.0,Santiago  ,10,82407,936.74
+161,2025-06-29,Deportes,1500,711,Catalina Muñoz,34.0,Santiago,4,65783,
+4,2025-12-10,Hogar,46545,16,Pablo Torres,32.0,Valparaíso,6,101303,926.89
+233,2025-05-11,Moda,4484,1062,Ana Torres,22.0,Santiago,5,33203,
+61,2025-05-29,Belleza,74575,288,Antonia Contreras,35.0,Santiago,5,172945,940.21
+261,2025-09-20,Deportes,9191,1172,Fernanda Muñoz,28.0,La Serena,1,8327,
+432,2025-03-08,Hogar,42513,1933,Daniela Vergara,42.0,Santiago,3,65089,
+468,2025-10-12,Juguetes,210903,2083,Vicente Díaz,38.0,Santiago,9,631306,
+128,2026-01-02,Hogar,2988,571,Fernanda Pérez,27.0,Santiago  ,6,119686,
+147,2025-07-03,Belleza,14840,655,Ana Soto,32.0,Santiago,5,101163,926.51
+394,2025-10-20,Moda,3545,1757,Vicente Flores,30.0,Santiago,2,12903,960.34
+376,2025-03-31,Belleza,29327,1667,Sofía Contreras,40.0,Temuco,6,88284,946.1
+102,2025-12-14,Moda,70732,466,Valentina Martínez,52.0,La Serena,6,314147,
+246,2025-08-03,Hogar,18251,1117,Sofía Pérez,33.0,Valparaíso,3,72627,
+42,2025-03-11,Electrónica,4047,200,Fernanda González,44.0,Valparaíso,6,100265,931.13
+243,2025-05-23,Deportes,60765,1104,Sofía Silva,39.0,ANTOFAGASTA,6,237596,944.84
+340,2025-06-10,Moda,18453,1504,Catalina Torres,23.0,Valparaíso,6,92219,937.09
+392,2025-12-29,Electrónica,30969,1751,Valentina Vergara,,Rancagua,5,125042,904.54
+215,2025-03-26,Electrónica,27462,975,Daniela Torres,45.0,La Serena,8,126845,919.92
+319,2025-02-10,Hogar,16429,1415,Antonia Vergara,38.0,Concepción,6,103936,960.6
+250,2025-09-05,Hogar,10306,1125,Ana Muñoz,18.0,Antofagasta,2,60738,971.22
+390,2025-08-03,Belleza,41773,1743,Valentina Rojas,30.0,Concepción,5,154388,
+368,2026-01-27,Moda,5630,1627,Mateo Sepúlveda,40.0,Antofagasta,2,33510,
+376,2025-11-08,Moda,18258,1666,Sofía Contreras,40.0,Temuco,6,88284,
+134,2025-10-22,Belleza,1802,592,Vicente Pérez,49.0,Santiago,5,97963,951.78
+276,2025-07-09,Deportes,43422,1235,Benjamín Flores,55.0,Antofagasta,4,109601,945.39
+393,2025-10-06,Belleza,23512,1753,Josefa Contreras,32.0,Santiago,3,130699,963.17
+311,2025-12-05,,30209,1383,Joaquín González,54.0,Santiago,7,170137,918.15
+471,2025-07-29,Electrónica,34764,2096,Daniela Díaz,18.0,Santiago,2,53747,969.75
+399,2025-10-31,Hogar,26914,1779,Martina González,40.0,Santiago,4,170636,
+468,2025-12-25,Juguetes,80081,2081,Vicente Díaz,38.0,Santiago,9,631306,
+228,2025-02-11,Deportes,43393,1037,Vicente Céspedes,58.0,Santiago,6,438418,960.81
+418,2025-12-17,Belleza,11218,1874,Camila Martínez,18.0,Santiago,6,100695,913.74
+184,2025-12-21,Alimentos,2616,817,Joaquín Flores,37.0,Valparaíso  ,6,133934,
+10,2025-07-09,Deportes,9318,44,Sofía Rojas,48.0,Santiago,8,1333744,945.39
+387,2025-06-06,Hogar,9387,1725,Sofía González,39.0,Santiago,4,79355,930.79
+58,2025-04-09,Moda,127918,275,Valentina Torres,18.0,VALPARAÍSO,3,237942,993.89
+308,2025-12-13,Hogar,5240,1376,Vicente Céspedes,28.0,Santiago,4,54130,
+196,2025-11-25,Alimentos,67662,866,Sofía Rojas,32.0,Valparaíso,3,96004,939.57
+23,2025-06-19,Electrónica,4117,102,Valentina Muñoz,29.0,SANTIAGO,8,137927,943.36
+267,2025-04-01,Moda,9367,1193,Pablo Silva,36.0,Santiago,4,58791,953.07
+239,2025-07-30,Belleza,5146,1084,Mateo Martínez,27.0,Santiago,7,68480,970.09
+278,2025-08-28,Alimentos,23221,1245,Fernanda Céspedes,48.0,Santiago,4,38836,968.64
+23,2025-11-29,Alimentos,18931,108,Valentina Muñoz,29.0,SANTIAGO,8,137927,
+287,2025-12-24,Moda,10546,1284,Valentina González,39.0,Antofagasta,6,184961,906.44
+110,2025-06-21,Deportes,13688,498,Daniela Torres,51.0,Santiago,1,15117,
+221,2025-08-08,Electrónica,9180,1006,Camila Céspedes,39.0,Valparaíso,4,115199,971.88
+181,2025-05-23,Juguetes,1500,803,Antonia Martínez,30.0,Santiago,5,127936,944.84
+365,2025-11-10,Belleza,18552,1607,Camila Sepúlveda,22.0,Santiago,12,228862,946.24
+243,2025-04-29,Moda,120962,1105,Sofía Silva,39.0,ANTOFAGASTA,6,237596,937.54
+351,2025-03-04,Belleza,18290,1548,Tomás Flores,40.0,Santiago,8,244951,953.11
+272,2025-06-30,Belleza,7790,1212,Ana Flores,42.0,Valparaíso,8,469265,935.74
+311,2025-06-06,Belleza,10183,1386,Joaquín González,54.0,Santiago,7,170137,930.79
+367,2025-10-06,Moda,40601,1620,Benjamín Sepúlveda,38.0,Antofagasta,7,199989,963.17
+468,2025-12-18,Moda,89006,2080,Vicente Díaz,38.0,Santiago,9,631306,917.45
+213,2025-03-10,Hogar,35206,963,Fernanda Martínez,40.0,Antofagasta,7,128371,928.25
+406,2025-10-17,Hogar,10282,1809,Tomás Vergara,40.0,Concepción,13,379598,956.13
+162,2025-08-23,Moda,22388,713,Joaquín Martínez,32.0,Temuco,4,201850,
+16,2025-06-18,Belleza,183619,73,Fernanda Céspedes,38.0,Santiago,4,295672,939.29
+112,2025-07-26,Juguetes,16953,501,Fernanda Soto,28.0,Concepción,2,32671,
+343,2025-05-24,Deportes,11469,1514,Lucas Torres,31.0,Valparaíso,5,83843,
+407,2025-04-01,Juguetes,8584,1821,Pablo Pérez,18.0,Valparaíso,10,127768,953.07
+217,2025-02-21,Belleza,4965,986,Sofía Contreras,43.0,VALPARAÍSO,4,121409,944.65
+106,2025-11-05,Hogar,2165,482,Fernanda Contreras,32.0,La Serena,6,174363,945.13
+299,2025-12-05,Juguetes,63909,1342,Martina Díaz,34.0,La Serena,6,149096,918.15
+115,2025-03-23,Electrónica,19459,507,Tomás Vergara,33.0,Santiago,2,60053,
+365,2025-03-04,Electrónica,1500,1617,Camila Sepúlveda,22.0,Santiago,12,228862,953.11
+270,2025-02-28,Belleza,31601,1209,Vicente Pérez,35.0,Concepción,2,39057,951.21
+247,2025-05-19,Juguetes,19558,1118,Fernanda Contreras,26.0,Santiago,2,41174,944.46
+354,2025-03-22,Deportes,23082,1562,Pablo Rojas,26.0,Temuco,5,89958,
+340,2025-08-06,Belleza,4572,1502,Catalina Torres,23.0,Valparaíso,6,92219,966.02
+240,2025-09-06,Electrónica,25965,1092,Lucas Torres,26.0,Santiago,3,55122,
+464,2025-02-06,Hogar,39978,2059,Pablo Rojas,32.0,SANTIAGO,10,401861,969.47
+355,2025-05-10,Hogar,36256,1567,Catalina Díaz,28.0,Santiago,6,382724,
+402,2025-05-13,Electrónica,12053,1787,Fernanda González,50.0,Santiago,4,43587,941.2
+465,2025-10-29,Moda,18112,2067,Ana Flores,24.0,Rancagua,4,87431,941.63
+64,2025-10-30,Electrónica,18876,312,Catalina Muñoz,49.0,Concepción,6,96146,940.57
+259,2025-03-22,Hogar,16067,1164,Valentina Céspedes,41.0,Santiago,6,168625,
+87,2025-06-14,Hogar,104331,406,Sofía Vergara,,Santiago,7,451909,
+41,2025-06-21,Juguetes,25299,197,Valentina Vergara,31.0,Talca,4,106925,
+244,2025-04-07,Moda,5800,1106,Lucas Rojas,46.0,Santiago,7,49886,975.82
+291,2025-12-17,Juguetes,1500,1305,Ignacio Céspedes,35.0,Santiago,6,69563,913.74
+232,2025-07-30,Deportes,11827,1059,Gabriel Pérez,53.0,Santiago,7,128605,970.09
+322,2025-04-19,Deportes,3749,1430,Camila Vergara,59.0,Concepción,2,53405,
+64,2025-12-04,Deportes,16909,310,Catalina Muñoz,49.0,Concepción,6,96146,919.46
+48,2026-01-20,Hogar,12492,227,Gabriel Silva,22.0,Santiago,4,59436,
+170,2025-05-12,Moda,9987,744,Ana Céspedes,36.0,SANTIAGO,4,185450,933.26
+182,2025-12-09,Moda,49165,807,Valentina Céspedes,47.0,Santiago,7,200149,920.02
+470,2025-02-28,Juguetes,61104,2093,Antonia González,30.0,Santiago,5,136103,951.21
+282,2025-09-27,Belleza,6263,1259,Benjamín Silva,33.0,Temuco,6,93747,
+349,2025-12-20,Electrónica,63799,1539,Valentina Sepúlveda,57.0,Santiago,5,143678,
+428,2025-07-01,Deportes,7411,1918,Ignacio Díaz,18.0,Antofagasta,4,50262,933.42
+491,2025-03-09,Deportes,24599,2191,Antonia Díaz,36.0,Concepción,1,24305,
+409,2025-06-08,Alimentos,69900,1831,Antonia Pérez,120.0,Santiago,4,178955,
+253,2025-04-02,Deportes,37737,1134,Valentina Céspedes,51.0,Santiago,6,225366,946.28
+32,2025-12-13,Alimentos,44292,149,Isidora Muñoz,37.0,Concepción,6,68093,
+423,2025-08-07,Belleza,50172,1894,Fernanda Soto,24.0,Concepción,7,466236,976.42
+259,2025-03-18,Juguetes,11210,1165,Valentina Céspedes,41.0,Santiago,6,168625,923.32
+421,2025-04-30,Electrónica,23794,1879,Antonia Torres,22.0,Santiago,6,108194,945.42
+62,2025-06-01,Juguetes,11238,292,Daniela González,35.0,Santiago,8,111464,
+157,2025-09-07,Electrónica,18679,693,Camila Martínez,32.0,Antofagasta,6,149525,
+184,2026-01-19,Electrónica,1874940,819,Joaquín Flores,37.0,Valparaíso  ,6,133934,
+160,2025-08-15,Electrónica,1500,705,Fernanda Díaz,56.0,Santiago,4,26527,
+474,2026-01-23,Moda,49290,2109,Benjamín Soto,27.0,Temuco,2,51414,
+462,2025-11-27,Deportes,26093,2047,Camila Pérez,43.0,SANTIAGO,4,85124,930.89
+333,2025-05-29,Belleza,45281,1474,Mateo Soto,23.0,Santiago,6,254770,940.21
+129,2025-07-01,Hogar,8303,576,Vicente Contreras,50.0,Valparaíso,3,88953,933.42
+125,2025-10-01,Moda,11469,558,Gabriel Silva,35.0,Talca  ,5,48915,962.39
+363,2026-01-16,Alimentos,82759,1595,Isidora Céspedes,44.0,La Serena,5,151483,
+159,2025-07-16,Juguetes,5309,702,Tomás Céspedes,32.0,Concepción,6,109010,
+239,2025-09-13,Moda,3510,1090,Mateo Martínez,27.0,Santiago,7,68480,
+207,2025-11-24,Juguetes,70850,922,Fernanda González,23.0,Antofagasta,6,158417,937.36
+414,2025-04-14,Hogar,26450,1856,Camila Flores,,Talca  ,10,259794,978.09
+331,2025-02-23,Belleza,24013,1468,Tomás Rojas,27.0,Concepción,3,137588,
+204,2025-04-04,Moda,13120,906,Joaquín Muñoz,21.0,Temuco,6,90057,946.59
+378,2026-01-15,Belleza,33184,1685,Daniela Martínez,23.0,Santiago,9,315431,
+268,2025-06-22,Belleza,14027,1201,Mateo Soto,39.0,Santiago,6,72511,
+171,2025-06-15,Moda,16998,749,Camila Flores,35.0,Santiago,7,117552,
+328,2025-08-06,Juguetes,8012,1452,Ana Torres,38.0,Santiago,4,107854,966.02
+473,2025-08-25,Hogar,13725,2105,Pablo Soto,48.0,Santiago,6,140937,964.15
+34,2025-04-08,Electrónica,8135,168,Vicente Rojas,34.0,Concepción,5,152189,990.68
+167,2025-06-19,Belleza,87838,731,Mateo Contreras,52.0,Antofagasta,8,500959,943.36
+365,2025-12-10,Electrónica,10583,1616,Camila Sepúlveda,22.0,Santiago,12,228862,926.89
+61,2025-09-21,Moda,11624,287,Antonia Contreras,35.0,Santiago,5,172945,
+467,2025-02-08,,57208,2078,Valentina Silva,18.0,Rancagua,5,234537,
+450,2025-11-07,Electrónica,47239,2010,Martina Rojas,62.0,Santiago,2,74493,940.84
+240,2025-03-16,Alimentos,13081,1091,Lucas Torres,26.0,Santiago,3,55122,
+197,2025-12-28,Belleza,49191,874,Mateo Martínez,18.0,La Serena,7,245646,
+141,2025-07-12,Juguetes,91787,629,Catalina Vergara,25.0,La Serena,4,122536,
+135,2025-11-13,Juguetes,19054,599,Fernanda Muñoz,42.0,Santiago,4,59481,932.37
+275,2025-11-25,Alimentos,32572,1230,Pablo Sepúlveda,23.0,Santiago,5,97151,939.57
+83,2025-05-11,Electrónica,52907,378,Valentina Céspedes,40.0,Santiago,8,184300,
+32,2025-11-01,Belleza,8268,153,Isidora Muñoz,37.0,Concepción,6,68093,
+334,2025-08-18,Electrónica,28848,1477,Ignacio Muñoz,36.0,Concepción,2,67864,961.84
+445,2025-12-03,Electrónica,22281,1991,Tomás Céspedes,62.0,Santiago,2,32589,925.37
+464,2025-10-30,Electrónica,48684,2054,Pablo Rojas,32.0,SANTIAGO,10,401861,940.57
+224,2025-03-01,Deportes,10389,1018,Isidora Céspedes,53.0,Rancagua,2,39146,
+347,2025-08-19,,61784,1531,Catalina Muñoz,40.0,Santiago,7,271177,966.24
+254,2025-05-30,Moda,24483,1144,Mateo Flores,34.0,Valparaíso,6,119936,937.37
+10,2025-05-04,Alimentos,389009,42,Sofía Rojas,48.0,Santiago,8,1333744,
+353,2025-03-08,Electrónica,3848,1559,Martina Flores,49.0,Antofagasta,4,96110,
+219,2025-11-25,Moda,5634,999,Pablo Rojas,18.0,Concepción,5,110395,939.57
+340,2025-08-06,Belleza,4572,1502,Catalina Torres,23.0,Valparaíso,6,92219,966.02
+310,2025-03-16,Deportes,11065,1379,Camila Flores,28.0,Talca  ,4,27904,
+427,2025-07-30,Hogar,12056,1911,Gabriel Contreras,41.0,Santiago,8,309457,970.09
+224,2025-04-11,Alimentos,27142,1019,Isidora Céspedes,53.0,Rancagua,2,39146,988.97
+220,2026-01-04,Hogar,10010,1000,Antonia Silva,31.0,Rancagua,5,65478,
+138,2025-12-12,Belleza,5844,610,Ana Díaz,22.0,LA SERENA,6,143559,916.9
+292,2025-05-18,Belleza,4608,1311,Martina Soto,56.0,Santiago,5,78683,
+369,2025-12-17,Moda,9697,1630,Ana Soto,57.0,Santiago,12,131047,913.74
+401,2025-05-13,Belleza,111025,1785,Catalina González,51.0,Valparaíso,2,140396,941.2
+370,2025-09-27,Belleza,2216,1646,Fernanda González,41.0,Santiago,6,271025,
+302,2025-06-16,Electrónica,69567,1353,Ignacio Díaz,43.0,Santiago,8,248894,937.78
+108,2025-08-04,Moda,19910,494,Joaquín Contreras,24.0,Santiago,7,248703,967.48
+372,2026-01-11,Belleza,95950,1651,Joaquín Muñoz,68.0,Santiago,3,118400,
+59,2025-08-19,Juguetes,31899,278,Daniela Sepúlveda,31.0,Concepción,4,179167,966.24
+172,2026-01-10,Hogar,14950,758,Sofía Silva,34.0,Concepción,9,167098,
+489,2025-06-17,Electrónica,17532,2182,Fernanda Rojas,34.0,Santiago,10,136926,935.21
+78,2025-09-23,Electrónica,22135,359,Isidora Contreras,26.0,Concepción,3,64846,954.72
+313,2025-10-01,Moda,28006,1392,Camila Vergara,32.0,Talca,4,104924,962.39
+50,2025-07-04,Moda,73564,237,Fernanda Vergara,36.0,Santiago,5,131071,927.87
+436,2025-08-23,Belleza,19169,1948,Camila Flores,33.0,Santiago,6,169964,
+124,2025-10-02,Belleza,37779,552,Benjamín Pérez,28.0,Valparaíso,7,297134,959.19
+117,2025-11-22,Electrónica,17356,521,Ana Rojas,36.0,La Serena,8,136387,
+446,2025-04-06,Juguetes,9325,1992,Joaquín Céspedes,18.0,Santiago,4,26506,
+43,2025-10-23,Hogar,26673,209,Daniela Muñoz,40.0,Antofagasta,6,84610,950.46
+389,2025-12-02,Electrónica,18033,1737,Gabriel González,41.0,Santiago,5,66038,927.95
+200,2025-10-21,Juguetes,16263,882,Catalina Céspedes,64.0,Santiago,4,42180,953.21
+164,2025-03-23,Juguetes,1500,721,Pablo Muñoz,,Santiago,4,123755,
+354,2025-09-23,Hogar,4084,1561,Pablo Rojas,26.0,Temuco,5,89958,954.72
+439,2026-01-08,Alimentos,2240,1962,Sofía Soto,43.0,Temuco,9,210266,
+391,2026-02-03,Moda,30900,1746,Daniela Céspedes,29.0,Santiago,2,44345,
+13,2025-02-23,Electrónica,8516,59,Daniela Sepúlveda,40.0,Santiago,8,436526,
+142,2025-12-12,Electrónica,53779,632,Isidora Torres,51.0,Antofagasta,5,347936,916.9
+444,2025-06-25,Electrónica,21838,1988,Benjamín Soto,30.0,Santiago,3,91748,937.89
+295,2025-04-19,Belleza,24653,1324,Tomás Soto,36.0,SANTIAGO,3,88360,
+134,2025-02-15,Moda,16206,593,Vicente Pérez,49.0,Santiago,5,97963,
+442,2025-12-14,Hogar,16997,1979,Mateo Pérez,35.0,ANTOFAGASTA,6,189438,
+80,2025-04-08,Belleza,7736,364,Joaquín Céspedes,29.0,Santiago,2,56185,990.68
+426,2025-10-22,Belleza,27960,1906,Valentina Flores,28.0,Santiago,2,62530,951.78
+114,2025-09-11,Hogar,62642,506,Benjamín Pérez,38.0,,3,75159,962.73
+367,2025-10-15,Moda,116820,1623,Benjamín Sepúlveda,38.0,Antofagasta,7,199989,963.69
+381,2025-02-17,Deportes,46036,1702,Ana Céspedes,26.0,Santiago,9,445915,939.54
+209,2025-04-18,Hogar,11580,940,Martina Soto,18.0,Santiago  ,10,82407,
+316,2025-07-20,Alimentos,38103,1404,Joaquín Sepúlveda,18.0,Temuco,4,102841,
+449,2025-05-20,Juguetes,28746,2009,Tomás Flores,25.0,Temuco,3,56842,936.69
+204,2025-08-25,Hogar,13335,905,Joaquín Muñoz,21.0,Temuco,6,90057,964.15
+167,2025-10-14,Moda,126044,734,Mateo Contreras,52.0,Antofagasta,8,500959,957.66
+121,2025-09-01,Belleza,11813,536,Pablo Soto,18.0,La Serena,4,132910,965.28
+359,2025-04-09,Electrónica,138199,1583,Sofía Vergara,47.0,Santiago,7,452801,993.89
+489,2025-10-06,Moda,7669,2177,Fernanda Rojas,34.0,Santiago,10,136926,963.17
+279,2025-12-02,Belleza,87016,1246,Sofía Rojas,36.0,,3,160650,927.95
+282,2025-08-09,Alimentos,12907,1260,Benjamín Silva,33.0,Temuco,6,93747,
+492,2025-03-06,Moda,47967,2194,Gabriel Contreras,56.0,LA SERENA,5,198661,936.7
+25,2025-05-27,Hogar,24550,119,Fernanda Díaz,53.0,Santiago,6,178627,938.28
+352,2025-08-22,Moda,21892,1554,Ana Sepúlveda,18.0,Santiago,3,94588,968.63
+160,2025-07-18,Belleza,2346,707,Fernanda Díaz,56.0,Santiago,4,26527,966.78
+226,2025-02-25,Alimentos,15444,1023,Mateo Céspedes,32.0,Santiago,8,160620,946.96
+170,2025-04-30,Juguetes,67761,746,Ana Céspedes,36.0,SANTIAGO,4,185450,945.42
+336,2025-09-20,,3287,1482,Ignacio Martínez,42.0,Valparaíso  ,8,162645,
+374,2025-12-24,Moda,47727,1655,Josefa Céspedes,25.0,Santiago,5,293670,906.44
+116,2025-07-23,Deportes,17938,514,Vicente Silva,40.0,La Serena,7,224345,953.4
+18,2025-07-07,Alimentos,1500,82,Camila González,39.0,LA SERENA,5,47001,932.34
+440,2025-06-16,Hogar,7561,1972,Josefa Contreras,38.0,SANTIAGO,5,308188,937.78
+205,2025-10-11,Hogar,36172,915,Benjamín Céspedes,18.0,Santiago,10,261664,
+468,2025-06-14,Deportes,24260,2086,Vicente Díaz,38.0,Santiago,9,631306,
+32,2025-07-06,Moda,5430,151,Isidora Muñoz,37.0,Concepción,6,68093,
+174,2025-06-19,Moda,4719,775,Daniela Céspedes,56.0,Concepción,9,218391,943.36
+70,2025-09-29,Moda,7829,330,Benjamín Contreras,47.0,Valparaíso,4,31037,958.9
+2,2025-04-09,,41672,7,Fernanda Vergara,46.0,Temuco,5,114303,993.89
+210,2025-06-12,Alimentos,7733,944,Fernanda Soto,26.0,VALPARAÍSO,3,133985,936.36
+288,2025-11-21,Hogar,47184,1291,Vicente Vergara,26.0,Santiago,5,268697,929.0
+404,2025-05-17,Deportes,57649,1794,Catalina Torres,18.0,Valparaíso,4,114966,
+205,2025-06-25,Belleza,48327,910,Benjamín Céspedes,18.0,Santiago,10,261664,937.89
+103,2025-06-20,Deportes,15696,469,Ignacio Martínez,34.0,Temuco,3,145527,
+37,2026-01-10,Hogar,28595,182,Gabriel Soto,43.0,Valparaíso,4,104219,
+34,2025-05-18,Alimentos,94060,165,Vicente Rojas,34.0,Concepción,5,152189,
+99,2026-01-26,Juguetes,57635,452,Lucas Silva,34.0,Talca,6,283508,
+108,2025-04-01,Deportes,1500,491,Joaquín Contreras,24.0,Santiago,7,248703,953.07
+253,2025-10-17,Electrónica,18119,1133,Valentina Céspedes,51.0,Santiago,6,225366,956.13
+383,2025-06-24,Hogar,34310,1711,Antonia Soto,34.0,Temuco,7,185769,950.16
+269,2025-04-03,Moda,24349,1203,Lucas Céspedes,25.0,Santiago,5,111300,949.83
+268,2025-02-19,Electrónica,12508,1197,Mateo Soto,39.0,Santiago,6,72511,950.43
+455,2025-09-22,Belleza,85970,2021,Vicente Martínez,32.0,Temuco,4,127201,951.03
+70,2025-12-13,Hogar,7597,328,Benjamín Contreras,47.0,Valparaíso,4,31037,
+98,2025-03-05,Belleza,24745,443,Joaquín Martínez,27.0,Concepción,5,203985,948.87
+288,2025-02-19,Alimentos,94520,1289,Vicente Vergara,26.0,Santiago,5,268697,950.43
+249,2025-04-21,Juguetes,85300,1122,Fernanda Díaz,18.0,La Serena,3,215864,968.71
+187,2025-07-07,Moda,5176,833,Valentina Pérez,28.0,Santiago,8,121661,932.34
+350,2025-03-24,Alimentos,38351,1542,Valentina Silva,33.0,Rancagua,3,74270,932.14
+287,2025-12-15,Juguetes,3681,1285,Valentina González,39.0,Antofagasta,6,184961,912.66
+19,2025-10-12,Juguetes,39058,87,Ignacio Soto,43.0,Santiago,5,95817,
+497,2025-12-17,Hogar,7806,2213,Camila Contreras,41.0,Concepción,3,52400,913.74
+175,2025-09-20,Electrónica,75897,778,Joaquín Silva,,Concepción,4,125233,
+271,2025-08-17,Belleza,10882,1211,Martina Vergara,42.0,Santiago,2,34422,
+12,2025-02-16,Electrónica,30818,55,Catalina Martínez,18.0,Antofagasta,6,121573,
+476,2025-05-28,Moda,103221,2120,Fernanda Rojas,18.0,Concepción,7,355255,937.93
+304,2025-11-13,Deportes,78699,1361,Gabriel Torres,53.0,,6,235779,932.37
+284,2025-02-17,Belleza,2593,1272,Benjamín Céspedes,47.0,Concepción,5,78110,939.54
+25,2025-11-05,Alimentos,37840,114,Fernanda Díaz,53.0,Santiago,6,178627,945.13
+217,2025-02-16,Moda,22681,988,Sofía Contreras,43.0,VALPARAÍSO,4,121409,
+22,2025-09-26,Hogar,11492,101,Josefa Muñoz,31.0,Santiago,3,45041,956.42
+284,2026-01-05,Electrónica,9158,1270,Benjamín Céspedes,47.0,Concepción,5,78110,
+222,2026-01-16,Moda,10417,1010,Benjamín Flores,42.0,Santiago,4,35877,
+133,2025-08-23,Moda,14777,590,Sofía Soto,50.0,Santiago,2,40595,
+400,2025-09-13,Moda,36996,1783,Mateo Silva,21.0,Valparaíso,4,121404,
+439,2025-12-31,Electrónica,52956,1961,Sofía Soto,43.0,Temuco,9,210266,
+380,2025-05-08,Electrónica,42693,1693,Martina Silva,39.0,Concepción,4,84752,945.44
+60,2025-10-09,Electrónica,22374,286,Joaquín Sepúlveda,18.0,Valparaíso,6,237199,951.45
+93,2025-06-04,Hogar,25484,429,Ignacio Rojas,40.0,Santiago,5,86792,941.53
+329,2025-09-24,Deportes,27787,1462,Camila Torres,45.0,Temuco,8,243402,952.87
+151,2025-06-25,Belleza,21636,670,Gabriel Soto,31.0,Santiago,5,189609,937.89
+8,2025-02-20,Belleza,163470,32,Joaquín Rojas,23.0,Antofagasta,4,115258,951.78
+166,2025-12-12,Electrónica,16146,723,Ignacio Vergara,27.0,La Serena,4,73809,916.9
+212,2025-10-27,Hogar,40587,952,Daniela Contreras,39.0,Concepción,6,109197,943.47
+355,2025-12-03,Hogar,10945,1565,Catalina Díaz,28.0,Santiago,6,382724,925.37
+46,2025-04-01,Hogar,31926,215,Catalina González,29.0,Santiago,2,64164,953.07
+326,2025-12-08,Moda,26933,1448,Isidora Céspedes,30.0,Santiago,4,75680,
+69,2025-08-22,Moda,12604,327,Sofía Silva,35.0,Santiago,2,36005,968.63
+126,2025-09-20,Juguetes,25841,561,Vicente Rojas,45.0,Santiago,5,235402,
+239,2025-07-30,Alimentos,9501,1087,Mateo Martínez,27.0,Santiago,7,68480,970.09
+439,2025-09-04,Alimentos,38532,1964,Sofía Soto,43.0,Temuco,9,210266,969.46
+73,2025-06-14,Alimentos,53869,342,Benjamín Rojas,43.0,Valparaíso,7,379422,
+31,2025-08-29,Alimentos,10423,148,Benjamín Silva,36.0,Concepción,5,170439,967.48
+338,2025-08-22,Hogar,37428,1492,Mateo Muñoz,32.0,Talca,5,81453,968.63
+390,2025-02-15,Hogar,53861,1745,Valentina Rojas,30.0,Concepción,5,154388,
+214,2026-01-12,Electrónica,38256,967,Pablo Martínez,19.0,Temuco,5,156582,
+446,2025-11-29,Deportes,3787,1993,Joaquín Céspedes,18.0,Santiago,4,26506,
+33,2025-11-06,Hogar,4465,156,Sofía Muñoz,45.0,Santiago,9,211352,945.6
+299,2025-08-14,Alimentos,14131,1341,Martina Díaz,34.0,La Serena,6,149096,952.37
+294,2025-07-02,Alimentos,46303,1322,Mateo Sepúlveda,47.0,Santiago  ,3,117516,926.62
+423,2025-02-17,Moda,104564,1889,Fernanda Soto,24.0,Concepción,7,466236,939.54
+477,2026-01-11,Deportes,11157,2123,Ignacio Céspedes,52.0,Valparaíso,6,78820,
+393,2025-10-14,Belleza,89644,1755,Josefa Contreras,32.0,Santiago,3,130699,957.66
+398,2025-11-27,Deportes,22336,1772,Valentina González,30.0,Santiago,5,265254,930.89
+478,2025-11-09,Hogar,4633,2133,Ana Silva,33.0,Santiago,7,141026,
+293,2025-12-28,Deportes,6285,1314,Catalina Martínez,29.0,SANTIAGO,6,79282,
+477,2025-05-23,Electrónica,22791,2126,Ignacio Céspedes,52.0,Valparaíso,6,78820,944.84
+326,2025-04-06,Alimentos,5580,1447,Isidora Céspedes,30.0,Santiago,4,75680,
+365,2025-03-20,Moda,7922,1613,Camila Sepúlveda,22.0,Santiago,12,228862,917.76
+455,2026-01-08,Juguetes,11897,2024,Vicente Martínez,32.0,Temuco,4,127201,
+209,2025-02-06,Moda,13983,939,Martina Soto,18.0,Santiago  ,10,82407,969.47
+492,2025-06-22,Moda,9013,2193,Gabriel Contreras,56.0,LA SERENA,5,198661,
+75,2025-06-14,Belleza,22366,347,Joaquín González,47.0,Antofagasta,2,52355,
+389,2025-10-03,Moda,6153,1738,Gabriel González,41.0,Santiago,5,66038,961.54
+319,2025-02-16,Alimentos,35833,1419,Antonia Vergara,38.0,Concepción,6,103936,
+84,2025-09-29,Alimentos,52017,386,Ignacio González,20.0,Santiago,6,328573,958.9
+405,2025-10-24,Electrónica,15298,1798,Benjamín Soto,45.0,Rancagua,4,64036,945.34
+293,2025-07-18,Moda,2816,1317,Catalina Martínez,29.0,SANTIAGO,6,79282,966.78
+51,2025-11-03,Electrónica,5269,244,Fernanda Sepúlveda,32.0,Valparaíso,6,65689,943.69
+270,2025-07-17,Electrónica,5845,1208,Vicente Pérez,35.0,Concepción,2,39057,965.65
+209,2025-06-04,Juguetes,15116,937,Martina Soto,18.0,Santiago  ,10,82407,941.53
+414,2026-01-27,Belleza,29439,1851,Camila Flores,,Talca  ,10,259794,
+64,2025-12-26,Belleza,17828,313,Catalina Muñoz,49.0,Concepción,6,96146,905.04
+497,2025-09-30,Moda,20110,2212,Camila Contreras,41.0,Concepción,3,52400,961.24
+215,2025-12-05,Juguetes,15303,969,Daniela Torres,45.0,La Serena,8,126845,918.15
+148,2025-08-25,Juguetes,23369,661,Isidora Contreras,36.0,Valparaíso,3,44429,964.15
+417,2025-04-25,Electrónica,26552,1869,Catalina Contreras,33.0,Santiago,1,26936,937.81
+81,2026-01-09,Electrónica,4717,371,Antonia Céspedes,42.0,Valparaíso,8,276772,
+127,2025-08-13,Belleza,87989,567,Sofía Díaz,37.0,Antofagasta,3,167258,962.28
+362,2025-07-21,Juguetes,8569,1594,Gabriel Torres,34.0,La Serena,3,40609,961.55
+185,2025-07-01,Belleza,65768,825,Benjamín Muñoz,47.0,Concepción,3,114478,933.42
+216,2026-02-03,Juguetes,3387,983,Martina Sepúlveda,25.0,Santiago,9,68242,
+266,2025-06-01,Electrónica,2592,1191,Vicente Martínez,21.0,Santiago,5,103099,
+183,2026-01-30,Moda,49533,814,Benjamín Flores,47.0,Santiago,4,99309,
+175,2025-10-30,Electrónica,24936,779,Joaquín Silva,,Concepción,4,125233,940.57
+232,2025-03-27,Electrónica,81251,1053,Gabriel Pérez,53.0,Santiago,7,128605,920.98
+332,2025-02-21,Hogar,14672,1469,Josefa Rojas,21.0,Valparaíso,1,15365,944.65
+223,2025-03-09,Belleza,18149,1014,Daniela Sepúlveda,33.0,Santiago,5,69873,
+310,2025-10-31,Moda,1500,1382,Camila Flores,28.0,Talca  ,4,27904,
+383,2026-05-01,Moda,77959,1712,Antonia Soto,34.0,Temuco,7,185769,
+457,2025-08-20,Juguetes,8164,2032,Camila Pérez,52.0,La Serena,2,12377,963.57
+28,2026-01-22,Electrónica,46774,127,Ignacio Muñoz,34.0,Talca,7,220161,
+201,2025-03-30,Belleza,100620,888,Josefa Contreras,57.0,Santiago,6,342264,
+221,2025-11-09,,3049,1008,Camila Céspedes,39.0,Valparaíso,4,115199,
+77,2025-06-09,Hogar,56560,356,Mateo Torres,36.0,Temuco,3,134992,933.91
+485,2025-09-01,Moda,9573,2164,Benjamín Silva,41.0,Santiago,2,14663,965.28
+154,2025-06-02,Belleza,35624,683,Martina Sepúlveda,40.0,Santiago,3,182452,941.97
+431,2025-09-20,Hogar,9799,1927,Sofía Contreras,33.0,Santiago  ,5,144048,
+365,2025-06-18,Belleza,30361,1612,Camila Sepúlveda,22.0,Santiago,12,228862,939.29
+216,2025-02-28,Belleza,6943,985,Martina Sepúlveda,25.0,Santiago,9,68242,951.21
+406,2025-03-02,Deportes,2252,1810,Tomás Vergara,40.0,Concepción,13,379598,
+30,2025-07-25,Alimentos,13645,141,Pablo Torres,44.0,Santiago,7,82510,951.27
+406,2025-08-02,Electrónica,77729,1805,Tomás Vergara,40.0,Concepción,13,379598,
+377,2026-01-17,Juguetes,8804,1673,Daniela Contreras,29.0,Santiago,7,101601,
+320,2025-04-28,Electrónica,7910,1424,Fernanda Flores,19.0,Santiago  ,7,148631,936.74
+441,2026-01-22,Hogar,21388,1976,Catalina Vergara,43.0,Santiago,5,157918,
+308,2025-04-19,Alimentos,25123,1375,Vicente Céspedes,28.0,Santiago,4,54130,
+263,2025-06-15,Deportes,17654,1177,Martina Flores,42.0,Santiago,6,74895,
+470,2025-11-22,,14825,2092,Antonia González,30.0,Santiago,5,136103,
+162,2026-01-18,Moda,97536,712,Joaquín Martínez,32.0,Temuco,4,201850,
+257,2025-06-11,Juguetes,16110,1158,Joaquín Martínez,0.0,Santiago,4,39963,938.88
+273,2025-09-22,Deportes,44563,1223,Valentina González,54.0,Concepción,5,129998,951.03
+197,2025-07-20,Electrónica,46698,872,Mateo Martínez,18.0,La Serena,7,245646,
+3,2025-02-08,Deportes,23313,11,Joaquín Flores,35.0,Temuco,3,43599,
+316,2026-01-08,Deportes,19897,1406,Joaquín Sepúlveda,18.0,Temuco,4,102841,
+477,2026-02-01,Electrónica,11996,2121,Ignacio Céspedes,52.0,Valparaíso,6,78820,
+172,2025-02-14,Alimentos,10509,755,Sofía Silva,34.0,Concepción,9,167098,949.52
+141,2025-05-12,Moda,11660,627,Catalina Vergara,25.0,La Serena,4,122536,933.26
+314,2025-08-21,Juguetes,16695,1396,Martina Rojas,49.0,Concepción,3,50907,965.06
+28,2025-10-08,Hogar,5653,130,Ignacio Muñoz,34.0,Talca,7,220161,961.61
+190,2025-12-06,Alimentos,22127,844,Mateo Martínez,35.0,Valparaíso,4,102301,
+67,2026-01-24,Deportes,10898,324,Antonia Rojas,41.0,La Serena,3,29806,
+492,2025-12-29,Hogar,15232,2195,Gabriel Contreras,56.0,LA SERENA,5,198661,904.54
+4,2025-09-11,Moda,5507,15,Pablo Torres,32.0,Valparaíso,6,101303,962.73
+377,2025-05-31,Moda,1775,1671,Daniela Contreras,29.0,Santiago,7,101601,
+46,2025-12-15,Moda,31559,216,Catalina González,29.0,Santiago,2,64164,912.66
+291,2025-10-21,Moda,7385,1308,Ignacio Céspedes,35.0,Santiago,6,69563,953.21
+358,2025-04-26,Hogar,9666,1576,Gabriel González,38.0,Temuco,3,67024,
+322,2025-10-19,Alimentos,49308,1431,Camila Vergara,59.0,Concepción,2,53405,
+283,2025-11-01,Deportes,5772,1264,Joaquín Céspedes,18.0,Valparaíso,6,142983,
+195,2025-06-15,Moda,138480,865,Catalina Céspedes,31.0,Temuco,5,219831,
+117,2025-05-13,Electrónica,3171,517,Ana Rojas,36.0,La Serena,8,136387,941.2
+135,2025-12-02,Hogar,19999,598,Fernanda Muñoz,42.0,Santiago,4,59481,927.95
+41,2025-06-09,Deportes,27251,196,Valentina Vergara,31.0,Talca,4,106925,933.91
+61,2025-12-31,Hogar,50824,289,Antonia Contreras,35.0,Santiago,5,172945,
+212,2025-11-12,Belleza,29671,951,Daniela Contreras,39.0,Concepción,6,109197,936.89
+335,2025-03-10,Moda,23052,1478,Benjamín Sepúlveda,18.0,La Serena,2,47623,928.25
+386,2025-09-16,Electrónica,63778,1724,Camila Martínez,19.0,Santiago,7,157740,951.14
+248,2025-06-29,Belleza,14856,1121,Pablo Díaz,18.0,Santiago,2,18639,
+124,2025-04-15,Electrónica,18852,550,Benjamín Pérez,28.0,Valparaíso,7,297134,966.07
+33,2025-08-25,Hogar,14102,157,Sofía Muñoz,45.0,Santiago,9,211352,964.15
+91,2026-01-15,Hogar,146161,420,Pablo Sepúlveda,40.0,Temuco,2,301945,
+207,2025-08-01,Belleza,37485,923,Fernanda González,23.0,Antofagasta,6,158417,976.8
+105,2025-10-09,Moda,18296,478,Fernanda Sepúlveda,22.0,Rancagua,5,135963,951.45
+431,2025-08-29,Hogar,20692,1930,Sofía Contreras,33.0,Santiago  ,5,144048,967.48
+124,2025-04-03,Belleza,148536,554,Benjamín Pérez,28.0,Valparaíso,7,297134,949.83
+84,2026-01-12,Hogar,99409,391,Ignacio González,20.0,Santiago,6,328573,
+130,2026-01-21,Moda,36954,579,Lucas Pérez,54.0,Antofagasta,4,199345,
+471,2025-06-29,Moda,22390,2097,Daniela Díaz,18.0,Santiago,2,53747,
+295,2025-06-14,Belleza,21994,1323,Tomás Soto,36.0,SANTIAGO,3,88360,
+464,2025-09-15,Hogar,18018,2056,Pablo Rojas,32.0,SANTIAGO,10,401861,954.58
+184,2025-02-07,Alimentos,39932,821,Joaquín Flores,37.0,Valparaíso  ,6,133934,967.59
+249,2025-04-21,Juguetes,85300,1122,Fernanda Díaz,18.0,La Serena,3,215864,968.71
+221,2025-08-31,Hogar,23778,1007,Camila Céspedes,39.0,Valparaíso,4,115199,
+293,2025-07-26,Hogar,41886,1316,Catalina Martínez,29.0,SANTIAGO,6,79282,
+149,2026-01-10,Belleza,37984,665,Ignacio Flores,36.0,Concepción,4,215241,
+422,2025-12-12,Deportes,29792,1886,Joaquín Silva,39.0,Antofagasta,3,87686,916.9
+30,2025-03-05,Moda,9146,143,Pablo Torres,44.0,Santiago,7,82510,948.87
+425,2025-06-02,Deportes,7257,1902,Pablo Rojas,53.0,Santiago,5,150982,941.97
+340,2026-01-13,Deportes,32704,1500,Catalina Torres,23.0,Valparaíso,6,92219,
+92,2025-04-15,Moda,13374,422,Ignacio Torres,,Santiago,4,50116,966.07
+180,2025-10-22,Electrónica,26202,800,Tomás Flores,41.0,Santiago,4,100172,951.78
+139,2025-12-30,Moda,12347,616,Mateo Sepúlveda,43.0,La Serena,5,63124,911.18
+62,2025-09-17,Alimentos,16010,296,Daniela González,35.0,Santiago,8,111464,948.57
+87,2025-07-26,Juguetes,43541,402,Sofía Vergara,,Santiago,7,451909,
+19,2025-04-06,Electrónica,1500,89,Ignacio Soto,43.0,Santiago,5,95817,
+375,2025-05-30,Deportes,10362,1661,Gabriel Vergara,40.0,La Serena,5,180519,937.37
+188,2025-11-13,Moda,137795,839,Josefa Silva,43.0,Rancagua,3,388775,932.37
+28,2026-01-04,Hogar,40121,132,Ignacio Muñoz,34.0,Talca,7,220161,
+284,2025-12-24,Moda,47945,1271,Benjamín Céspedes,47.0,Concepción,5,78110,906.44
+299,2025-04-11,Hogar,23314,1344,Martina Díaz,34.0,La Serena,6,149096,988.97
+408,2025-06-11,Electrónica,30468,1822,Camila Muñoz,35.0,Santiago,6,213680,938.88
+421,2026-01-19,Hogar,36400,1880,Antonia Torres,22.0,Santiago,6,108194,
+369,2025-07-04,Hogar,22586,1629,Ana Soto,57.0,Santiago,12,131047,927.87
+166,2026-01-05,Belleza,30523,725,Ignacio Vergara,27.0,La Serena,4,73809,
+321,2025-06-28,Electrónica,18605,1429,Mateo González,35.0,Santiago,3,35420,
+56,2025-03-02,Belleza,12121,270,Ana Contreras,40.0,SANTIAGO,7,135464,
+381,2025-03-19,Alimentos,97713,1701,Ana Céspedes,26.0,Santiago,9,445915,917.97
+206,2025-05-30,Deportes,4993,918,Martina Contreras,34.0,Valparaíso,2,33501,937.37
+412,2025-07-27,Moda,7137,1843,Isidora Muñoz,38.0,Temuco,5,64407,
+371,2026-01-10,Moda,14336,1648,Mateo Soto,43.0,La Serena,3,33052,
+288,2026-01-13,Hogar,48616,1290,Vicente Vergara,26.0,Santiago,5,268697,
+82,2025-04-12,Moda,7731,376,Pablo Sepúlveda,24.0,VALPARAÍSO,4,88528,
+72,2025-08-10,Electrónica,119871,334,Valentina Pérez,45.0,Antofagasta,4,322269,
+327,2025-06-06,Hogar,26357,1450,Isidora Vergara,18.0,Concepción  ,2,39473,930.79
+478,2025-06-15,Alimentos,30979,2129,Ana Silva,33.0,Santiago,7,141026,
+247,2025-08-09,Electrónica,18934,1119,Fernanda Contreras,26.0,Santiago,2,41174,
+205,2025-07-21,Juguetes,16712,911,Benjamín Céspedes,18.0,Santiago,10,261664,961.55
+175,2026-01-16,Electrónica,21956,777,Joaquín Silva,,Concepción,4,125233,
+378,2025-09-21,Alimentos,25239,1682,Daniela Martínez,23.0,Santiago,9,315431,
+70,2026-01-19,Alimentos,2369,329,Benjamín Contreras,47.0,Valparaíso,4,31037,
+458,2026-01-11,Moda,49329,2033,Lucas Silva,37.0,Valparaíso,3,68438,
+369,2025-11-30,Moda,9453,1638,Ana Soto,57.0,Santiago,12,131047,
+4,2025-10-07,Electrónica,29607,13,Pablo Torres,32.0,Valparaíso,6,101303,963.09
+203,2025-05-04,Electrónica,73194,898,Benjamín Muñoz,31.0,Santiago,4,129301,
+35,2025-10-04,Moda,18940,172,Gabriel Silva,26.0,Santiago,7,100129,
+55,2026-01-15,Electrónica,4030,261,Benjamín Flores,,Santiago,6,180447,
+343,2025-02-15,Moda,17790,1513,Lucas Torres,31.0,Valparaíso,5,83843,
+442,2025-08-04,Moda,33607,1981,Mateo Pérez,35.0,ANTOFAGASTA,6,189438,967.48
+204,2025-09-06,Hogar,6860,902,Joaquín Muñoz,21.0,Temuco,6,90057,
+55,2025-10-28,Electrónica,1585,259,Benjamín Flores,,Santiago,6,180447,938.19
+190,2025-02-09,Hogar,21596,845,Mateo Martínez,35.0,Valparaíso,4,102301,
+30,2025-10-01,Moda,16038,139,Pablo Torres,44.0,Santiago,7,82510,962.39
+66,2025-05-15,Electrónica,5667,320,Mateo Rojas,29.0,Concepción,5,50267,939.43
+480,2025-05-08,Belleza,34501,2145,Camila Contreras,63.0,Santiago,8,596687,945.44
+349,2025-03-21,Moda,11923,1538,Valentina Sepúlveda,57.0,Santiago,5,143678,926.15
+333,2025-08-12,Hogar,4502,1470,Mateo Soto,23.0,Santiago,6,254770,969.77
+125,2025-09-07,Electrónica,4491,559,Gabriel Silva,35.0,Talca  ,5,48915,
+30,2025-12-13,Belleza,6129,140,Pablo Torres,44.0,Santiago,7,82510,
+24,2025-02-06,Electrónica,30607,113,Antonia Sepúlveda,45.0,Concepción,4,73085,969.47
+119,2025-08-27,Juguetes,35958,532,Isidora González,30.0,Santiago,5,112218,965.01
+47,2025-09-16,Electrónica,1500,225,Pablo Soto,18.0,SANTIAGO,9,66194,951.14
+166,2025-08-28,Belleza,16409,724,Ignacio Vergara,27.0,La Serena,4,73809,968.64
+473,2026-01-07,Electrónica,4990,2103,Pablo Soto,48.0,Santiago,6,140937,
+411,2025-09-01,Moda,11961,1838,Valentina Martínez,37.0,La Serena,5,46998,965.28
+69,2025-02-19,Alimentos,21975,326,Sofía Silva,35.0,Santiago,2,36005,950.43
+358,2025-04-11,Hogar,31117,1577,Gabriel González,38.0,Temuco,3,67024,988.97
+302,2025-11-05,Belleza,2205,1358,Ignacio Díaz,43.0,Santiago,8,248894,945.13
+162,2025-04-24,Hogar,43244,715,Joaquín Martínez,32.0,Temuco,4,201850,938.02
+190,2025-10-23,Alimentos,51409,847,Mateo Martínez,35.0,Valparaíso,4,102301,950.46
+40,2025-05-06,Deportes,3068,194,Lucas González,43.0,Antofagasta,7,242135,940.18
+129,2025-07-19,Deportes,47130,574,Vicente Contreras,50.0,Valparaíso,3,88953,
+211,2025-09-07,Belleza,14104,947,Martina Vergara,37.0,Talca,5,111866,
+114,2025-12-05,Juguetes,1500,504,Benjamín Pérez,38.0,,3,75159,918.15
+355,2025-10-24,Moda,144843,1566,Catalina Díaz,28.0,Santiago,6,382724,945.34
+328,2025-11-05,Juguetes,8679,1455,Ana Torres,38.0,Santiago,4,107854,945.13
+145,2025-06-02,Hogar,32732,646,Catalina Martínez,32.0,Concepción,2,71955,941.97
+2,2025-06-30,Deportes,23663,4,Fernanda Vergara,46.0,Temuco,5,114303,935.74
+325,2025-08-15,Electrónica,18443,1437,Catalina Silva,30.0,Antofagasta,9,160227,
+103,2025-09-07,Deportes,108517,468,Ignacio Martínez,34.0,Temuco,3,145527,
+2,2025-09-03,Alimentos,26419,6,Fernanda Vergara,46.0,Temuco,5,114303,974.13
+374,2025-08-06,Belleza,90455,1657,Josefa Céspedes,25.0,Santiago,5,293670,966.02
+386,2025-07-16,Moda,6831,1719,Camila Martínez,19.0,Santiago,7,157740,
+124,2025-02-21,,18102,548,Benjamín Pérez,28.0,Valparaíso,7,297134,944.65
+48,2026-01-27,Moda,30576,229,Gabriel Silva,22.0,Santiago,4,59436,
+233,2025-03-21,Moda,10363,1064,Ana Torres,22.0,Santiago,5,33203,926.15
+122,2025-03-02,Electrónica,1500,543,Joaquín Soto,43.0,Valparaíso,5,38376,
+51,2025-10-19,Hogar,8779,243,Fernanda Sepúlveda,32.0,Valparaíso,6,65689,
+203,2025-06-07,Moda,3551,899,Benjamín Muñoz,31.0,Santiago,4,129301,
+380,2025-07-24,Moda,7543,1691,Martina Silva,39.0,Concepción,4,84752,948.93
+259,2025-11-12,Electrónica,20697,1161,Valentina Céspedes,41.0,Santiago,6,168625,936.89
+338,2025-08-03,Moda,8550,1491,Mateo Muñoz,32.0,Talca,5,81453,
+304,2026-01-28,Electrónica,23848,1363,Gabriel Torres,53.0,,6,235779,
+189,2025-07-08,Deportes,1500,843,Isidora Soto,36.0,La Serena,4,65099,940.28
+400,2025-06-26,Alimentos,3515,1780,Mateo Silva,21.0,Valparaíso,4,121404,936.29
+325,2025-09-25,Moda,34260,1445,Catalina Silva,30.0,Antofagasta,9,160227,953.24
+59,2026-02-02,Belleza,44031,277,Daniela Sepúlveda,31.0,Concepción,4,179167,
+148,2025-02-23,Hogar,18428,662,Isidora Contreras,36.0,Valparaíso,3,44429,
+376,2025-09-30,Moda,2498,1668,Sofía Contreras,40.0,Temuco,6,88284,961.24
+65,2025-05-30,Hogar,12261,315,Pablo Torres,37.0,Concepción,3,91226,937.37
+157,2025-07-25,Moda,31941,692,Camila Martínez,32.0,Antofagasta,6,149525,951.27
+422,2025-02-12,Electrónica,53674,1887,Joaquín Silva,39.0,Antofagasta,3,87686,961.89
+93,2025-08-19,Electrónica,10803,425,Ignacio Rojas,40.0,Santiago,5,86792,966.24
+134,2025-10-07,Electrónica,31769,595,Vicente Pérez,49.0,Santiago,5,97963,963.09
+434,2025-07-13,Hogar,37648,1939,Camila Vergara,49.0,La Serena,2,55146,
+140,2025-06-25,Electrónica,18183,623,Pablo Flores,19.0,Antofagasta,7,83225,937.89
+329,2025-07-11,Alimentos,52180,1463,Camila Torres,45.0,Temuco,8,243402,950.43
+468,2025-04-20,Belleza,53312,2082,Vicente Díaz,38.0,Santiago,9,631306,
+48,2025-04-08,Belleza,9205,228,Gabriel Silva,22.0,Santiago,4,59436,990.68
+387,2025-03-26,Moda,33713,1728,Sofía González,39.0,Santiago,4,79355,919.92
+260,2025-11-24,Alimentos,8539,1170,Vicente Martínez,44.0,Valparaíso,5,245523,937.36
+411,2025-04-24,Hogar,11070,1839,Valentina Martínez,37.0,La Serena,5,46998,938.02
+309,2025-09-21,Moda,28828,1377,Mateo Pérez,35.0,Valparaíso,2,61907,
+14,2025-03-29,Deportes,3121,67,Fernanda Sepúlveda,41.0,Santiago,5,41234,
+7,2025-03-16,Alimentos,1500,25,Sofía Contreras,42.0,Santiago,6,83749,
+276,2025-12-23,Electrónica,27022,1236,Benjamín Flores,55.0,Antofagasta,4,109601,908.4
+31,2025-11-04,Alimentos,53213,145,Benjamín Silva,36.0,Concepción,5,170439,940.53
+121,2025-08-24,Hogar,64815,537,Pablo Soto,18.0,La Serena,4,132910,
+182,2025-09-05,Deportes,1898,812,Valentina Céspedes,47.0,Santiago,7,200149,971.22
+315,2025-06-16,Juguetes,26264,1402,Isidora Martínez,18.0,Santiago,5,164776,937.78
+18,2025-11-08,Hogar,13387,86,Camila González,39.0,LA SERENA,5,47001,
+281,2025-08-08,Moda,24500,1255,Martina Torres,18.0,,6,227927,971.88
+381,2025-09-01,Juguetes,111249,1700,Ana Céspedes,26.0,Santiago,9,445915,965.28
+436,2025-11-13,Electrónica,31360,1947,Camila Flores,33.0,Santiago,6,169964,932.37
+334,2025-02-18,Belleza,41052,1476,Ignacio Muñoz,36.0,Concepción,2,67864,947.13
+299,2025-05-14,Belleza,21023,1345,Martina Díaz,34.0,La Serena,6,149096,940.18
+107,2025-10-14,Juguetes,48079,485,Fernanda Díaz,18.0,Antofagasta,3,75888,957.66
+446,2025-11-22,Belleza,3571,1994,Joaquín Céspedes,18.0,Santiago,4,26506,
+486,2025-07-15,Moda,1500,2165,Isidora Vergara,34.0,Temuco,3,42207,967.22
+385,2025-11-23,Hogar,1500,1717,Ana Sepúlveda,42.0,Santiago,2,73356,
+351,2025-05-15,Belleza,42783,1545,Tomás Flores,40.0,Santiago,8,244951,939.43
+177,2025-08-30,Juguetes,107326,788,Daniela Silva,28.0,Temuco,8,237786,
+79,2025-08-04,Hogar,11538,363,Vicente Torres,25.0,Antofagasta,4,104030,967.48
+454,2025-05-18,Electrónica,31389,2019,Ana Pérez,32.0,Santiago,3,103520,
+325,2025-11-16,Deportes,28845,1442,Catalina Silva,30.0,Antofagasta,9,160227,
+226,2025-06-15,Moda,32662,1027,Mateo Céspedes,32.0,Santiago,8,160620,
+227,2025-04-13,Belleza,7374,1031,Ignacio Martínez,44.0,Santiago,3,55980,
+388,2025-11-13,Belleza,10418,1731,Ignacio Muñoz,58.0,Santiago,7,71668,932.37
+298,2025-05-08,Juguetes,10177,1336,Pablo Soto,34.0,Santiago,5,60240,945.44
+415,2025-05-15,Moda,8810,1862,Ana Silva,18.0,Talca,5,32925,939.43
+469,2025-02-17,Electrónica,41276,2090,Valentina Torres,34.0,Valparaíso,3,108446,939.54
+149,2025-10-20,Electrónica,68656,666,Ignacio Flores,36.0,Concepción,4,215241,960.34
+80,2025-08-14,Deportes,51540,365,Joaquín Céspedes,29.0,Santiago,2,56185,952.37
+277,2025-12-06,Hogar,2421,1240,Benjamín Pérez,,Concepción,5,118679,
+17,2025-06-06,Electrónica,45887,78,Tomás Torres,44.0,Santiago,6,141564,930.79
+7,2025-03-07,Hogar,7438,28,Sofía Contreras,42.0,Santiago,6,83749,926.52
+406,2025-08-24,Belleza,14351,1804,Tomás Vergara,40.0,Concepción,13,379598,
+118,2025-11-26,Hogar,106932,526,Camila Rojas,36.0,Santiago,4,215176,937.15
+166,2025-04-05,Alimentos,13305,726,Ignacio Vergara,27.0,La Serena,4,73809,
+12,2025-02-10,Belleza,41417,56,Catalina Martínez,18.0,Antofagasta,6,121573,960.6
+143,2025-04-01,Juguetes,26891,639,Martina Sepúlveda,45.0,Santiago,4,122993,953.07
+63,2025-08-04,Moda,171080,303,Josefa Soto,48.0,,8,403211,967.48
+164,2025-08-29,Deportes,47677,719,Pablo Muñoz,,Santiago,4,123755,967.48
+344,2025-07-22,Electrónica,67512,1519,Tomás González,21.0,Santiago,4,129467,956.65
+140,2025-03-24,Moda,6389,625,Pablo Flores,19.0,Antofagasta,7,83225,932.14
+2,2025-09-02,,11121,8,Fernanda Vergara,46.0,Temuco,5,114303,968.35
+286,2025-05-25,Alimentos,35082,1281,Antonia Silva,25.0,Santiago,3,88755,
+181,2025-03-09,Hogar,51115,804,Antonia Martínez,30.0,Santiago,5,127936,
+231,2026-01-04,Deportes,6489,1050,Benjamín Martínez,24.0,Santiago,6,125732,
+72,2026-01-25,Electrónica,50472,337,Valentina Pérez,45.0,Antofagasta,4,322269,
+11,2025-12-02,Moda,18246,48,Tomás Flores,,Santiago,5,150627,927.95
+415,2025-06-08,Moda,14177,1858,Ana Silva,18.0,Talca,5,32925,
+23,2025-02-18,Moda,34672,107,Valentina Muñoz,29.0,SANTIAGO,8,137927,947.13
+76,2025-06-30,Belleza,28181,350,Benjamín Pérez,43.0,Valparaíso,6,242674,935.74
+238,2025-04-29,Electrónica,21793,1080,Pablo Díaz,27.0,Santiago,6,225347,937.54
+50,2026-01-11,Deportes,18627,239,Fernanda Vergara,36.0,Santiago,5,131071,
+45,2026-01-07,Moda,34864,214,Sofía Sepúlveda,52.0,Santiago,1,33233,
+255,2025-05-15,Electrónica,21198,1145,Joaquín Contreras,50.0,Concepción,6,129485,939.43
+354,2025-03-08,Electrónica,24864,1564,Pablo Rojas,26.0,Temuco,5,89958,
+320,2026-01-08,Hogar,57855,1423,Fernanda Flores,19.0,Santiago  ,7,148631,
+179,2025-08-26,Moda,40010,794,Antonia Contreras,43.0,Santiago,4,119994,962.51
+241,2025-05-12,Alimentos,14618,1097,Camila Sepúlveda,24.0,Santiago,4,46769,933.26
+333,2025-12-27,Belleza,49476,1472,Mateo Soto,23.0,Santiago,6,254770,
+316,2026-01-04,Hogar,24723,1405,Joaquín Sepúlveda,18.0,Temuco,4,102841,
+443,2025-02-18,Electrónica,14097,1986,Camila Torres,41.0,Santiago,2,95004,947.13
+75,2025-04-12,Hogar,28805,346,Joaquín González,47.0,Antofagasta,2,52355,
+118,2025-12-02,Electrónica,11805,524,Camila Rojas,36.0,Santiago,4,215176,927.95
+49,2025-08-10,Hogar,8023,233,Joaquín Contreras,23.0,La Serena,5,250520,
+144,2025-02-07,Moda,14035,645,Pablo Soto,53.0,Santiago,6,124824,967.59
+423,2025-08-04,Belleza,86471,1892,Fernanda Soto,24.0,Concepción,7,466236,967.48
+120,2025-11-05,Alimentos,5005,534,Camila Céspedes,18.0,Santiago,2,40647,945.13
+423,2025-09-03,Electrónica,62617,1893,Fernanda Soto,24.0,Concepción,7,466236,974.13
+137,2025-10-17,Deportes,43408,604,Lucas Rojas,41.0,Concepción,5,228832,956.13
+342,2025-09-19,Moda,32283,1507,Martina Vergara,,Antofagasta,5,189888,
+237,2025-10-04,Electrónica,26074,1075,Joaquín Martínez,34.0,Santiago,5,126680,
+448,2025-12-26,Electrónica,12654,2006,Catalina Céspedes,51.0,Antofagasta,5,186536,905.04
+13,2025-04-25,Electrónica,6663,61,Daniela Sepúlveda,40.0,Santiago,8,436526,937.81
+358,2025-02-06,Moda,29104,1578,Gabriel González,38.0,Temuco,3,67024,969.47
+20,2026-01-09,Alimentos,85916,93,Benjamín Silva,18.0,Antofagasta,3,171873,
+150,2025-07-10,Alimentos,13860,667,Sofía Sepúlveda,49.0,Santiago,2,18509,948.33
+378,2025-06-28,Hogar,46444,1678,Daniela Martínez,23.0,Santiago,9,315431,
+456,2026-01-25,Belleza,94780,2030,Vicente Silva,40.0,Temuco,6,338914,
+60,2025-06-24,Belleza,18660,281,Joaquín Sepúlveda,18.0,Valparaíso,6,237199,950.16
+314,2025-03-08,Deportes,18305,1395,Martina Rojas,49.0,Concepción,3,50907,
+79,2025-05-13,Juguetes,11332,360,Vicente Torres,25.0,Antofagasta,4,104030,941.2
+318,2026-01-30,Hogar,1642,1412,Daniela Céspedes,36.0,Valparaíso,3,79499,
+478,2025-11-12,Juguetes,10480,2132,Ana Silva,33.0,Santiago,7,141026,936.89
+191,2025-05-05,Hogar,25013,848,Joaquín Flores,53.0,Santiago,4,51277,940.95
+269,2025-08-26,Hogar,10839,1207,Lucas Céspedes,25.0,Santiago,5,111300,962.51
+482,2025-08-29,Belleza,3750,2152,Ignacio Vergara,31.0,Antofagasta,5,90638,967.48
+24,2025-09-19,Belleza,19950,111,Antonia Sepúlveda,45.0,Concepción,4,73085,
+10,2025-03-07,Deportes,89261,43,Sofía Rojas,48.0,Santiago,8,1333744,926.52
+27,2025-03-06,Deportes,36025,126,Pablo Torres,51.0,Rancagua,5,219889,936.7
+42,2025-10-08,Moda,5917,205,Fernanda González,44.0,Valparaíso,6,100265,961.61
+12,2025-10-08,Moda,5755,53,Catalina Martínez,18.0,Antofagasta,6,121573,961.61
+123,2025-11-24,Deportes,9566,546,Joaquín Muñoz,32.0,Talca,4,73665,937.36
+14,2025-05-08,Juguetes,18055,69,Fernanda Sepúlveda,41.0,Santiago,5,41234,945.44
+320,2025-11-15,Deportes,22682,1421,Fernanda Flores,19.0,Santiago  ,7,148631,
+435,2025-03-30,Deportes,3097,1943,Pablo Soto,31.0,La Serena,5,12466,
+351,2025-09-03,Belleza,4759,1551,Tomás Flores,40.0,Santiago,8,244951,974.13
+38,2025-05-16,Electrónica,33107,184,Ignacio Céspedes,35.0,Santiago,2,62024,940.25
+30,2026-01-20,Moda,4359,138,Pablo Torres,44.0,Santiago,7,82510,
+203,2025-07-24,Belleza,36738,900,Benjamín Muñoz,31.0,Santiago,4,129301,948.93
+180,2025-11-28,Moda,61873,797,Tomás Flores,41.0,Santiago,4,100172,929.14
+28,2025-04-21,Hogar,44436,133,Ignacio Muñoz,34.0,Talca,7,220161,968.71
+17,2025-02-09,Hogar,13825,81,Tomás Torres,44.0,Santiago,6,141564,
+416,2026-01-28,Moda,138970,1863,Joaquín Soto,31.0,Rancagua,6,291890,
+432,2025-11-18,Moda,14539,1934,Daniela Vergara,42.0,Santiago,3,65089,919.82
+122,2025-03-07,Belleza,21979,542,Joaquín Soto,43.0,Valparaíso,5,38376,926.52
+447,2025-03-08,Electrónica,16637,2000,Mateo Flores,50.0,La Serena,6,119618,
+321,2025-06-23,Juguetes,18349,1428,Mateo González,35.0,Santiago,3,35420,947.03
+216,2025-11-30,Deportes,19490,984,Martina Sepúlveda,25.0,Santiago,9,68242,
+34,2025-06-06,Electrónica,18063,166,Vicente Rojas,34.0,Concepción,5,152189,930.79
+52,2025-07-05,Belleza,161472,249,Valentina Pérez,31.0,Santiago,4,362249,
+297,2025-08-19,Hogar,3007,1332,Ignacio Flores,30.0,Santiago,4,97618,966.24
+98,2025-07-28,Electrónica,79564,447,Joaquín Martínez,27.0,Concepción,5,203985,957.82
+324,2025-07-24,Juguetes,172720,1436,Antonia Vergara,37.0,Concepción,3,301973,948.93
+194,2025-03-30,Moda,7860,859,Josefa Flores,21.0,Santiago,2,35947,
+303,2026-01-01,Deportes,57574,1359,Ana Contreras,42.0,Temuco,2,140864,
+343,2025-09-16,Belleza,5689,1511,Lucas Torres,31.0,Valparaíso,5,83843,951.14
+21,2025-10-05,Belleza,57015,98,Tomás Pérez,39.0,Antofagasta,4,125113,
+328,2025-12-17,Juguetes,58834,1453,Ana Torres,38.0,Santiago,4,107854,913.74
+182,2025-04-19,Electrónica,15778,806,Valentina Céspedes,47.0,Santiago,7,200149,
+168,2025-06-25,Belleza,11057,738,Valentina Torres,33.0,Talca,7,155662,937.89
+355,2025-09-02,Juguetes,51726,1570,Catalina Díaz,28.0,Santiago,6,382724,968.35
+23,2026-01-22,Deportes,2482,103,Valentina Muñoz,29.0,SANTIAGO,8,137927,
+95,2025-06-29,Deportes,44885,435,Gabriel Díaz,52.0,Santiago,4,122811,
+16,2025-07-22,Hogar,41409,75,Fernanda Céspedes,38.0,Santiago,4,295672,956.65
+130,2025-01-07,Belleza,75279,578,Lucas Pérez,54.0,Antofagasta,4,199345,1010.98
+414,2026-01-22,Moda,65092,1852,Camila Flores,,Talca  ,10,259794,
+397,2025-11-27,Hogar,26515,1766,Ana Contreras,45.0,Santiago,5,88986,930.89
+275,2025-06-28,Deportes,17006,1231,Pablo Sepúlveda,23.0,Santiago,5,97151,
+207,2025-06-16,Moda,9041,919,Fernanda González,23.0,Antofagasta,6,158417,937.78
+296,2025-04-20,Juguetes,8435,1327,Tomás Díaz,45.0,Santiago,5,59794,
+472,2025-10-04,Hogar,30310,2099,Ignacio Pérez,20.0,Santiago,4,135198,
+466,2025-03-13,Electrónica,2492,2073,Catalina Silva,,Valparaíso,6,191442,932.28
+456,2025-12-05,Deportes,20313,2029,Vicente Silva,40.0,Temuco,6,338914,918.15
+172,2025-08-01,Belleza,93055,763,Sofía Silva,34.0,Concepción,9,167098,976.8
+218,2025-02-16,Belleza,3523,990,Sofía Soto,35.0,Santiago,5,166427,
+84,2025-06-07,Belleza,59122,389,Ignacio González,20.0,Santiago,6,328573,
+50,2026-01-24,Electrónica,22280,236,Fernanda Vergara,36.0,Santiago,5,131071,
+423,2025-02-08,Juguetes,61586,1890,Fernanda Soto,24.0,Concepción,7,466236,
+56,2025-08-22,Hogar,14234,268,Ana Contreras,40.0,SANTIAGO,7,135464,968.63
+296,2025-10-21,Hogar,9003,1330,Tomás Díaz,45.0,Santiago,5,59794,953.21
+336,2026-01-02,Deportes,17856,1481,Ignacio Martínez,42.0,Valparaíso  ,8,162645,
+25,2025-06-17,Hogar,1500,118,Fernanda Díaz,53.0,Santiago,6,178627,935.21
+451,2025-08-24,Alimentos,18216,2013,Catalina Céspedes,47.0,Valparaíso,3,81891,
+152,2025-04-22,Deportes,9825,674,Martina Vergara,39.0,Temuco,5,98425,961.14
+53,2025-04-08,Electrónica,32897,250,Josefa Sepúlveda,42.0,SANTIAGO,2,45965,990.68
+408,2025-06-16,Moda,54478,1823,Camila Muñoz,35.0,Santiago,6,213680,937.78
+35,2025-11-10,,2931,169,Gabriel Silva,26.0,Santiago,7,100129,946.24
+21,2025-05-06,Hogar,25835,95,Tomás Pérez,39.0,Antofagasta,4,125113,940.18
+447,2025-09-01,Belleza,20762,1996,Mateo Flores,50.0,La Serena,6,119618,965.28
+8,2025-03-22,Hogar,12528,34,Joaquín Rojas,23.0,Antofagasta,4,115258,
+458,2025-06-24,Juguetes,19087,2035,Lucas Silva,37.0,Valparaíso,3,68438,950.16
+466,2025-08-06,Belleza,41822,2071,Catalina Silva,,Valparaíso,6,191442,966.02
+99,2025-06-09,Deportes,70628,449,Lucas Silva,34.0,Talca,6,283508,933.91
+163,2025-03-04,Hogar,18775,717,Pablo González,18.0,Santiago,3,83855,953.11
+359,2025-04-25,Hogar,25953,1579,Sofía Vergara,47.0,Santiago,7,452801,937.81
+425,2026-01-07,Electrónica,26382,1905,Pablo Rojas,53.0,Santiago,5,150982,
+1,2025-07-05,Alimentos,21363,1,Sofía Céspedes,26.0,La Serena,3,86427,
+386,2025-09-07,Electrónica,12370,1720,Camila Martínez,19.0,Santiago,7,157740,
+243,2025-05-15,Electrónica,1500,1102,Sofía Silva,39.0,ANTOFAGASTA,6,237596,939.43
+244,2025-10-04,Juguetes,4579,1109,Lucas Rojas,46.0,Santiago,7,49886,
+347,2025-08-01,Deportes,34588,1527,Catalina Muñoz,40.0,Santiago,7,271177,976.8
+18,2025-10-25,Moda,8326,83,Camila González,39.0,LA SERENA,5,47001,
+365,2025-12-27,Alimentos,23256,1609,Camila Sepúlveda,22.0,Santiago,12,228862,
+152,2025-07-10,Juguetes,17780,677,Martina Vergara,39.0,Temuco,5,98425,948.33
+482,2025-08-24,Alimentos,9603,2151,Ignacio Vergara,31.0,Antofagasta,5,90638,
+231,2025-09-25,Alimentos,3127,1047,Benjamín Martínez,24.0,Santiago,6,125732,953.24
+329,2025-06-02,Belleza,38180,1461,Camila Torres,45.0,Temuco,8,243402,941.97
+174,2025-12-05,Alimentos,14259,771,Daniela Céspedes,56.0,Concepción,9,218391,918.15
+343,2025-03-06,Moda,19608,1515,Lucas Torres,31.0,Valparaíso,5,83843,936.7
+363,2025-10-31,Electrónica,17597,1599,Isidora Céspedes,44.0,La Serena,5,151483,
+442,2025-02-27,Electrónica,23374,1984,Mateo Pérez,35.0,ANTOFAGASTA,6,189438,941.76
+418,2025-06-27,Alimentos,3216,1870,Camila Martínez,18.0,Santiago,6,100695,930.67
+87,2026-01-29,,9264,405,Sofía Vergara,,Santiago,7,451909,
+83,2025-09-10,,1954,385,Valentina Céspedes,40.0,Santiago,8,184300,966.35
+367,2025-03-24,Moda,16031,1622,Benjamín Sepúlveda,38.0,Antofagasta,7,199989,932.14
+377,2025-12-24,Moda,30195,1674,Daniela Contreras,29.0,Santiago,7,101601,906.44
+23,2025-07-06,Hogar,25021,105,Valentina Muñoz,29.0,SANTIAGO,8,137927,
+485,2025-10-31,Alimentos,4960,2163,Benjamín Silva,41.0,Santiago,2,14663,
+157,2025-08-05,Belleza,23624,689,Camila Martínez,32.0,Antofagasta,6,149525,964.28
+369,2026-01-17,Hogar,7334,1634,Ana Soto,57.0,Santiago,12,131047,
+186,2025-09-29,Moda,12440,827,Pablo Sepúlveda,38.0,Santiago,3,54928,958.9
+277,2025-12-26,Hogar,25553,1241,Benjamín Pérez,,Concepción,5,118679,905.04
+13,2025-12-01,Electrónica,163860,63,Daniela Sepúlveda,40.0,Santiago,8,436526,928.16
+291,2025-06-22,Hogar,5809,1306,Ignacio Céspedes,35.0,Santiago,6,69563,
+192,2025-07-28,Juguetes,80413,853,Lucas Sepúlveda,18.0,Temuco,6,156994,957.82
+380,2025-07-18,Belleza,14415,1692,Martina Silva,39.0,Concepción,4,84752,966.78
+282,2025-09-16,Electrónica,5741,1263,Benjamín Silva,33.0,Temuco,6,93747,951.14
+47,2025-09-01,,4744,224,Pablo Soto,18.0,SANTIAGO,9,66194,965.28
+31,2025-03-05,Moda,57757,146,Benjamín Silva,36.0,Concepción,5,170439,948.87
+239,2025-07-11,Deportes,16712,1089,Mateo Martínez,27.0,Santiago,7,68480,950.43
+82,2025-04-14,Hogar,28336,374,Pablo Sepúlveda,24.0,VALPARAÍSO,4,88528,978.09
+404,2025-04-17,Deportes,19800,1792,Catalina Torres,18.0,Valparaíso,4,114966,969.23
+254,2025-08-16,Hogar,14848,1143,Mateo Flores,34.0,Valparaíso,6,119936,
+487,2025-07-27,Belleza,133829,2171,Mateo Silva,,Santiago  ,5,557911,
+419,2025-11-25,Moda,46336,1876,Martina Rojas,36.0,Santiago,1,45307,939.57
+285,2025-10-10,Electrónica,106085,1275,Pablo Soto,53.0,Talca  ,4,188703,948.77
+283,2025-12-09,Electrónica,15592,1266,Joaquín Céspedes,18.0,Valparaíso,6,142983,920.02
+449,2025-02-23,Belleza,11932,2007,Tomás Flores,25.0,Temuco,3,56842,
+359,2025-07-10,Moda,42643,1585,Sofía Vergara,47.0,Santiago,7,452801,948.33
+3,2025-11-26,Moda,12771,10,Joaquín Flores,35.0,Temuco,3,43599,937.15
+99,2025-02-05,Moda,54713,450,Lucas Silva,34.0,Talca,6,283508,977.58
+161,2025-10-20,Juguetes,23817,709,Catalina Muñoz,34.0,Santiago,4,65783,960.34
+54,2025-04-25,Alimentos,24497,256,Benjamín Díaz,39.0,Temuco,7,212648,937.81
+200,2025-12-03,Electrónica,4263,883,Catalina Céspedes,64.0,Santiago,4,42180,925.37
+84,2025-08-26,Alimentos,41845,390,Ignacio González,20.0,Santiago,6,328573,962.51
+370,2025-07-28,Hogar,7210,1642,Fernanda González,41.0,Santiago,6,271025,957.82
+205,2025-06-23,Electrónica,45000,909,Benjamín Céspedes,18.0,Santiago,10,261664,947.03
+208,2025-11-15,Juguetes,36852,925,Catalina Silva,,La Serena,8,176337,
+171,2025-09-04,Moda,37309,752,Camila Flores,35.0,Santiago,7,117552,969.46
+348,2025-07-31,Electrónica,29592,1533,Antonia González,42.0,Concepción,5,151284,978.07
+101,2025-11-02,Deportes,12587,461,Ignacio Silva,40.0,Valparaíso  ,5,84892,
+359,2025-09-14,Electrónica,8192,1584,Sofía Vergara,47.0,Santiago,7,452801,
+274,2025-08-17,Belleza,19857,1225,Catalina Martínez,50.0,Antofagasta,3,157012,
+260,2026-01-08,Belleza,24519,1169,Vicente Martínez,44.0,Valparaíso,5,245523,
+213,2025-05-07,Electrónica,27702,959,Fernanda Martínez,40.0,Antofagasta,7,128371,939.67
+112,2025-09-25,Electrónica,12675,502,Fernanda Soto,28.0,Concepción,2,32671,953.24
+168,2026-02-01,Hogar,24791,740,Valentina Torres,33.0,Talca,7,155662,
+10,2025-02-10,Belleza,284852,41,Sofía Rojas,48.0,Santiago,8,1333744,960.6
+197,2025-12-28,Hogar,53067,869,Mateo Martínez,18.0,La Serena,7,245646,
+167,2025-08-27,Alimentos,7860,732,Mateo Contreras,52.0,Antofagasta,8,500959,965.01
+122,2025-10-25,Alimentos,1957,540,Joaquín Soto,43.0,Valparaíso,5,38376,
+268,2025-04-11,Hogar,8540,1202,Mateo Soto,39.0,Santiago,6,72511,988.97
+299,2025-07-15,Moda,20876,1340,Martina Díaz,34.0,La Serena,6,149096,967.22
+159,2025-03-09,Alimentos,63620,698,Tomás Céspedes,32.0,Concepción,6,109010,
+461,2025-06-10,Hogar,28633,2045,Daniela Muñoz,46.0,Valparaíso,3,78885,937.09
+425,2025-09-16,Alimentos,50884,1903,Pablo Rojas,53.0,Santiago,5,150982,951.14
+307,2025-05-28,Deportes,15895,1372,Mateo Contreras,39.0,Concepción,1,15089,937.93
+255,2025-11-06,Electrónica,13988,1146,Joaquín Contreras,50.0,Concepción,6,129485,945.6
+227,2025-04-18,Moda,21637,1032,Ignacio Martínez,44.0,Santiago,3,55980,
+81,2025-09-20,Hogar,27978,373,Antonia Céspedes,42.0,Valparaíso,8,276772,
+150,2025-08-10,Moda,4907,668,Sofía Sepúlveda,49.0,Santiago,2,18509,
+323,2025-09-17,Hogar,2774,1432,Lucas Céspedes,45.0,Santiago,2,74777,948.57
+427,2025-10-02,Alimentos,59936,1915,Gabriel Contreras,41.0,Santiago,8,309457,959.19
+78,2025-09-02,Electrónica,10289,358,Isidora Contreras,26.0,Concepción,3,64846,968.35
+214,2025-03-08,Moda,19460,968,Pablo Martínez,19.0,Temuco,5,156582,
+177,2025-07-08,Deportes,23702,784,Daniela Silva,28.0,Temuco,8,237786,940.28
+168,2025-06-15,Hogar,32420,736,Valentina Torres,33.0,Talca,7,155662,
+302,2025-11-06,Deportes,20028,1354,Ignacio Díaz,43.0,Santiago,8,248894,945.6
+228,2025-11-08,Juguetes,111431,1036,Vicente Céspedes,58.0,Santiago,6,438418,
+215,2025-11-10,Juguetes,25590,971,Daniela Torres,45.0,La Serena,8,126845,946.24
+427,2025-08-10,,37243,1913,Gabriel Contreras,41.0,Santiago,8,309457,
+416,2025-05-22,Hogar,30438,1867,Joaquín Soto,31.0,Rancagua,6,291890,942.21
+479,2025-09-19,Electrónica,21604,2134,Joaquín Díaz,38.0,Valparaíso,7,183710,
+443,2025-06-19,Moda,80607,1985,Camila Torres,41.0,Santiago,2,95004,943.36
+349,2025-06-15,Moda,23124,1537,Valentina Sepúlveda,57.0,Santiago,5,143678,
+365,2025-10-25,Electrónica,15879,1615,Camila Sepúlveda,22.0,Santiago,12,228862,
+427,2026-01-24,Hogar,41922,1912,Gabriel Contreras,41.0,Santiago,8,309457,
+351,2025-12-03,Deportes,64601,1550,Tomás Flores,40.0,Santiago,8,244951,925.37
+296,2025-11-08,Electrónica,2185,1329,Tomás Díaz,45.0,Santiago,5,59794,
+383,2025-06-30,Electrónica,25979,1710,Antonia Soto,34.0,Temuco,7,185769,935.74
+418,2025-04-04,Hogar,36396,1872,Camila Martínez,18.0,Santiago,6,100695,946.59
+320,2025-10-23,Moda,4301,1426,Fernanda Flores,19.0,Santiago  ,7,148631,950.46
+330,2025-09-10,Moda,42416,1465,Vicente González,18.0,Santiago,2,51686,966.35
+353,2025-12-21,Hogar,18920,1556,Martina Flores,49.0,Antofagasta,4,96110,
+280,2025-11-22,Deportes,11352,1251,Sofía Sepúlveda,30.0,,3,72129,
+281,2025-11-18,Alimentos,72063,1253,Martina Torres,18.0,,6,227927,919.82
+494,2025-03-19,Deportes,29995,2201,Lucas Soto,47.0,Santiago,3,100278,917.97
+473,2026-01-03,Belleza,33877,2102,Pablo Soto,48.0,Santiago,6,140937,
+277,2025-08-16,Electrónica,33171,1237,Benjamín Pérez,,Concepción,5,118679,
+201,2025-03-13,Juguetes,98030,886,Josefa Contreras,57.0,Santiago,6,342264,932.28
+17,2025-02-05,Electrónica,13219,80,Tomás Torres,44.0,Santiago,6,141564,977.58
+262,2025-02-27,Juguetes,21084,1173,Valentina Contreras,42.0,Santiago,4,56017,941.76
+183,2025-10-21,Belleza,19556,815,Benjamín Flores,47.0,Santiago,4,99309,953.21
+459,2026-01-23,Deportes,31593,2040,Ignacio Flores,,VALPARAÍSO,5,200860,
+151,2025-09-02,Belleza,33223,672,Gabriel Soto,31.0,Santiago,5,189609,968.35
+429,2025-12-10,Belleza,10527,1922,Ana Pérez,57.0,Concepción,5,172902,926.89
+13,2025-09-19,Electrónica,17817,58,Daniela Sepúlveda,40.0,Santiago,8,436526,
+29,2025-06-18,Hogar,7058,134,Tomás Torres,39.0,La Serena,3,27943,939.29
+254,2025-08-07,Moda,30213,1141,Mateo Flores,34.0,Valparaíso,6,119936,976.42
+209,2026-01-12,Hogar,14364,934,Martina Soto,18.0,Santiago  ,10,82407,
+208,2025-02-14,Belleza,5066,929,Catalina Silva,,La Serena,8,176337,949.52
+185,2025-11-03,Hogar,13653,824,Benjamín Muñoz,47.0,Concepción,3,114478,943.69
+323,2025-09-16,Deportes,71937,1433,Lucas Céspedes,45.0,Santiago,2,74777,951.14
+433,2025-10-27,Moda,13840,1935,Ignacio Rojas,18.0,Santiago,3,97329,943.47
+348,2025-02-12,Electrónica,67136,1532,Antonia González,42.0,Concepción,5,151284,961.89
+272,2025-10-23,Alimentos,63977,1215,Ana Flores,42.0,Valparaíso,8,469265,950.46
+114,2025-08-15,Deportes,9325,505,Benjamín Pérez,38.0,,3,75159,
+119,2025-07-11,Juguetes,25442,530,Isidora González,30.0,Santiago,5,112218,950.43
+76,2025-03-03,Moda,53138,348,Benjamín Pérez,43.0,Valparaíso,6,242674,954.22
+84,2025-05-12,Deportes,39042,387,Ignacio González,20.0,Santiago,6,328573,933.26
+226,2025-04-05,Hogar,10161,1025,Mateo Céspedes,32.0,Santiago,8,160620,
+311,2025-07-23,Electrónica,22750,1385,Joaquín González,54.0,Santiago,7,170137,953.4
+202,2025-04-06,Deportes,118678,895,Antonia Silva,30.0,Santiago  ,7,302877,
+187,2025-05-28,Alimentos,12771,829,Valentina Pérez,28.0,Santiago,8,121661,937.93
+496,2025-08-03,Belleza,8064,2208,Pablo Silva,25.0,Santiago,4,161038,
+105,2025-11-10,Moda,35368,476,Fernanda Sepúlveda,22.0,Rancagua,5,135963,946.24
+413,2025-07-04,Belleza,27085,1845,Martina Pérez,53.0,Temuco,3,91682,927.87
+437,2025-02-19,Electrónica,2723,1953,Vicente Muñoz,29.0,Temuco,5,174564,950.43
+392,2025-07-24,Deportes,46020,1748,Valentina Vergara,,Rancagua,5,125042,948.93
+146,2025-07-21,Belleza,12378,653,Gabriel Díaz,21.0,Antofagasta,7,146872,961.55
+35,2025-05-26,Hogar,4024,173,Gabriel Silva,26.0,Santiago,7,100129,940.81
+333,2025-05-31,Hogar,51547,1475,Mateo Soto,23.0,Santiago,6,254770,
+255,2025-04-21,Juguetes,31986,1150,Joaquín Contreras,50.0,Concepción,6,129485,968.71
+10,2025-09-07,Hogar,154646,39,Sofía Rojas,48.0,Santiago,8,1333744,
+352,2025-11-02,Deportes,24794,1555,Ana Sepúlveda,18.0,Santiago,3,94588,
+162,2025-05-21,Hogar,34954,714,Joaquín Martínez,32.0,Temuco,4,201850,
+19,2025-05-10,Electrónica,12164,91,Ignacio Soto,43.0,Santiago,5,95817,
+34,2025-10-29,Belleza,13479,167,Vicente Rojas,34.0,Concepción,5,152189,941.63
+269,2025-08-01,Belleza,63372,1206,Lucas Céspedes,25.0,Santiago,5,111300,976.8
+198,2025-07-24,Belleza,1500,876,Camila Silva,23.0,,3,18864,948.93
+425,2025-09-13,Moda,59185,1904,Pablo Rojas,53.0,Santiago,5,150982,
+467,2025-02-23,Juguetes,30546,2077,Valentina Silva,18.0,Rancagua,5,234537,
+496,2025-12-29,Moda,113742,2207,Pablo Silva,25.0,Santiago,4,161038,904.54
+241,2025-06-29,Moda,4792,1094,Camila Sepúlveda,24.0,Santiago,4,46769,
+257,2025-10-06,Juguetes,1500,1156,Joaquín Martínez,0.0,Santiago,4,39963,963.17
+295,2025-03-19,Hogar,45466,1325,Tomás Soto,36.0,SANTIAGO,3,88360,917.97
+382,2025-11-10,Belleza,36997,1703,Antonia Sepúlveda,46.0,CONCEPCIÓN,4,74619,946.24
+302,2025-12-25,Belleza,26761,1351,Ignacio Díaz,43.0,Santiago,8,248894,
+116,2025-08-23,Hogar,29337,511,Vicente Silva,40.0,La Serena,7,224345,
+111,2025-03-22,Alimentos,13665,500,Martina Sepúlveda,69.0,Valparaíso,2,27563,
+473,2025-04-01,Hogar,25517,2106,Pablo Soto,48.0,Santiago,6,140937,953.07
+452,2025-06-09,Electrónica,2780,2015,Antonia Díaz,47.0,Santiago,2,100437,933.91
+345,2025-12-23,Juguetes,75232,1520,Antonia González,45.0,Santiago,3,87161,908.4
+73,2025-03-05,Deportes,90895,339,Benjamín Rojas,43.0,Valparaíso,7,379422,948.87
+465,2025-02-16,Moda,28573,2066,Ana Flores,24.0,Rancagua,4,87431,
+266,2025-02-19,Hogar,38708,1189,Vicente Martínez,21.0,Santiago,5,103099,950.43
+7,2025-12-15,Deportes,56066,29,Sofía Contreras,42.0,Santiago,6,83749,912.66
+349,2025-12-28,Moda,11902,1541,Valentina Sepúlveda,57.0,Santiago,5,143678,
+272,2025-05-12,Alimentos,12984,1218,Ana Flores,42.0,Valparaíso,8,469265,933.26
+374,2025-07-10,Electrónica,24576,1656,Josefa Céspedes,25.0,Santiago,5,293670,948.33
+179,2025-05-13,Hogar,27697,795,Antonia Contreras,43.0,Santiago,4,119994,941.2
+211,2025-10-10,Hogar,34885,946,Martina Vergara,37.0,Talca,5,111866,948.77
+414,2025-09-22,Moda,8837,1848,Camila Flores,,Talca  ,10,259794,951.03
+35,2025-10-26,Deportes,9954,170,Gabriel Silva,26.0,Santiago,7,100129,
+490,2025-09-04,Belleza,8916,2185,Lucas Sepúlveda,63.0,Antofagasta,7,163898,969.46
+268,2025-05-11,Moda,8982,1198,Mateo Soto,39.0,Santiago,6,72511,
+350,2025-04-23,Moda,27411,1543,Valentina Silva,33.0,Rancagua,3,74270,950.04
+281,2025-11-15,Deportes,86315,1254,Martina Torres,18.0,,6,227927,
+392,2025-12-24,Moda,35873,1750,Valentina Vergara,,Rancagua,5,125042,906.44
+205,2025-03-17,Alimentos,70467,913,Benjamín Céspedes,18.0,Santiago,10,261664,932.36
+108,2025-12-04,Moda,36066,492,Joaquín Contreras,24.0,Santiago,7,248703,919.46
+212,2025-03-18,Moda,26543,954,Daniela Contreras,39.0,Concepción,6,109197,923.32
+242,2025-07-14,Moda,56640,1098,Vicente Martínez,62.0,Santiago,2,126475,955.73
+227,2025-12-09,Alimentos,20473,1033,Ignacio Martínez,44.0,Santiago,3,55980,920.02
+132,2025-06-05,Alimentos,36446,588,Vicente Díaz,47.0,Antofagasta,3,128908,936.89
+171,2025-11-10,Hogar,23835,751,Camila Flores,35.0,Santiago,7,117552,946.24
+147,2025-05-19,Belleza,2498,658,Ana Soto,32.0,Santiago,5,101163,944.46
+50,2025-04-10,Moda,2016,235,Fernanda Vergara,36.0,Santiago,5,131071,1000.01
+167,2025-10-26,Belleza,40023,733,Mateo Contreras,52.0,Antofagasta,8,500959,
+429,2025-06-07,Hogar,29288,1923,Ana Pérez,57.0,Concepción,5,172902,
+461,2025-06-10,Electrónica,17392,2046,Daniela Muñoz,46.0,Valparaíso,3,78885,937.09
+257,2025-10-05,Moda,17847,1157,Joaquín Martínez,0.0,Santiago,4,39963,
+416,2025-06-22,Alimentos,10108,1868,Joaquín Soto,31.0,Rancagua,6,291890,
+467,2025-03-03,Moda,83463,2074,Valentina Silva,18.0,Rancagua,5,234537,954.22
+459,2026-01-26,Electrónica,9390,2038,Ignacio Flores,,VALPARAÍSO,5,200860,
+209,2025-10-15,Belleza,9356,935,Martina Soto,18.0,Santiago  ,10,82407,963.69
+271,2025-11-04,Juguetes,25302,1210,Martina Vergara,42.0,Santiago,2,34422,940.53
+234,2025-04-13,Belleza,64522,1066,Fernanda Martínez,19.0,Santiago,2,85618,
+23,2025-02-20,Belleza,7413,109,Valentina Muñoz,29.0,SANTIAGO,8,137927,951.78
+433,2026-01-18,Electrónica,16578,1937,Ignacio Rojas,18.0,Santiago,3,97329,
+128,2025-05-09,Moda,42163,569,Fernanda Pérez,27.0,Santiago  ,6,119686,941.22
+260,2025-08-16,Juguetes,74613,1168,Vicente Martínez,44.0,Valparaíso,5,245523,
+262,2025-06-26,Hogar,12276,1175,Valentina Contreras,42.0,Santiago,4,56017,936.29
+361,2025-08-30,Deportes,31200,1589,Ignacio Flores,18.0,La Serena,5,80603,
+342,2025-04-25,Deportes,14682,1508,Martina Vergara,,Antofagasta,5,189888,937.81
+338,2026-01-09,Belleza,16569,1493,Mateo Muñoz,32.0,Talca,5,81453,
+202,2025-10-01,Deportes,19372,891,Antonia Silva,30.0,Santiago  ,7,302877,962.39
+211,2025-03-11,Moda,666840,948,Martina Vergara,37.0,Talca,5,111866,931.13
+231,2025-03-23,Hogar,2220,1049,Benjamín Martínez,24.0,Santiago,6,125732,
+380,2025-12-16,Juguetes,17364,1690,Martina Silva,39.0,Concepción,4,84752,912.03
+384,2025-08-14,Deportes,43879,1715,Isidora Muñoz,32.0,Valparaíso,2,82431,952.37
+407,2025-03-05,Juguetes,31471,1815,Pablo Pérez,18.0,Valparaíso,10,127768,948.87
+201,2025-06-07,Deportes,7816,885,Josefa Contreras,57.0,Santiago,6,342264,
+31,2025-06-30,Moda,16290,144,Benjamín Silva,36.0,Concepción,5,170439,935.74
+435,2025-06-11,Juguetes,2823,1941,Pablo Soto,31.0,La Serena,5,12466,938.88
+430,2025-05-27,Belleza,30082,1926,Daniela Silva,42.0,La Serena,2,37400,938.28
+191,2025-04-04,Belleza,6226,851,Joaquín Flores,53.0,Santiago,4,51277,946.59
+361,2025-10-30,Hogar,24257,1588,Ignacio Flores,18.0,La Serena,5,80603,940.57
+317,2025-06-06,Belleza,25860,1408,Daniela González,45.0,Temuco,4,215894,930.79
+168,2025-07-21,Moda,12752,735,Valentina Torres,33.0,Talca,7,155662,961.55
+163,2025-12-06,Moda,7900,718,Pablo González,18.0,Santiago,3,83855,
+100,2025-09-13,Moda,39285,455,Camila Silva,22.0,Concepción,3,109044,
+56,2025-11-24,Alimentos,17416,265,Ana Contreras,40.0,SANTIAGO,7,135464,937.36
+17,2025-03-27,Electrónica,19300,76,Tomás Torres,44.0,Santiago,6,141564,920.98
+281,2025-05-21,,12923,1257,Martina Torres,18.0,,6,227927,
+98,2025-12-31,Moda,6838,445,Joaquín Martínez,27.0,Concepción,5,203985,
+85,2025-05-08,Hogar,13808,396,Lucas Pérez,33.0,Temuco,7,344709,945.44
+428,2025-03-12,Electrónica,26249,1919,Ignacio Díaz,18.0,Antofagasta,4,50262,937.45
+36,2025-05-22,Deportes,20874,177,Sofía Muñoz,30.0,Santiago,3,46674,942.21
+229,2025-05-28,Moda,17095,1043,Tomás Soto,59.0,Valparaíso,5,143760,937.93
+476,2025-02-22,Hogar,40877,2116,Fernanda Rojas,18.0,Concepción,7,355255,
+393,2025-06-15,Electrónica,16044,1754,Josefa Contreras,32.0,Santiago,3,130699,
+437,2025-02-18,Juguetes,14995,1955,Vicente Muñoz,29.0,Temuco,5,174564,947.13
+387,2025-12-18,Alimentos,10563,1726,Sofía González,39.0,Santiago,4,79355,917.45
+134,2025-09-30,Hogar,17750,596,Vicente Pérez,49.0,Santiago,5,97963,961.24
+13,2025-12-26,Electrónica,72559,62,Daniela Sepúlveda,40.0,Santiago,8,436526,905.04
+289,2025-04-25,Electrónica,15806,1297,Tomás Contreras,27.0,Antofagasta,8,376090,937.81
+197,2026-01-04,Moda,7798,873,Mateo Martínez,18.0,La Serena,7,245646,
+418,2026-01-18,Belleza,1500,1871,Camila Martínez,18.0,Santiago,6,100695,
+47,2025-04-20,Electrónica,3392,217,Pablo Soto,18.0,SANTIAGO,9,66194,
+59,2025-12-23,Electrónica,63906,279,Daniela Sepúlveda,31.0,Concepción,4,179167,908.4
+351,2025-11-21,Moda,42652,1549,Tomás Flores,40.0,Santiago,8,244951,929.0
+313,2025-11-09,Alimentos,18972,1393,Camila Vergara,32.0,Talca,4,104924,
+9,2025-03-30,Belleza,5838,37,Isidora Rojas,23.0,Valparaíso,3,76806,
+425,2025-04-03,Belleza,1500,1901,Pablo Rojas,53.0,Santiago,5,150982,949.83
+149,2025-11-21,Electrónica,49330,663,Ignacio Flores,36.0,Concepción,4,215241,929.0
+397,2025-08-26,,21471,1770,Ana Contreras,45.0,Santiago,5,88986,962.51
+484,2025-04-02,Hogar,30402,2159,Fernanda Vergara,31.0,Valparaíso,5,314212,946.28
+407,2026-02-02,Deportes,4156,1813,Pablo Pérez,18.0,Valparaíso,10,127768,
+216,2025-03-14,Belleza,1500,978,Martina Sepúlveda,25.0,Santiago,9,68242,940.2
+356,2025-08-23,Hogar,28744,1572,Catalina Sepúlveda,35.0,Valparaíso,3,43466,
+440,2026-01-27,Electrónica,39726,1973,Josefa Contreras,38.0,SANTIAGO,5,308188,
+383,2025-07-31,Belleza,28027,1713,Antonia Soto,34.0,Temuco,7,185769,978.07
+168,2025-03-03,Juguetes,31089,739,Valentina Torres,33.0,Talca,7,155662,954.22
+40,2025-03-08,Electrónica,42793,192,Lucas González,43.0,Antofagasta,7,242135,
+207,2025-12-28,Alimentos,7449,920,Fernanda González,23.0,Antofagasta,6,158417,
+101,2025-03-01,Alimentos,16748,457,Ignacio Silva,40.0,Valparaíso  ,5,84892,
+319,2025-10-14,Deportes,23738,1418,Antonia Vergara,38.0,Concepción,6,103936,957.66
+152,2025-07-06,,8607,676,Martina Vergara,39.0,Temuco,5,98425,
+172,2025-09-05,Juguetes,8030,761,Sofía Silva,34.0,Concepción,9,167098,971.22
+484,2025-05-08,Alimentos,111501,2160,Fernanda Vergara,31.0,Valparaíso,5,314212,945.44
+449,2025-08-12,Moda,19985,2008,Tomás Flores,25.0,Temuco,3,56842,969.77
+167,2025-02-12,Belleza,51219,729,Mateo Contreras,52.0,Antofagasta,8,500959,961.89
+464,2026-01-04,Deportes,22206,2058,Pablo Rojas,32.0,SANTIAGO,10,401861,
+315,2025-08-31,Belleza,15045,1400,Isidora Martínez,18.0,Santiago,5,164776,
+88,2025-06-19,Hogar,9754,413,Mateo Céspedes,18.0,Santiago,5,101839,943.36
+242,2025-06-25,Deportes,66311,1099,Vicente Martínez,62.0,Santiago,2,126475,937.89
+344,2025-12-04,Belleza,22189,1517,Tomás González,21.0,Santiago,4,129467,919.46
+372,2025-03-29,Hogar,18143,1650,Joaquín Muñoz,68.0,Santiago,3,118400,
+347,2025-08-26,Moda,50512,1525,Catalina Muñoz,40.0,Santiago,7,271177,962.51
+186,2025-03-16,Hogar,28063,826,Pablo Sepúlveda,38.0,Santiago,3,54928,
+420,2025-08-11,Electrónica,18566,1878,Tomás Silva,50.0,Valparaíso,2,35187,965.64
+139,2025-10-30,Moda,23104,617,Mateo Sepúlveda,43.0,La Serena,5,63124,940.57
+25,2025-02-14,Electrónica,46707,115,Fernanda Díaz,53.0,Santiago,6,178627,949.52
+90,2025-05-10,Electrónica,30345,418,Ignacio Sepúlveda,37.0,Santiago,3,96544,
+500,2025-12-19,Electrónica,6654,2218,Pablo Contreras,20.0,Santiago,4,42341,914.99
+367,2025-11-14,Electrónica,7183,1626,Benjamín Sepúlveda,38.0,Antofagasta,7,199989,925.63
+215,2025-09-19,Hogar,8407,970,Daniela Torres,45.0,La Serena,8,126845,
+137,2025-07-15,Alimentos,23428,605,Lucas Rojas,41.0,Concepción,5,228832,967.22
+21,2025-07-27,Belleza,29723,97,Tomás Pérez,39.0,Antofagasta,4,125113,
+19,2026-01-02,Moda,22202,90,Ignacio Soto,43.0,Santiago,5,95817,
+191,2025-09-17,Belleza,4589,849,Joaquín Flores,53.0,Santiago,4,51277,948.57
+427,2025-05-07,Juguetes,76148,1914,Gabriel Contreras,41.0,Santiago,8,309457,939.67
+500,2025-03-12,Moda,25300,2221,Pablo Contreras,20.0,Santiago,4,42341,937.45
+171,2025-12-01,Juguetes,2770,754,Camila Flores,35.0,Santiago,7,117552,928.16
+111,2025-03-10,Moda,13205,499,Martina Sepúlveda,69.0,Valparaíso,2,27563,928.25
+285,2025-07-24,Electrónica,15736,1277,Pablo Soto,53.0,Talca  ,4,188703,948.93
+296,2025-04-27,Moda,18552,1326,Tomás Díaz,45.0,Santiago,5,59794,
+369,2025-10-06,Deportes,3020,1631,Ana Soto,57.0,Santiago,12,131047,963.17
+4,2025-06-12,Hogar,4638,12,Pablo Torres,32.0,Valparaíso,6,101303,936.36
+85,2025-03-15,Moda,40020,397,Lucas Pérez,33.0,Temuco,7,344709,
+60,2025-10-18,Moda,74605,285,Joaquín Sepúlveda,18.0,Valparaíso,6,237199,
+498,2025-06-16,Juguetes,15782,2214,Josefa Pérez,47.0,Santiago,3,42892,937.78
+235,2025-04-23,Alimentos,27876,1067,Benjamín Muñoz,29.0,Santiago,3,91475,950.04
+266,2025-02-06,Electrónica,500160,1192,Vicente Martínez,21.0,Santiago,5,103099,969.47
+325,2025-06-01,Juguetes,10498,1441,Catalina Silva,30.0,Antofagasta,9,160227,
+364,2025-09-24,Electrónica,1730,1601,Gabriel Martínez,18.0,Valparaíso,6,75876,952.87
+476,2025-12-11,Hogar,67770,2118,Fernanda Rojas,18.0,Concepción,7,355255,923.99
+476,2025-03-18,Alimentos,63297,2117,Fernanda Rojas,18.0,Concepción,7,355255,923.32
+327,2025-03-11,Electrónica,12028,1451,Isidora Vergara,18.0,Concepción  ,2,39473,931.13
+157,2025-02-11,Electrónica,31394,691,Camila Martínez,32.0,Antofagasta,6,149525,960.81
+461,2025-11-20,Hogar,32180,2044,Daniela Muñoz,46.0,Valparaíso,3,78885,931.36
+355,2025-04-10,Deportes,136500,1569,Catalina Díaz,28.0,Santiago,6,382724,1000.01
+494,2025-10-28,Hogar,60782,2200,Lucas Soto,47.0,Santiago,3,100278,938.19
+490,2025-08-08,Hogar,57665,2188,Lucas Sepúlveda,63.0,Antofagasta,7,163898,971.88
+157,2025-08-15,Hogar,7410,690,Camila Martínez,32.0,Antofagasta,6,149525,
+379,2025-06-17,Alimentos,5490,1688,Josefa Contreras,63.0,Concepción,4,90467,935.21
+192,2025-03-25,Deportes,29678,852,Lucas Sepúlveda,18.0,Temuco,6,156994,926.41
+340,2025-08-02,Deportes,2159,1499,Catalina Torres,23.0,Valparaíso,6,92219,
+33,2025-09-27,Electrónica,18047,160,Sofía Muñoz,45.0,Santiago,9,211352,
+202,2026-01-12,Belleza,8033,896,Antonia Silva,30.0,Santiago  ,7,302877,
+441,2025-12-05,Hogar,2767,1977,Catalina Vergara,43.0,Santiago,5,157918,918.15
+54,2025-11-28,Alimentos,7521,258,Benjamín Díaz,39.0,Temuco,7,212648,929.14
+72,2025-04-24,Alimentos,128868,336,Valentina Pérez,45.0,Antofagasta,4,322269,938.02
+494,2025-08-06,Electrónica,8631,2202,Lucas Soto,47.0,Santiago,3,100278,966.02
+229,2025-11-15,Juguetes,56749,1040,Tomás Soto,59.0,Valparaíso,5,143760,
+117,2025-08-18,Moda,16426,516,Ana Rojas,36.0,La Serena,8,136387,961.84
+301,2025-11-05,Hogar,69471,1349,Josefa González,43.0,La Serena,2,75536,945.13
+223,2025-05-09,Moda,19039,1016,Daniela Sepúlveda,33.0,Santiago,5,69873,941.22
+174,2025-11-30,Hogar,13252,769,Daniela Céspedes,56.0,Concepción,9,218391,
+477,2025-07-26,Belleza,11791,2124,Ignacio Céspedes,52.0,Valparaíso,6,78820,
+97,2025-12-20,Juguetes,23129,442,Isidora Silva,49.0,Concepción,5,88173,
+415,2026-01-03,Electrónica,1500,1861,Ana Silva,18.0,Talca,5,32925,
+172,2025-06-05,Belleza,10690,762,Sofía Silva,34.0,Concepción,9,167098,936.89
+279,2026-01-28,Hogar,60062,1247,Sofía Rojas,36.0,,3,160650,
+269,2025-07-07,Juguetes,14106,1204,Lucas Céspedes,25.0,Santiago,5,111300,932.34
+412,2025-11-14,Electrónica,9565,1841,Isidora Muñoz,38.0,Temuco,5,64407,925.63
+249,2025-10-18,Belleza,46828,1124,Fernanda Díaz,18.0,La Serena,3,215864,
+400,2025-06-12,Electrónica,17634,1782,Mateo Silva,21.0,Valparaíso,4,121404,936.36
+117,2025-02-11,Deportes,51083,522,Ana Rojas,36.0,La Serena,8,136387,960.81
+402,2025-10-08,Belleza,3947,1786,Fernanda González,50.0,Santiago,4,43587,961.61
+6,2025-05-13,Deportes,67653,23,Gabriel Soto,38.0,Antofagasta,4,106510,941.2
+78,2025-10-12,Belleza,29090,357,Isidora Contreras,26.0,Concepción,3,64846,
+483,2025-08-19,Alimentos,2622,2157,Martina Contreras,28.0,La Serena,3,63630,966.24
+285,2025-04-01,Hogar,12530,1278,Pablo Soto,53.0,Talca  ,4,188703,953.07
+292,2025-07-12,Electrónica,8153,1313,Martina Soto,56.0,Santiago,5,78683,
+369,2026-01-31,Hogar,7674,1636,Ana Soto,57.0,Santiago,12,131047,
+124,2025-05-14,Moda,8864,551,Benjamín Pérez,28.0,Valparaíso,7,297134,940.18
+73,2025-12-18,Belleza,37469,341,Benjamín Rojas,43.0,Valparaíso,7,379422,917.45
+95,2025-06-19,Moda,57183,432,Gabriel Díaz,52.0,Santiago,4,122811,943.36
+105,2025-06-07,Belleza,60799,474,Fernanda Sepúlveda,22.0,Rancagua,5,135963,
+47,2025-03-13,Juguetes,8894,218,Pablo Soto,18.0,SANTIAGO,9,66194,932.28
+205,2025-04-29,Belleza,8492,912,Benjamín Céspedes,18.0,Santiago,10,261664,937.54
+275,2025-12-20,Alimentos,6166,1228,Pablo Sepúlveda,23.0,Santiago,5,97151,
+447,2025-07-08,Alimentos,1500,2001,Mateo Flores,50.0,La Serena,6,119618,940.28
+222,2026-01-06,Belleza,13390,1012,Benjamín Flores,42.0,Santiago,4,35877,
+213,2025-03-15,Electrónica,7284,958,Fernanda Martínez,40.0,Antofagasta,7,128371,
+398,2025-12-09,Belleza,58614,1774,Valentina González,30.0,Santiago,5,265254,920.02
+20,2025-06-26,Alimentos,36345,94,Benjamín Silva,18.0,Antofagasta,3,171873,936.29
+222,2026-01-29,Belleza,11236,1009,Benjamín Flores,42.0,Santiago,4,35877,
+236,2025-05-04,Deportes,27317,1071,Daniela Vergara,40.0,Concepción,3,66299,
+240,2025-04-19,Electrónica,13918,1093,Lucas Torres,26.0,Santiago,3,55122,
+444,2025-11-09,Hogar,12840,1989,Benjamín Soto,30.0,Santiago,3,91748,
+292,2025-05-01,Alimentos,23540,1309,Martina Soto,56.0,Santiago,5,78683,
+158,2025-08-24,Alimentos,11036,697,Vicente Silva,33.0,Santiago,3,97067,
+244,2025-05-05,Moda,7495,1110,Lucas Rojas,46.0,Santiago,7,49886,940.95
+219,2025-10-06,Deportes,5198,997,Pablo Rojas,18.0,Concepción,5,110395,963.17
+329,2025-06-22,Deportes,47287,1459,Camila Torres,45.0,Temuco,8,243402,
+378,2025-02-15,Electrónica,12537,1680,Daniela Martínez,23.0,Santiago,9,315431,
+32,2025-09-05,Moda,4573,154,Isidora Muñoz,37.0,Concepción,6,68093,971.22
+243,2025-08-03,Moda,8972,1100,Sofía Silva,39.0,ANTOFAGASTA,6,237596,
+52,2025-12-07,Deportes,11724,247,Valentina Pérez,31.0,Santiago,4,362249,
+322,2025-10-19,Alimentos,49308,1431,Camila Vergara,59.0,Concepción,2,53405,
+177,2025-11-30,Juguetes,20757,790,Daniela Silva,28.0,Temuco,8,237786,
+131,2025-07-09,Moda,7643,581,Vicente Martínez,41.0,Temuco,6,117542,945.39
+333,2025-06-14,Moda,75144,1471,Mateo Soto,23.0,Santiago,6,254770,
+160,2026-01-14,Moda,14155,704,Fernanda Díaz,56.0,Santiago,4,26527,
+272,2025-07-11,Hogar,29641,1213,Ana Flores,42.0,Valparaíso,8,469265,950.43
+289,2025-12-16,Electrónica,86046,1296,Tomás Contreras,27.0,Antofagasta,8,376090,912.03
+203,2025-02-19,Moda,12077,897,Benjamín Muñoz,31.0,Santiago,4,129301,950.43
+282,2025-09-19,Deportes,1770,1261,Benjamín Silva,33.0,Temuco,6,93747,
+108,2026-01-27,Moda,16113,488,Joaquín Contreras,24.0,Santiago,7,248703,
+367,2025-04-21,Deportes,14325,1625,Benjamín Sepúlveda,38.0,Antofagasta,7,199989,968.71
+126,2025-04-04,Deportes,73906,560,Vicente Rojas,45.0,Santiago,5,235402,946.59
+254,2025-12-09,,26148,1142,Mateo Flores,34.0,Valparaíso,6,119936,920.02
+475,2025-05-22,Hogar,2119,2110,Lucas Muñoz,39.0,Santiago,4,60337,942.21
+248,2025-07-28,Hogar,6564,1120,Pablo Díaz,18.0,Santiago,2,18639,957.82
+181,2025-11-22,Moda,32515,802,Antonia Martínez,30.0,Santiago,5,127936,
+398,2025-04-25,Belleza,24322,1775,Valentina González,30.0,Santiago,5,265254,937.81
+116,2025-06-06,Hogar,30784,513,Vicente Silva,40.0,La Serena,7,224345,930.79
+142,2026-01-29,Deportes,73401,634,Isidora Torres,51.0,Antofagasta,5,347936,
+414,2025-09-16,Electrónica,53768,1855,Camila Flores,,Talca  ,10,259794,951.14
+376,2025-12-27,Electrónica,14005,1665,Sofía Contreras,40.0,Temuco,6,88284,
+223,2025-11-06,Moda,5427,1013,Daniela Sepúlveda,33.0,Santiago,5,69873,945.6
+435,2025-06-11,Juguetes,2823,1941,Pablo Soto,31.0,La Serena,5,12466,938.88
+256,2025-09-15,Belleza,28661,1151,Camila Soto,40.0,Santiago,4,147905,954.58
+177,2025-02-10,Moda,18885,791,Daniela Silva,28.0,Temuco,8,237786,960.6
+25,2025-10-23,Deportes,34860,117,Fernanda Díaz,53.0,Santiago,6,178627,950.46
+339,2025-12-09,Electrónica,16358,1498,Isidora González,18.0,Santiago,4,116915,920.02
+168,2025-03-21,Juguetes,15230,741,Valentina Torres,33.0,Talca,7,155662,926.15
+490,2025-02-21,Electrónica,24452,2184,Lucas Sepúlveda,63.0,Antofagasta,7,163898,944.65
+238,2025-06-21,Deportes,38360,1082,Pablo Díaz,27.0,Santiago,6,225347,
+368,2025-10-22,Deportes,26838,1628,Mateo Sepúlveda,40.0,Antofagasta,2,33510,951.78
+406,2025-12-11,Hogar,22484,1811,Tomás Vergara,40.0,Concepción,13,379598,923.99
+187,2025-02-16,Moda,8139,831,Valentina Pérez,28.0,Santiago,8,121661,
+26,2025-10-02,Moda,96967,120,Lucas Díaz,57.0,Santiago,2,104732,959.19
+147,2025-02-22,Juguetes,13830,657,Ana Soto,32.0,Santiago,5,101163,
+465,2025-11-20,Moda,32643,2065,Ana Flores,24.0,Rancagua,4,87431,931.36
+454,2025-05-23,Alimentos,34374,2018,Ana Pérez,32.0,Santiago,3,103520,944.84
+499,2025-08-31,Moda,3813,2217,Antonia Flores,35.0,Talca,1,4814,
+143,2025-08-06,,43763,636,Martina Sepúlveda,45.0,Santiago,4,122993,966.02
+81,2025-12-10,Hogar,42608,370,Antonia Céspedes,42.0,Valparaíso,8,276772,926.89
+56,2025-10-22,Electrónica,13127,269,Ana Contreras,40.0,SANTIAGO,7,135464,951.78
+147,2025-10-09,Hogar,45960,656,Ana Soto,32.0,Santiago,5,101163,951.45
+468,2025-04-17,Belleza,19404,2084,Vicente Díaz,38.0,Santiago,9,631306,969.23
+209,2026-01-10,Juguetes,2829,936,Martina Soto,18.0,Santiago  ,10,82407,
+185,2025-02-23,Belleza,37059,823,Benjamín Muñoz,47.0,Concepción,3,114478,
+196,2025-02-18,Deportes,23105,867,Sofía Rojas,32.0,Valparaíso,3,96004,947.13
+11,2025-05-09,Electrónica,21777,47,Tomás Flores,,Santiago,5,150627,941.22
+308,2025-07-03,Electrónica,17429,1374,Vicente Céspedes,28.0,Santiago,4,54130,926.51
+201,2025-12-21,Moda,73551,884,Josefa Contreras,57.0,Santiago,6,342264,
+218,2026-01-22,Alimentos,76120,992,Sofía Soto,35.0,Santiago,5,166427,
+198,2025-07-21,Juguetes,10459,877,Camila Silva,23.0,,3,18864,961.55
+174,2025-04-20,,9314,774,Daniela Céspedes,56.0,Concepción,9,218391,
+273,2025-06-04,Alimentos,33895,1220,Valentina González,54.0,Concepción,5,129998,941.53
+251,2025-10-06,Moda,28744,1127,Valentina Flores,18.0,Santiago,3,94240,963.17
+2,2025-09-29,Alimentos,11319,5,Fernanda Vergara,46.0,Temuco,5,114303,958.9
+489,2025-03-20,Moda,1500,2176,Fernanda Rojas,34.0,Santiago,10,136926,917.76
+220,2025-12-14,Electrónica,1500,1004,Antonia Silva,31.0,Rancagua,5,65478,
+363,2025-04-01,Moda,18209,1596,Isidora Céspedes,44.0,La Serena,5,151483,953.07
+474,2025-09-30,Electrónica,5413,2108,Benjamín Soto,27.0,Temuco,2,51414,961.24
+55,2026-01-04,Belleza,101000,264,Benjamín Flores,,Santiago,6,180447,
+440,2025-02-17,Belleza,50311,1971,Josefa Contreras,38.0,SANTIAGO,5,308188,939.54
+138,2025-11-02,Electrónica,22171,613,Ana Díaz,22.0,LA SERENA,6,143559,
+98,2025-11-20,Alimentos,31626,444,Joaquín Martínez,27.0,Concepción,5,203985,931.36
+220,2025-11-14,Moda,1500,1003,Antonia Silva,31.0,Rancagua,5,65478,925.63
+238,2025-12-25,Moda,5004,1078,Pablo Díaz,27.0,Santiago,6,225347,
+400,2025-05-29,Deportes,61250,1781,Mateo Silva,21.0,Valparaíso,4,121404,940.21
+188,2025-07-19,Hogar,110777,838,Josefa Silva,43.0,Rancagua,3,388775,
+154,2025-06-18,Moda,46455,682,Martina Sepúlveda,40.0,Santiago,3,182452,939.29
+385,2025-11-01,Electrónica,75037,1716,Ana Sepúlveda,42.0,Santiago,2,73356,
+63,2025-12-08,,39297,305,Josefa Soto,48.0,,8,403211,
+304,2025-09-14,Belleza,21492,1366,Gabriel Torres,53.0,,6,235779,
+438,2025-04-11,Juguetes,59834,1957,Antonia Muñoz,28.0,Santiago,4,133895,988.97
+65,2025-04-28,Moda,17783,314,Pablo Torres,37.0,Concepción,3,91226,936.74
+32,2025-10-02,Moda,2894,150,Isidora Muñoz,37.0,Concepción,6,68093,959.19
+255,2025-07-30,Hogar,11909,1149,Joaquín Contreras,50.0,Concepción,6,129485,970.09
+272,2026-01-24,Deportes,53887,1214,Ana Flores,42.0,Valparaíso,8,469265,
+129,2026-01-30,Alimentos,34791,575,Vicente Contreras,50.0,Valparaíso,3,88953,
+386,2025-05-02,Belleza,3538,1722,Camila Martínez,19.0,Santiago,7,157740,955.67
+379,2025-09-18,Juguetes,55063,1689,Josefa Contreras,63.0,Concepción,4,90467,
+12,2025-05-03,Moda,34839,51,Catalina Martínez,18.0,Antofagasta,6,121573,
+436,2025-08-30,Belleza,7628,1950,Camila Flores,33.0,Santiago,6,169964,
+167,2025-02-15,Alimentos,46318,727,Mateo Contreras,52.0,Antofagasta,8,500959,
+408,2025-06-30,Deportes,25037,1824,Camila Muñoz,35.0,Santiago,6,213680,935.74
+187,2025-03-24,Electrónica,43147,834,Valentina Pérez,28.0,Santiago,8,121661,932.14
+309,2025-04-13,Hogar,34373,1378,Mateo Pérez,35.0,Valparaíso,2,61907,
+246,2025-06-02,Electrónica,32235,1116,Sofía Pérez,33.0,Valparaíso,3,72627,941.97
+260,2025-03-19,Deportes,56592,1167,Vicente Martínez,44.0,Valparaíso,5,245523,917.97
+104,2025-08-06,Belleza,46725,471,Ana Céspedes,33.0,La Serena,3,104280,966.02
+455,2025-11-29,Hogar,16954,2023,Vicente Martínez,32.0,Temuco,4,127201,
+215,2025-05-18,Electrónica,7720,972,Daniela Torres,45.0,La Serena,8,126845,
+146,2025-09-17,Moda,1500,654,Gabriel Díaz,21.0,Antofagasta,7,146872,948.57
+86,2025-03-01,Electrónica,5758,400,Daniela Torres,36.0,Concepción,3,95731,
+116,2025-12-30,Deportes,4179,512,Vicente Silva,40.0,La Serena,7,224345,911.18
+451,2025-03-19,Moda,1500,2012,Catalina Céspedes,47.0,Valparaíso,3,81891,917.97
+66,2025-10-18,Moda,3751,321,Mateo Rojas,29.0,Concepción,5,50267,
+5,2025-09-23,Belleza,69901,20,Pablo Rojas,34.0,Valparaíso,3,144745,954.72
+155,2026-01-23,Moda,11730,685,Pablo Contreras,35.0,Antofagasta,3,44044,
+9,2025-04-09,Hogar,49663,36,Isidora Rojas,23.0,Valparaíso,3,76806,993.89
+414,2025-02-07,Belleza,1619160,1849,Camila Flores,,Talca  ,10,259794,967.59
+204,2025-04-16,Alimentos,39648,903,Joaquín Muñoz,21.0,Temuco,6,90057,967.15
+480,2025-11-29,Electrónica,127801,2142,Camila Contreras,63.0,Santiago,8,596687,
+186,2025-06-10,Juguetes,16060,828,Pablo Sepúlveda,38.0,Santiago,3,54928,937.09
+118,2025-08-12,Electrónica,71986,525,Camila Rojas,36.0,Santiago,4,215176,969.77
+87,2025-11-26,Hogar,39900,408,Sofía Vergara,,Santiago,7,451909,937.15
+207,2025-09-11,Belleza,19542,921,Fernanda González,23.0,Antofagasta,6,158417,962.73
+412,2025-02-08,Belleza,2653,1842,Isidora Muñoz,38.0,Temuco,5,64407,
+423,2026-01-17,Moda,76347,1891,Fernanda Soto,24.0,Concepción,7,466236,
+121,2025-06-04,Belleza,41563,538,Pablo Soto,18.0,La Serena,4,132910,941.53
+172,2025-03-29,Deportes,21558,759,Sofía Silva,34.0,Concepción,9,167098,
+382,2025-12-19,Moda,1695,1706,Antonia Sepúlveda,46.0,CONCEPCIÓN,4,74619,914.99
+498,2025-07-30,Hogar,18152,2216,Josefa Pérez,47.0,Santiago,3,42892,970.09
+233,2025-04-14,Moda,18524,1063,Ana Torres,22.0,Santiago,5,33203,978.09
+268,2026-01-20,Juguetes,1500,1200,Mateo Soto,39.0,Santiago,6,72511,
+52,2025-05-17,Electrónica,65423,246,Valentina Pérez,31.0,Santiago,4,362249,
+411,2025-07-14,Electrónica,13992,1835,Valentina Martínez,37.0,La Serena,5,46998,955.73
+319,2025-12-09,Moda,10001,1417,Antonia Vergara,38.0,Concepción,6,103936,920.02
+251,2025-09-29,Juguetes,21499,1128,Valentina Flores,18.0,Santiago,3,94240,958.9
+177,2025-04-10,Alimentos,29897,785,Daniela Silva,28.0,Temuco,8,237786,1000.01
+317,2025-10-15,Electrónica,93156,1410,Daniela González,45.0,Temuco,4,215894,963.69
+108,2025-11-03,Moda,21382,490,Joaquín Contreras,24.0,Santiago,7,248703,943.69
+33,2025-10-24,Hogar,34362,155,Sofía Muñoz,45.0,Santiago,9,211352,945.34
+375,2025-07-29,Belleza,40812,1663,Gabriel Vergara,40.0,La Serena,5,180519,969.75
+213,2025-02-22,Hogar,1500,962,Fernanda Martínez,40.0,Antofagasta,7,128371,
+379,2026-01-27,Belleza,5898,1687,Josefa Contreras,63.0,Concepción,4,90467,
+192,2025-09-21,Moda,30048,854,Lucas Sepúlveda,18.0,Temuco,6,156994,
+292,2025-02-19,Alimentos,40148,1312,Martina Soto,56.0,Santiago,5,78683,950.43
+140,2025-12-09,Moda,16458,626,Pablo Flores,19.0,Antofagasta,7,83225,920.02
+407,2025-10-03,Deportes,29969,1816,Pablo Pérez,18.0,Valparaíso,10,127768,961.54
+155,2025-09-06,Juguetes,6881,686,Pablo Contreras,35.0,Antofagasta,3,44044,
+489,2026-01-02,Belleza,54992,2175,Fernanda Rojas,34.0,Santiago,10,136926,
+439,2025-06-22,Belleza,17150,1963,Sofía Soto,43.0,Temuco,9,210266,
+128,2026-02-04,Moda,16217,570,Fernanda Pérez,27.0,Santiago  ,6,119686,
+127,2025-06-28,Hogar,62118,566,Sofía Díaz,37.0,Antofagasta,3,167258,
+395,2025-10-27,Moda,22565,1759,Daniela Martínez,46.0,La Serena,2,43305,943.47
+407,2025-11-25,Belleza,11341,1817,Pablo Pérez,18.0,Valparaíso,10,127768,939.57
+5,2025-03-18,Deportes,23674,18,Pablo Rojas,34.0,Valparaíso,3,144745,923.32
+28,2025-09-09,Hogar,11445,128,Ignacio Muñoz,34.0,Talca,7,220161,967.07
+300,2025-06-15,Juguetes,14216,1347,Ana Soto,25.0,Concepción,3,25619,
+286,2026-01-25,,37427,1280,Antonia Silva,25.0,Santiago,3,88755,
+88,2025-06-16,Electrónica,41596,411,Mateo Céspedes,18.0,Santiago,5,101839,937.78
+208,2025-12-31,Hogar,33480,928,Catalina Silva,,La Serena,8,176337,
+216,2025-08-04,Hogar,18462,981,Martina Sepúlveda,25.0,Santiago,9,68242,967.48
+54,2025-04-16,Deportes,44727,253,Benjamín Díaz,39.0,Temuco,7,212648,967.15
+40,2025-08-15,Electrónica,58295,191,Lucas González,43.0,Antofagasta,7,242135,
+254,2025-09-24,Deportes,1500,1140,Mateo Flores,34.0,Valparaíso,6,119936,952.87
+218,2025-05-04,Moda,26776,993,Sofía Soto,35.0,Santiago,5,166427,
+159,2025-07-19,Hogar,1500,700,Tomás Céspedes,32.0,Concepción,6,109010,
+249,2025-11-06,Alimentos,84005,1123,Fernanda Díaz,18.0,La Serena,3,215864,945.6
+137,2025-10-02,Juguetes,122413,607,Lucas Rojas,41.0,Concepción,5,228832,959.19
+37,2025-09-20,Deportes,53390,181,Gabriel Soto,43.0,Valparaíso,4,104219,
+63,2025-05-14,Deportes,17675,302,Josefa Soto,48.0,,8,403211,940.18
+109,2025-08-18,Electrónica,35357,497,Benjamín Flores,38.0,La Serena,3,74942,961.84
+308,2025-06-21,Electrónica,4965,1373,Vicente Céspedes,28.0,Santiago,4,54130,
+59,2025-08-30,Electrónica,41595,280,Daniela Sepúlveda,31.0,Concepción,4,179167,
+233,2026-03-01,Moda,2107,1061,Ana Torres,22.0,Santiago,5,33203,
+479,2025-05-12,Moda,10984,2135,Joaquín Díaz,38.0,Valparaíso,7,183710,933.26
+428,2025-09-18,Electrónica,10882,1916,Ignacio Díaz,18.0,Antofagasta,4,50262,
+463,2025-05-26,Hogar,29627,2053,Daniela Sepúlveda,44.0,Santiago,3,116285,940.81
+117,2025-10-08,Deportes,17071,518,Ana Rojas,36.0,La Serena,8,136387,961.61
+314,2025-04-07,Electrónica,16742,1397,Martina Rojas,49.0,Concepción,3,50907,975.82
+236,2025-08-19,Juguetes,5485,1070,Daniela Vergara,40.0,Concepción,3,66299,966.24
+105,2025-04-05,Hogar,12467,477,Fernanda Sepúlveda,22.0,Rancagua,5,135963,
+33,2025-12-08,Electrónica,45036,158,Sofía Muñoz,45.0,Santiago,9,211352,
+278,2025-06-28,Deportes,1500,1244,Fernanda Céspedes,48.0,Santiago,4,38836,
+267,2026-01-27,Belleza,19677,1196,Pablo Silva,36.0,Santiago,4,58791,
+4,2025-03-22,Moda,8637,17,Pablo Torres,32.0,Valparaíso,6,101303,
+348,2025-12-18,Alimentos,22157,1536,Antonia González,42.0,Concepción,5,151284,917.45
+237,2025-12-24,Alimentos,11413,1073,Joaquín Martínez,34.0,Santiago,5,126680,906.44
+197,2025-11-08,Juguetes,1500,875,Mateo Martínez,18.0,La Serena,7,245646,
+123,2025-12-18,Moda,12115,547,Joaquín Muñoz,32.0,Talca,4,73665,917.45
+349,2025-04-04,Deportes,29777,1540,Valentina Sepúlveda,57.0,Santiago,5,143678,946.59
+147,2025-05-11,Belleza,21618,659,Ana Soto,32.0,Santiago,5,101163,
+459,2025-07-03,Electrónica,20415,2036,Ignacio Flores,,VALPARAÍSO,5,200860,926.51
+414,2025-02-14,Deportes,7214,1853,Camila Flores,,Talca  ,10,259794,949.52
+225,2025-08-17,Deportes,6696,1020,Daniela Sepúlveda,47.0,Santiago,3,111972,
+466,2025-10-05,Hogar,63632,2068,Catalina Silva,,Valparaíso,6,191442,
+341,2025-02-11,Belleza,71736,1505,Lucas Díaz,50.0,Santiago,1,71696,960.81
+213,2025-12-10,,11746,960,Fernanda Martínez,40.0,Antofagasta,7,128371,926.89
+495,2025-10-08,Belleza,52920,2204,Martina Contreras,26.0,Temuco,4,76712,961.61
+60,2025-10-14,Juguetes,7557,284,Joaquín Sepúlveda,18.0,Valparaíso,6,237199,957.66
+369,2026-01-08,Electrónica,11878,1633,Ana Soto,57.0,Santiago,12,131047,
+180,2025-09-26,Deportes,1500,798,Tomás Flores,41.0,Santiago,4,100172,956.42
+459,2025-04-11,Moda,125910,2037,Ignacio Flores,,VALPARAÍSO,5,200860,988.97
+48,2025-04-24,Belleza,8064,226,Gabriel Silva,22.0,Santiago,4,59436,938.02
+7,2025-12-20,Electrónica,5335,27,Sofía Contreras,42.0,Santiago,6,83749,
+479,2025-10-26,Hogar,58696,2137,Joaquín Díaz,38.0,Valparaíso,7,183710,
+406,2025-09-03,Deportes,37140,1800,Tomás Vergara,40.0,Concepción,13,379598,974.13
+97,2025-11-21,Electrónica,14868,438,Isidora Silva,49.0,Concepción,5,88173,929.0
+210,2025-04-29,Moda,2746,943,Fernanda Soto,26.0,VALPARAÍSO,3,133985,937.54
+311,2025-04-29,Moda,13724,1389,Joaquín González,54.0,Santiago,7,170137,937.54
+49,2025-10-12,Moda,22595,230,Joaquín Contreras,23.0,La Serena,5,250520,
+10,2025-03-28,Electrónica,132414,38,Sofía Rojas,48.0,Santiago,8,1333744,931.75
+381,2025-11-24,Juguetes,27060,1694,Ana Céspedes,26.0,Santiago,9,445915,937.36
+171,2025-10-17,Juguetes,6541,750,Camila Flores,35.0,Santiago,7,117552,956.13
+230,2025-07-19,Electrónica,28343,1046,Valentina Vergara,20.0,Valparaíso,2,63224,
+315,2025-07-27,Belleza,18964,1399,Isidora Martínez,18.0,Santiago,5,164776,
+103,2025-05-08,Moda,18763,470,Ignacio Martínez,34.0,Temuco,3,145527,945.44
+426,2025-03-04,Hogar,37285,1907,Valentina Flores,28.0,Santiago,2,62530,953.11
+212,2025-12-17,Alimentos,6886,955,Daniela Contreras,39.0,Concepción,6,109197,913.74
+49,2025-12-13,Moda,11113,232,Joaquín Contreras,23.0,La Serena,5,250520,
+156,2025-07-10,Belleza,15317,688,Joaquín Contreras,26.0,Santiago,1,17258,948.33
+232,2025-12-19,Moda,3134,1057,Gabriel Pérez,53.0,Santiago,7,128605,914.99
+144,2025-10-09,Moda,4332,640,Pablo Soto,53.0,Santiago,6,124824,951.45
+472,2025-05-17,Hogar,5892,2100,Ignacio Pérez,20.0,Santiago,4,135198,
+272,2025-02-08,Electrónica,92618,1219,Ana Flores,42.0,Valparaíso,8,469265,
+258,2025-06-23,Hogar,27752,1159,Camila Pérez,24.0,TEMUCO,2,126245,947.03
+319,2025-08-07,Belleza,3666,1416,Antonia Vergara,38.0,Concepción,6,103936,976.42
+463,2025-09-15,Electrónica,78993,2051,Daniela Sepúlveda,44.0,Santiago,3,116285,954.58
+347,2025-05-09,Electrónica,78174,1528,Catalina Muñoz,40.0,Santiago,7,271177,941.22
+435,2025-08-02,Deportes,1650,1940,Pablo Soto,31.0,La Serena,5,12466,
+496,2025-04-06,Juguetes,40947,2209,Pablo Silva,25.0,Santiago,4,161038,
+290,2025-10-30,Moda,65727,1301,Benjamín González,44.0,Concepción,2,80309,940.57
+487,2025-07-06,Hogar,63409,2169,Mateo Silva,,Santiago  ,5,557911,
+181,2025-02-19,Hogar,6303,801,Antonia Martínez,30.0,Santiago,5,127936,950.43
+364,2025-12-18,Juguetes,28876,1604,Gabriel Martínez,18.0,Valparaíso,6,75876,917.45
+33,2025-10-25,Moda,2492,161,Sofía Muñoz,45.0,Santiago,9,211352,
+454,2025-08-23,Hogar,37870,2020,Ana Pérez,32.0,Santiago,3,103520,
+382,2026-02-04,Belleza,18995,1705,Antonia Sepúlveda,46.0,CONCEPCIÓN,4,74619,
+213,2025-05-01,Deportes,35086,957,Fernanda Martínez,40.0,Antofagasta,7,128371,
+390,2025-11-07,Juguetes,27095,1744,Valentina Rojas,30.0,Concepción,5,154388,940.84
+265,2025-05-22,Hogar,26895,1187,Catalina Pérez,22.0,Temuco,1,28997,942.21
+184,2025-05-26,Alimentos,11412,822,Joaquín Flores,37.0,Valparaíso  ,6,133934,940.81
+388,2026-02-04,Hogar,13711,1730,Ignacio Muñoz,58.0,Santiago,7,71668,
+495,2025-09-04,Electrónica,3829,2205,Martina Contreras,26.0,Temuco,4,76712,969.46
+198,2025-03-29,Alimentos,8160,878,Camila Silva,23.0,,3,18864,
+429,2025-11-06,Moda,25683,1920,Ana Pérez,57.0,Concepción,5,172902,945.6
+422,2025-06-28,Hogar,3586,1885,Joaquín Silva,39.0,Antofagasta,3,87686,
+22,2025-12-07,Hogar,16815,99,Josefa Muñoz,31.0,Santiago,3,45041,
+418,2025-11-18,Deportes,22043,1873,Camila Martínez,18.0,Santiago,6,100695,919.82
+54,2025-05-26,Moda,3555,254,Benjamín Díaz,39.0,Temuco,7,212648,940.81
+23,2025-02-05,,18901,104,Valentina Muñoz,29.0,SANTIAGO,8,137927,977.58
+326,2025-10-02,Electrónica,41173,1446,Isidora Céspedes,30.0,Santiago,4,75680,959.19
+325,2025-05-05,Juguetes,11122,1444,Catalina Silva,30.0,Antofagasta,9,160227,940.95
+371,2025-12-27,Hogar,10823,1649,Mateo Soto,43.0,La Serena,3,33052,
+132,2025-05-01,Electrónica,61482,587,Vicente Díaz,47.0,Antofagasta,3,128908,
+141,2025-11-26,Moda,1534,628,Catalina Vergara,25.0,La Serena,4,122536,937.15
+381,2025-10-29,Belleza,14910,1697,Ana Céspedes,26.0,Santiago,9,445915,941.63
+87,2025-12-01,Electrónica,23059,404,Sofía Vergara,,Santiago,7,451909,928.16
+257,2025-04-10,Electrónica,1500,1155,Joaquín Martínez,0.0,Santiago,4,39963,1000.01
+378,2025-09-01,Moda,1709,1683,Daniela Martínez,23.0,Santiago,9,315431,965.28
+464,2025-08-21,Belleza,71734,2057,Pablo Rojas,32.0,SANTIAGO,10,401861,965.06
+482,2026-01-06,Hogar,43035,2153,Ignacio Vergara,31.0,Antofagasta,5,90638,
+99,2026-03-01,Belleza,41452,453,Lucas Silva,34.0,Talca,6,283508,
+296,2025-03-24,Alimentos,22405,1328,Tomás Díaz,45.0,Santiago,5,59794,932.14
+462,2026-01-14,Juguetes,20460,2050,Camila Pérez,43.0,SANTIAGO,4,85124,
+200,2026-02-02,Belleza,12944,881,Catalina Céspedes,64.0,Santiago,4,42180,
+495,2025-02-25,Deportes,3146,2206,Martina Contreras,26.0,Temuco,4,76712,946.96
+140,2025-06-08,Alimentos,8324,624,Pablo Flores,19.0,Antofagasta,7,83225,
+402,2025-03-06,Moda,6276,1788,Fernanda González,50.0,Santiago,4,43587,936.7
+55,2025-06-08,Electrónica,33423,263,Benjamín Flores,,Santiago,6,180447,
+369,2025-09-03,Belleza,17426,1635,Ana Soto,57.0,Santiago,12,131047,974.13
+325,2025-01-12,Belleza,26102,1439,Catalina Silva,30.0,Antofagasta,9,160227,
+440,2025-07-13,Electrónica,106085,1970,Josefa Contreras,38.0,SANTIAGO,5,308188,
+406,2025-07-19,Hogar,21396,1803,Tomás Vergara,40.0,Concepción,13,379598,
+144,2026-02-03,Moda,82818,641,Pablo Soto,53.0,Santiago,6,124824,
+480,2025-03-31,Moda,304220,2143,Camila Contreras,63.0,Santiago,8,596687,946.1
+439,2025-09-29,Belleza,4354,1960,Sofía Soto,43.0,Temuco,9,210266,958.9
+108,2025-07-18,Alimentos,21124,489,Joaquín Contreras,24.0,Santiago,7,248703,966.78
+412,2025-05-23,Deportes,41633,1844,Isidora Muñoz,38.0,Temuco,5,64407,944.84
+388,2025-12-18,Moda,16223,1735,Ignacio Muñoz,58.0,Santiago,7,71668,917.45
+31,2025-04-30,Electrónica,32782,147,Benjamín Silva,36.0,Concepción,5,170439,945.42
+348,2025-05-13,Juguetes,17598,1535,Antonia González,42.0,Concepción,5,151284,941.2
+444,2025-09-28,Electrónica,55853,1987,Benjamín Soto,30.0,Santiago,3,91748,
+306,2025-04-05,Electrónica,18091,1370,Camila Martínez,31.0,Santiago,4,148466,
+500,2025-03-24,Alimentos,4499,2220,Pablo Contreras,20.0,Santiago,4,42341,932.14
+148,2025-05-19,Moda,2459,660,Isidora Contreras,36.0,Valparaíso,3,44429,944.46
+405,2025-11-24,Deportes,12688,1795,Benjamín Soto,45.0,Rancagua,4,64036,937.36
+39,2025-12-20,Electrónica,14895,187,Martina Contreras,39.0,SANTIAGO,4,166486,
+255,2025-07-28,Juguetes,37147,1148,Joaquín Contreras,50.0,Concepción,6,129485,957.82
+138,2025-10-21,Alimentos,11549,609,Ana Díaz,22.0,LA SERENA,6,143559,953.21
+431,2025-09-10,Deportes,66062,1931,Sofía Contreras,33.0,Santiago  ,5,144048,966.35
+41,2025-06-12,Alimentos,9821,198,Valentina Vergara,31.0,Talca,4,106925,936.36
+62,2025-11-23,Belleza,21911,294,Daniela González,35.0,Santiago,8,111464,
+173,2025-08-10,Moda,39424,767,Fernanda Silva,35.0,Talca,4,98255,
+86,2025-06-25,Electrónica,70748,401,Daniela Torres,36.0,Concepción,3,95731,937.89
+27,2025-07-22,Electrónica,77908,123,Pablo Torres,51.0,Rancagua,5,219889,956.65
+42,2025-06-20,Moda,4199,203,Fernanda González,44.0,Valparaíso,6,100265,
+187,2025-09-25,Electrónica,1500,836,Valentina Pérez,28.0,Santiago,8,121661,953.24
+325,2025-02-16,Hogar,168540,1440,Catalina Silva,30.0,Antofagasta,9,160227,
+388,2025-09-24,Belleza,15286,1734,Ignacio Muñoz,58.0,Santiago,7,71668,952.87
+381,2025-04-02,Deportes,17219,1696,Ana Céspedes,26.0,Santiago,9,445915,946.28
+383,2025-09-23,Belleza,6113,1708,Antonia Soto,34.0,Temuco,7,185769,954.72
+495,2025-09-30,Electrónica,9302,2203,Martina Contreras,26.0,Temuco,4,76712,961.24
+256,2025-10-19,Belleza,79060,1154,Camila Soto,40.0,Santiago,4,147905,
+375,2025-04-18,Electrónica,68152,1662,Gabriel Vergara,40.0,La Serena,5,180519,
+396,2025-10-07,Belleza,12945,1760,Gabriel Silva,18.0,Temuco,6,165555,963.09
+192,2025-03-26,Deportes,12336,855,Lucas Sepúlveda,18.0,Temuco,6,156994,919.92
+361,2025-08-05,Alimentos,13629,1590,Ignacio Flores,18.0,La Serena,5,80603,964.28
+144,2025-12-20,Alimentos,14503,642,Pablo Soto,53.0,Santiago,6,124824,
+1,2025-03-22,Hogar,25454,2,Sofía Céspedes,26.0,La Serena,3,86427,
+159,2025-07-25,Deportes,2812,699,Tomás Céspedes,32.0,Concepción,6,109010,951.27
+369,2026-01-25,Belleza,11178,1637,Ana Soto,57.0,Santiago,12,131047,
+288,2025-04-06,Hogar,34478,1292,Vicente Vergara,26.0,Santiago,5,268697,
+484,2025-03-25,Juguetes,131876,2161,Fernanda Vergara,31.0,Valparaíso,5,314212,926.41
+345,2025-05-18,Hogar,11444,1521,Antonia González,45.0,Santiago,3,87161,
+414,2025-07-27,Deportes,10689,1854,Camila Flores,,Talca  ,10,259794,
+253,2025-12-25,Moda,2191,1137,Valentina Céspedes,51.0,Santiago,6,225366,
+492,2025-04-29,Belleza,22965,2192,Gabriel Contreras,56.0,LA SERENA,5,198661,937.54
+369,2025-03-06,Moda,7715,1632,Ana Soto,57.0,Santiago,12,131047,936.7
+447,2025-10-20,Belleza,27775,1999,Mateo Flores,50.0,La Serena,6,119618,960.34
+149,2025-07-12,Belleza,56901,664,Ignacio Flores,36.0,Concepción,4,215241,
+154,2025-03-07,Alimentos,99092,684,Martina Sepúlveda,40.0,Santiago,3,182452,926.52
+282,2025-02-19,Belleza,33216,1258,Benjamín Silva,33.0,Temuco,6,93747,950.43
+66,2025-11-28,Deportes,7271,318,Mateo Rojas,29.0,Concepción,5,50267,929.14
+146,2025-05-17,Belleza,17577,649,Gabriel Díaz,21.0,Antofagasta,7,146872,
+324,2025-05-11,Moda,29050,1435,Antonia Vergara,37.0,Concepción,3,301973,
+336,2025-07-11,Moda,25028,1480,Ignacio Martínez,42.0,Valparaíso  ,8,162645,950.43
+161,2025-05-22,Electrónica,12521,710,Catalina Muñoz,34.0,Santiago,4,65783,942.21
+287,2025-10-19,Juguetes,82880,1283,Valentina González,39.0,Antofagasta,6,184961,
+397,2025-12-07,Belleza,1500,1769,Ana Contreras,45.0,Santiago,5,88986,
+215,2026-01-25,Alimentos,4491,973,Daniela Torres,45.0,La Serena,8,126845,
+291,2025-07-08,Deportes,40342,1307,Ignacio Céspedes,35.0,Santiago,6,69563,940.28
+315,2025-11-20,Alimentos,37438,1401,Isidora Martínez,18.0,Santiago,5,164776,931.36
+317,2025-10-13,Alimentos,70127,1409,Daniela González,45.0,Temuco,4,215894,954.37
+339,2025-07-17,Alimentos,49240,1497,Isidora González,18.0,Santiago,4,116915,965.65
+459,2026-01-10,Juguetes,11365,2039,Ignacio Flores,,VALPARAÍSO,5,200860,
+347,2025-02-23,Hogar,4086,1530,Catalina Muñoz,40.0,Santiago,7,271177,
+376,2025-08-09,Moda,4803,1664,Sofía Contreras,40.0,Temuco,6,88284,
+302,2025-03-30,Juguetes,49296,1355,Ignacio Díaz,43.0,Santiago,8,248894,
+497,2025-07-13,Belleza,24495,2211,Camila Contreras,41.0,Concepción,3,52400,
+159,2025-09-01,Belleza,1500,701,Tomás Céspedes,32.0,Concepción,6,109010,965.28
+370,2025-06-21,Juguetes,7804,1644,Fernanda González,41.0,Santiago,6,271025,
+231,2025-02-06,Electrónica,57846,1052,Benjamín Martínez,24.0,Santiago,6,125732,969.47
+179,2025-07-04,Moda,15753,796,Antonia Contreras,43.0,Santiago,4,119994,927.87
+363,2025-11-14,Belleza,8025,1598,Isidora Céspedes,44.0,La Serena,5,151483,925.63
+407,2025-03-16,Moda,7524,1820,Pablo Pérez,18.0,Valparaíso,10,127768,
+386,2025-08-16,Moda,12952,1723,Camila Martínez,19.0,Santiago,7,157740,
+264,2025-02-26,,7501,1184,Antonia Flores,,Santiago,4,114308,940.99
+233,2025-11-08,Hogar,1500,1060,Ana Torres,22.0,Santiago,5,33203,
+122,2025-03-30,Hogar,9118,541,Joaquín Soto,43.0,Valparaíso,5,38376,
+378,2025-12-02,Hogar,14600,1679,Daniela Martínez,23.0,Santiago,9,315431,927.95
+395,2025-10-31,Belleza,21352,1758,Daniela Martínez,46.0,La Serena,2,43305,
+429,2025-07-25,Juguetes,81372,1924,Ana Pérez,57.0,Concepción,5,172902,951.27
+21,2025-05-16,Juguetes,19584,96,Tomás Pérez,39.0,Antofagasta,4,125113,940.25
+225,2025-05-31,Deportes,100550,1021,Daniela Sepúlveda,47.0,Santiago,3,111972,
+126,2025-10-19,Electrónica,4565,564,Vicente Rojas,45.0,Santiago,5,235402,
+195,2026-01-10,Belleza,26113,864,Catalina Céspedes,31.0,Temuco,5,219831,
+336,2025-02-28,Electrónica,11564,1485,Ignacio Martínez,42.0,Valparaíso  ,8,162645,951.21
+421,2025-09-06,Moda,10139,1882,Antonia Torres,22.0,Santiago,6,108194,
+228,2025-10-10,Deportes,25871,1039,Vicente Céspedes,58.0,Santiago,6,438418,948.77
+43,2025-06-12,Moda,5966,207,Daniela Muñoz,40.0,Antofagasta,6,84610,936.36
+85,2026-01-21,Deportes,49933,393,Lucas Pérez,33.0,Temuco,7,344709,
+197,2025-11-05,Alimentos,74406,871,Mateo Martínez,18.0,La Serena,7,245646,945.13
+85,2025-12-03,Electrónica,17245,398,Lucas Pérez,33.0,Temuco,7,344709,925.37
+489,2025-09-07,Juguetes,9336,2179,Fernanda Rojas,34.0,Santiago,10,136926,
+226,2025-04-07,Electrónica,22809,1029,Mateo Céspedes,32.0,Santiago,8,160620,975.82
+336,2025-04-13,Moda,77091,1486,Ignacio Martínez,42.0,Valparaíso  ,8,162645,
+213,2025-08-10,Belleza,11983,961,Fernanda Martínez,40.0,Antofagasta,7,128371,
+356,2025-09-10,Juguetes,7182,1571,Catalina Sepúlveda,35.0,Valparaíso,3,43466,966.35
+424,2025-07-16,Electrónica,15487,1896,Vicente Muñoz,27.0,Valparaíso,6,366268,
+480,2025-11-01,Electrónica,5870,2147,Camila Contreras,63.0,Santiago,8,596687,
+181,2025-04-20,Electrónica,37366,805,Antonia Martínez,30.0,Santiago,5,127936,
+392,2025-10-23,Hogar,13718,1752,Valentina Vergara,,Rancagua,5,125042,950.46
+113,2026-01-24,Belleza,28242,503,Vicente Martínez,52.0,Rancagua,1,27309,
+175,2025-06-22,Hogar,5171,780,Joaquín Silva,,Concepción,4,125233,
+416,2025-05-18,Electrónica,20171,1864,Joaquín Soto,31.0,Rancagua,6,291890,
+42,2025-10-20,Hogar,35812,201,Fernanda González,44.0,Valparaíso,6,100265,960.34
+489,2025-02-17,Belleza,35853,2183,Fernanda Rojas,34.0,Santiago,10,136926,939.54
+469,2025-08-30,Belleza,27821,2089,Valentina Torres,34.0,Valparaíso,3,108446,
+405,2025-02-28,Deportes,11624,1797,Benjamín Soto,45.0,Rancagua,4,64036,951.21
+83,2025-10-24,Deportes,20094,379,Valentina Céspedes,40.0,Santiago,8,184300,945.34
+91,2025-10-20,Belleza,151384,419,Pablo Sepúlveda,40.0,Temuco,2,301945,960.34
+381,2025-05-16,Electrónica,5560,1699,Ana Céspedes,26.0,Santiago,9,445915,940.25
+85,2026-02-02,Hogar,70774,392,Lucas Pérez,33.0,Temuco,7,344709,
+346,2025-02-08,Deportes,36922,1523,Martina González,27.0,Temuco,2,40441,
+259,2025-03-10,Deportes,47494,1163,Valentina Céspedes,41.0,Santiago,6,168625,928.25
+339,2025-07-12,Hogar,23583,1496,Isidora González,18.0,Santiago,4,116915,
+456,2026-01-22,Hogar,41884,2028,Vicente Silva,40.0,Temuco,6,338914,
+256,2025-03-19,Electrónica,39269,1153,Camila Soto,40.0,Santiago,4,147905,917.97
+306,2025-06-10,Deportes,3077,1368,Camila Martínez,31.0,Santiago,4,148466,937.09
+14,2025-06-28,Belleza,1500,65,Fernanda Sepúlveda,41.0,Santiago,5,41234,
+464,2025-04-26,Moda,24616,2063,Pablo Rojas,32.0,SANTIAGO,10,401861,
+263,2025-12-28,Deportes,1500,1181,Martina Flores,42.0,Santiago,6,74895,
+108,2025-06-18,Belleza,135970,493,Joaquín Contreras,24.0,Santiago,7,248703,939.29
+83,2025-02-19,Deportes,27701,380,Valentina Céspedes,40.0,Santiago,8,184300,950.43
+173,2025-11-01,Hogar,29523,764,Fernanda Silva,35.0,Talca,4,98255,
+178,2025-03-19,Deportes,6152,792,Valentina Céspedes,35.0,Valparaíso,1,6430,917.97
+237,2025-12-04,Electrónica,51752,1077,Joaquín Martínez,34.0,Santiago,5,126680,919.46
+199,2025-12-06,Moda,60225,879,Mateo González,25.0,Concepción,1,62082,
+73,2026-02-02,Juguetes,92466,338,Benjamín Rojas,43.0,Valparaíso,7,379422,
+223,2025-10-02,Electrónica,3929,1017,Daniela Sepúlveda,33.0,Santiago,5,69873,959.19
+285,2025-07-31,Belleza,56115,1276,Pablo Soto,53.0,Talca  ,4,188703,978.07
+100,2025-09-30,Moda,28609,456,Camila Silva,22.0,Concepción,3,109044,961.24
+183,2025-07-27,Hogar,18639,816,Benjamín Flores,47.0,Santiago,4,99309,
+219,2025-05-03,Electrónica,3485,996,Pablo Rojas,18.0,Concepción,5,110395,
+442,2026-01-02,Hogar,14836,1982,Mateo Pérez,35.0,ANTOFAGASTA,6,189438,
+42,2025-03-03,Electrónica,37581,202,Fernanda González,44.0,Valparaíso,6,100265,954.22
+33,2025-04-27,Belleza,11674,162,Sofía Muñoz,45.0,Santiago,9,211352,
+359,2025-07-27,Juguetes,24576,1580,Sofía Vergara,47.0,Santiago,7,452801,
+159,2026-01-11,Alimentos,32481,703,Tomás Céspedes,32.0,Concepción,6,109010,
+340,2025-12-14,Deportes,27097,1501,Catalina Torres,23.0,Valparaíso,6,92219,
+252,2025-09-08,Electrónica,40295,1130,Benjamín Muñoz,21.0,Santiago,3,49867,964.58
+225,2025-09-07,Hogar,2909,1022,Daniela Sepúlveda,47.0,Santiago,3,111972,
+360,2025-12-31,Electrónica,12777,1586,Daniela Sepúlveda,95.0,Valparaíso,1,14881,
+438,2025-04-12,Deportes,22597,1956,Antonia Muñoz,28.0,Santiago,4,133895,
+9,2025-07-02,Hogar,20334,35,Isidora Rojas,23.0,Valparaíso,3,76806,926.62
+174,2025-04-24,Moda,19802,776,Daniela Céspedes,56.0,Concepción,9,218391,938.02
+335,2025-02-12,Moda,23738,1479,Benjamín Sepúlveda,18.0,La Serena,2,47623,961.89
+313,2025-03-10,Moda,15239,1391,Camila Vergara,32.0,Talca,4,104924,928.25
+479,2025-07-01,Hogar,6367,2140,Joaquín Díaz,38.0,Valparaíso,7,183710,933.42
+304,2025-11-09,Alimentos,86258,1364,Gabriel Torres,53.0,,6,235779,
+460,2025-05-15,Electrónica,68292,2042,Camila Pérez,45.0,Valparaíso,3,177915,939.43
+51,2025-06-01,Hogar,23207,242,Fernanda Sepúlveda,32.0,Valparaíso,6,65689,
+464,2025-07-15,Electrónica,32342,2062,Pablo Rojas,32.0,SANTIAGO,10,401861,967.22
+136,2025-10-24,Moda,2973,601,Mateo Vergara,42.0,Santiago,3,95853,945.34
+289,2025-04-19,Hogar,4315,1298,Tomás Contreras,27.0,Antofagasta,8,376090,
+498,2025-03-06,Juguetes,8741,2215,Josefa Pérez,47.0,Santiago,3,42892,936.7
+466,2025-09-22,Electrónica,17427,2069,Catalina Silva,,Valparaíso,6,191442,951.03
+145,2025-11-12,Juguetes,37215,647,Catalina Martínez,32.0,Concepción,2,71955,936.89
+347,2025-05-24,Alimentos,5037,1529,Catalina Muñoz,40.0,Santiago,7,271177,
+283,2025-04-03,Electrónica,24413,1268,Joaquín Céspedes,18.0,Valparaíso,6,142983,949.83
+424,2025-12-13,Belleza,123545,1900,Vicente Muñoz,27.0,Valparaíso,6,366268,
+126,2025-08-23,Juguetes,76305,563,Vicente Rojas,45.0,Santiago,5,235402,
+40,2025-11-22,,80889,190,Lucas González,43.0,Antofagasta,7,242135,
+406,2025-10-30,Hogar,1500,1807,Tomás Vergara,40.0,Concepción,13,379598,940.57
+215,2025-04-23,Moda,24384,976,Daniela Torres,45.0,La Serena,8,126845,950.04
+462,2025-05-07,Hogar,31877,2048,Camila Pérez,43.0,SANTIAGO,4,85124,939.67
+238,2025-06-08,Hogar,104687,1083,Pablo Díaz,27.0,Santiago,6,225347,
+105,2025-03-18,Alimentos,9979,475,Fernanda Sepúlveda,22.0,Rancagua,5,135963,923.32
+171,2026-01-14,Juguetes,12657,748,Camila Flores,35.0,Santiago,7,117552,
+6,2026-01-17,Belleza,8093,22,Gabriel Soto,38.0,Antofagasta,4,106510,
+101,2025-03-19,Deportes,19344,460,Ignacio Silva,40.0,Valparaíso  ,5,84892,917.97
+264,2025-03-22,Electrónica,53400,1185,Antonia Flores,,Santiago,4,114308,
+212,2025-06-01,Deportes,1567,956,Daniela Contreras,39.0,Concepción,6,109197,
+272,2025-06-14,Hogar,21746,1216,Ana Flores,42.0,Valparaíso,8,469265,
+344,2026-02-01,Electrónica,9969,1516,Tomás González,21.0,Santiago,4,129467,
+174,2025-07-14,Belleza,60337,770,Daniela Céspedes,56.0,Concepción,9,218391,955.73
+379,2025-07-23,Moda,19101,1686,Josefa Contreras,63.0,Concepción,4,90467,953.4
+28,2025-08-08,Juguetes,47000,131,Ignacio Muñoz,34.0,Talca,7,220161,971.88
+479,2025-03-26,Belleza,2959,2136,Joaquín Díaz,38.0,Valparaíso,7,183710,919.92
+336,2025-05-01,Hogar,15745,1483,Ignacio Martínez,42.0,Valparaíso  ,8,162645,
+70,2025-02-11,Deportes,12555,331,Benjamín Contreras,47.0,Valparaíso,4,31037,960.81
+277,2026-01-07,Hogar,43171,1239,Benjamín Pérez,,Concepción,5,118679,
+102,2025-06-21,Electrónica,42069,467,Valentina Martínez,52.0,La Serena,6,314147,
+487,2025-05-20,Juguetes,45564,2170,Mateo Silva,,Santiago  ,5,557911,936.69
+369,2025-12-29,Moda,12807,1639,Ana Soto,57.0,Santiago,12,131047,904.54
+241,2025-05-03,Deportes,1500,1096,Camila Sepúlveda,24.0,Santiago,4,46769,
+252,2025-08-04,Electrónica,4599,1131,Benjamín Muñoz,21.0,Santiago,3,49867,967.48
+289,2025-05-24,Deportes,51480,1295,Tomás Contreras,27.0,Antofagasta,8,376090,
+195,2025-04-07,Deportes,52105,861,Catalina Céspedes,31.0,Temuco,5,219831,975.82
